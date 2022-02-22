@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rebeccapurple;
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.image{
+    font-size: 2rem;
+    text-align: center;
+    padding: 0;
+}
+
+.image h2{
+    margin: 0;
+}
+
+.image h1{
+    margin: 0;
+}

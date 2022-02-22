@@ -1,1 +1,1 @@
-[](./assets/header.png)
+![Jay Chawla's banner](./assets/header.png)

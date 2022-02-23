@@ -7,3 +7,5 @@
 
 
 [![Updated Badge](https://badges.pufler.dev/updated/chawlajay/chawlajay)](https://github.com/chawlajay/chawlajay)
+
+![Commits Badge](https://badges.pufler.dev/commits/monthly/chawlajay)

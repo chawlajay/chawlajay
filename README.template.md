@@ -5,6 +5,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/chawlajay111/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/chawlajay143)
 
+- - -
+
 ## 📝Github stats
 <a href="https://github.com/chawlajay" style="padding:1rem">
   <img align="center" alt="top languages used" style="margin:2rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chawlajay&hide=php&theme=nightowl" />
@@ -13,14 +15,10 @@
   <img align="center" alt="Jay's GitHub stats" style="margin:2rem" src="https://github-readme-stats.vercel.app/api?username=chawlajay&theme=tokyonight&show_icons=true" />
 </a>
 
-<p style="margin:2rem">
-[![Channel Views](https://img.shields.io/youtube/channel/views/UCW-Wc0jjph3L2dMbGcxj4Yg?style=social)](https://www.youtube.com/c/JayChawla)
-</p>
-  
-<p style="margin:2rem">
-[![Updated Badge](https://badges.pufler.dev/updated/chawlajay/chawlajay)](https://github.com/chawlajay/chawlajay)
-</p>
+- - -
 
-<p style="margin:2rem">
+[![Channel Views](https://img.shields.io/youtube/channel/views/UCW-Wc0jjph3L2dMbGcxj4Yg?style=social)](https://www.youtube.com/c/JayChawla)
+
+[![Updated Badge](https://badges.pufler.dev/updated/chawlajay/chawlajay)](https://github.com/chawlajay/chawlajay)
+
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/chawlajay)
-</p>

@@ -6,9 +6,12 @@
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/chawlajay143)
 
 ## 📝Github stats
-<img align="center" alt="top languages used" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chawlajay&hide=php&theme=nightowl" />
-<img align="center" alt="Jay's GitHub stats" style="margin:1rem" src="https://github-readme-stats.vercel.app/api?username=chawlajay&theme=tokyonight&show_icons=true" />
-
+<a href="https://github.com/chawlajay">
+  <img align="center" alt="top languages used" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chawlajay&hide=php&theme=nightowl" />
+</a>
+<a href="https://github.com/chawlajay">
+  <img align="center" alt="Jay's GitHub stats" style="margin:1rem" src="https://github-readme-stats.vercel.app/api?username=chawlajay&theme=tokyonight&show_icons=true" />
+</a>
 
 [![Channel Views](https://img.shields.io/youtube/channel/views/UCW-Wc0jjph3L2dMbGcxj4Yg?style=social)](https://www.youtube.com/c/JayChawla)
 [![Updated Badge](https://badges.pufler.dev/updated/chawlajay/chawlajay)](https://github.com/chawlajay/chawlajay)

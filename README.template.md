@@ -7,6 +7,8 @@
 
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chawlajay&theme=tokyonight&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chawlajay)
+
 [![Channel Views](https://img.shields.io/youtube/channel/views/UCW-Wc0jjph3L2dMbGcxj4Yg?style=social)](https://www.youtube.com/c/JayChawla)
 [![Updated Badge](https://badges.pufler.dev/updated/chawlajay/chawlajay)](https://github.com/chawlajay/chawlajay)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/chawlajay)

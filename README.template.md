@@ -15,6 +15,12 @@
 
 <p style="margin:2rem">
 [![Channel Views](https://img.shields.io/youtube/channel/views/UCW-Wc0jjph3L2dMbGcxj4Yg?style=social)](https://www.youtube.com/c/JayChawla)
+</p>
+  
+<p style="margin:2rem">
 [![Updated Badge](https://badges.pufler.dev/updated/chawlajay/chawlajay)](https://github.com/chawlajay/chawlajay)
+</p>
+
+<p style="margin:2rem">
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/chawlajay)
 </p>

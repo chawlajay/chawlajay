@@ -15,6 +15,20 @@
   <img align="center" alt="Jay's GitHub stats" style="margin:2rem" src="https://github-readme-stats.vercel.app/api?username=chawlajay&theme=tokyonight&show_icons=true" />
 </a>
 
+## 💼Skills
+***
+![](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+![](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+![](https://img.shields.io/badge/Code-MongoDB-international?style=flat&logo=mongodb&logoColor=violet)
+![](https://img.shields.io/badge/Code-Express-international?style=flat&logo=express&logoColor=violet)
+![](https://img.shields.io/badge/Code-React-international?style=flat&logo=react&logoColor=violet)
+![](https://img.shields.io/badge/Code-Node-international?style=flat&logo=node.js&logoColor=violet)
+
 - - -
 
 [![Channel Views](https://img.shields.io/youtube/channel/views/UCW-Wc0jjph3L2dMbGcxj4Yg?style=social)](https://www.youtube.com/c/JayChawla)

@@ -24,10 +24,10 @@
 ![](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-![](https://img.shields.io/badge/Code-MongoDB-international?style=flat&logo=mongodb&logoColor=violet)
-![](https://img.shields.io/badge/Code-Express-international?style=flat&logo=express&logoColor=violet)
-![](https://img.shields.io/badge/Code-React-international?style=flat&logo=react&logoColor=violet)
-![](https://img.shields.io/badge/Code-Node-international?style=flat&logo=node.js&logoColor=violet)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 - - -
 

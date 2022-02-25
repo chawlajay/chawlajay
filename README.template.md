@@ -14,6 +14,7 @@
 <a href="https://github.com/chawlajay" style="padding:1rem">
   <img align="center" alt="Jay's GitHub stats" style="margin:2rem" src="https://github-readme-stats.vercel.app/api?username=chawlajay&theme=tokyonight&show_icons=true" />
 </a>
+
 ***
 
 ## 💼Skills

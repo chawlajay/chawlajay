@@ -14,9 +14,9 @@
 <a href="https://github.com/chawlajay" style="padding:1rem">
   <img align="center" alt="Jay's GitHub stats" style="margin:2rem" src="https://github-readme-stats.vercel.app/api?username=chawlajay&theme=tokyonight&show_icons=true" />
 </a>
+***
 
 ## 💼Skills
-***
 ![](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 

@@ -30,10 +30,10 @@
 ![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
-## ✨How about a F.R.I.E.N.D.S. quote before you go
-<p>{office_quote}</p>
+## ✨How about an Inspirational quote before you go
+<p>{inspiration_quote}</p>
 
-<p>{office_character}</p>
+<p>{inspiration_author}</p>
 
 Check back at the top of the hour for a new quote!
 

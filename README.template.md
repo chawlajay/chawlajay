@@ -15,7 +15,7 @@
   <img align="center" alt="Jay's GitHub stats" style="margin:2rem" src="https://github-readme-stats.vercel.app/api?username=chawlajay&theme=tokyonight&show_icons=true" />
 </a>
 
-***
+- - -
 
 ## 💼Skills
 ![](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -29,6 +29,13 @@
 ![](https://img.shields.io/badge/Express.js-404D59?style=flat)
 ![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+
+## ✨How about a F.R.I.E.N.D.S. quote before you go
+<p>{office_quote}</p>
+
+<p>{office_character}</p>
+
+Check back at the top of the hour for a new quote!
 
 - - -
 

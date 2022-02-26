@@ -1,0 +1,5 @@
+name: Dynamic README injection
+on: 
+  schedule:
+    - cron: "0 * * * *"
+

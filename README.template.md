@@ -32,8 +32,6 @@
 
 - - -
 
-[![Channel Views](https://img.shields.io/youtube/channel/views/UCW-Wc0jjph3L2dMbGcxj4Yg?style=social)](https://www.youtube.com/c/JayChawla)
-
 [![Updated Badge](https://badges.pufler.dev/updated/chawlajay/chawlajay)](https://github.com/chawlajay/chawlajay)
-
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/chawlajay)
+[![Channel Views](https://img.shields.io/youtube/channel/views/UCW-Wc0jjph3L2dMbGcxj4Yg?style=social)](https://www.youtube.com/c/JayChawla)

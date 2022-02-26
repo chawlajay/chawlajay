@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I want you to be everything that's you, deep at the center of your being.</p>
+> <p>We are all something, but none of us are everything.</p>
 >
-> <p>- Confucius</p>
+> <p>- Blaise Pascal</p>
 
 Check back at the top of the hour for a new quote!
 

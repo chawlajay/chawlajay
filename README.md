@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We are all something, but none of us are everything.</p>
+> <p>Anybody can make history. Only a great man can write it.</p>
 >
-> <p>- Blaise Pascal</p>
+> <p>- Oscar Wilde</p>
 
 Check back at the top of the hour for a new quote!
 

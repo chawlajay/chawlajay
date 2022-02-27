@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Don't judge each day by the harvest you reap but by the seeds that you plant.</p>
+> <p>The only real valuable thing is intuition.</p>
 >
-> <p>- Robert Stevenson</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

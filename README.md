@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If it is not right do not do it; if it is not true do not say it.</p>
+> <p>What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.</p>
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Wayne Dyer</p>
 
 Check back at the top of the hour for a new quote!
 

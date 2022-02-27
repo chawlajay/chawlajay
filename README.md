@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If we are not fully ourselves, truly in the present moment, we miss everything.</p>
+> <p>The most decisive actions of our life... are most often unconsidered actions.</p>
 >
-> <p>- Thich Nhat Hanh</p>
+> <p>- Andre Gide</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I have always thought the actions of men the best interpreters of their thoughts.</p>
+> <p>If it is not right do not do it; if it is not true do not say it.</p>
 >
-> <p>- John Locke</p>
+> <p>- Marcus Aurelius</p>
 
 Check back at the top of the hour for a new quote!
 

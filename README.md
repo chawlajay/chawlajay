@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>And as we let our own light shine, we unconsciously give other people permission to do the same.</p>
+> <p>I allow my intuition to lead my path.</p>
 >
-> <p>- Nelson Mandela</p>
+> <p>- Manuel Puig</p>
 
 Check back at the top of the hour for a new quote!
 

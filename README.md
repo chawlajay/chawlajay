@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The odds of hitting your target go up dramatically when you aim at it.</p>
+> <p>The path to success is to take massive, determined action.</p>
 >
-> <p>- Mal Pancoast</p>
+> <p>- Tony Robbins</p>
 
 Check back at the top of the hour for a new quote!
 

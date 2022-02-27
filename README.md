@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Your worst enemy cannot harm you as much as your own unguarded thoughts.</p>
+> <p>The difficulties of life are intended to make us better, not bitter.</p>
 >
-> <p>- Buddha</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

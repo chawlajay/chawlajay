@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Good actions give strength to ourselves and inspire good actions in others.</p>
+> <p>If we are not fully ourselves, truly in the present moment, we miss everything.</p>
 >
-> <p>- Plato</p>
+> <p>- Thich Nhat Hanh</p>
 
 Check back at the top of the hour for a new quote!
 

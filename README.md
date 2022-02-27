@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The difficulties of life are intended to make us better, not bitter.</p>
+> <p>You must welcome change as the rule but not as your ruler.</p>
 >
-> <p>- null</p>
+> <p>- Denis Waitley</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Self-complacency is fatal to progress.</p>
+> <p>The only Zen you find on the tops of mountains is the Zen you bring up there.</p>
 >
-> <p>- Margaret Sangster</p>
+> <p>- Robert Pirsig</p>
 
 Check back at the top of the hour for a new quote!
 

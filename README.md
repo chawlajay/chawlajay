@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I cannot make my days longer so I strive to make them better.</p>
+> <p>You can do what's reasonable or you can decide what's possible.</p>
 >
-> <p>- Henry David Thoreau</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

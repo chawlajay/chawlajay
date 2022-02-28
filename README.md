@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Treat people as if they were what they ought to be and you help them to become what they are capable of being.</p>
+> <p>It is the greatest of all mistakes to do nothing because you can only do little do what you can.</p>
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Sydney Smith</p>
 
 Check back at the top of the hour for a new quote!
 

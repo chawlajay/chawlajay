@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Though no one can go back and make a brand new start, anyone can start from not and make a brand new ending.</p>
+> <p>If you focus on results, you will never change. If you focus on change, you will get results.</p>
 >
-> <p>- Carl Bard</p>
+> <p>- Jack Dixon</p>
 
 Check back at the top of the hour for a new quote!
 

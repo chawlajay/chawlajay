@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.</p>
+> <p>I walk slowly, but I never walk backward.</p>
 >
-> <p>- Anais Nin</p>
+> <p>- Abraham Lincoln</p>
 
 Check back at the top of the hour for a new quote!
 

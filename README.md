@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>One may say the eternal mystery of the world is its comprehensibility.</p>
+> <p>Treat people as if they were what they ought to be and you help them to become what they are capable of being.</p>
 >
-> <p>- Albert Einstein</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Check back at the top of the hour for a new quote!
 

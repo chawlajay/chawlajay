@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I walk slowly, but I never walk backward.</p>
+> <p>The time you think you're missing, misses you too.</p>
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Ymber Delecto</p>
 
 Check back at the top of the hour for a new quote!
 

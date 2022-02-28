@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The height of your accomplishments will equal the depth of your convictions.</p>
+> <p>The real measure of your wealth is how much youd be worth if you lost all your money.</p>
 >
-> <p>- William Scolavino</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

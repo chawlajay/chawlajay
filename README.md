@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Take heed: you do not find what you do not seek.</p>
+> <p>To be tested is good. The challenged life may be the best therapist.</p>
 >
-> <p>- English proverb</p>
+> <p>- Gail Sheehy</p>
 
 Check back at the top of the hour for a new quote!
 

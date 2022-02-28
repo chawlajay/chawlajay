@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is not enough to have a good mind; the main thing is to use it well.</p>
+> <p>A goal without a plan is just a wish.</p>
 >
-> <p>- Rene Descartes</p>
+> <p>- Larry Elder</p>
 
 Check back at the top of the hour for a new quote!
 

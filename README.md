@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I am not bothered by the fact that I am unknown. I am bothered when I do not know others.</p>
+> <p>The one who always loses, is the only person who gets the reward.</p>
 >
-> <p>- Confucius</p>
+> <p>- Claire Charmont</p>
 
 Check back at the top of the hour for a new quote!
 

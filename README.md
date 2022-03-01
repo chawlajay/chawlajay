@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Time changes everything except something within us which is always surprised by change.</p>
+> <p>If one does not know to which port is sailing, no wind is favorable.</p>
 >
-> <p>- Thomas Hardy</p>
+> <p>- Seneca</p>
 
 Check back at the top of the hour for a new quote!
 

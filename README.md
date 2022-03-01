@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The secret to a rich life is to have more beginnings than endings.</p>
+> <p>Love is the flower you've got to let grow.</p>
 >
-> <p>- Dave Weinbaum</p>
+> <p>- John Lennon</p>
 
 Check back at the top of the hour for a new quote!
 

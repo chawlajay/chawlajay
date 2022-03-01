@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The time you think you're missing, misses you too.</p>
+> <p>The universe is transformation; our life is what our thoughts make it.</p>
 >
-> <p>- Ymber Delecto</p>
+> <p>- Marcus Aurelius</p>
 
 Check back at the top of the hour for a new quote!
 

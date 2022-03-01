@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Who sows virtue reaps honour.</p>
+> <p>No yesterdays are ever wasted for those who give themselves to today.</p>
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Brendan Francis</p>
 
 Check back at the top of the hour for a new quote!
 

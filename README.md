@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Your vision will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.</p>
+> <p>Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.</p>
 >
-> <p>- Carl Jung</p>
+> <p>- Louis Pasteur</p>
 
 Check back at the top of the hour for a new quote!
 

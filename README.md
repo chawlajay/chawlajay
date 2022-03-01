@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There are people who have money and people who are rich.</p>
+> <p>Your vision will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.</p>
 >
-> <p>- Coco Chanel</p>
+> <p>- Carl Jung</p>
 
 Check back at the top of the hour for a new quote!
 

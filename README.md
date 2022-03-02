@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Everything you can imagine is real.</p>
+> <p>Things that were hard to bear are sweet to remember.</p>
 >
-> <p>- Pablo Picasso</p>
+> <p>- Seneca</p>
 
 Check back at the top of the hour for a new quote!
 

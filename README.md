@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</p>
+> <p>Arrogance and rudeness are training wheels on the bicycle of life for weak people who cannot keep their balance without them.</p>
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Laura Teresa Marquez</p>
 
 Check back at the top of the hour for a new quote!
 

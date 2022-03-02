@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Our ability to achieve happiness and success depends on the strength of our wings.</p>
+> <p>Skill to do comes of doing.</p>
 >
-> <p>- Catherine Pulsifer</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

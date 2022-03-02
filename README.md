@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Skill to do comes of doing.</p>
+> <p>Good luck is another name for tenacity of purpose.</p>
 >
 > <p>- Ralph Emerson</p>
 

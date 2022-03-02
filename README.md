@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Things that were hard to bear are sweet to remember.</p>
+> <p>The only difference between your abilities and others is the ability to put yourself in their shoes and actually try.</p>
 >
-> <p>- Seneca</p>
+> <p>- Leonardo Ruiz</p>
 
 Check back at the top of the hour for a new quote!
 

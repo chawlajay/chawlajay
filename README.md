@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To choose what is difficult all ones days, as if it were easy, that is faith.</p>
+> <p>You can't create in a vacuum. Life gives you the material and dreams can propel new beginnings.</p>
 >
-> <p>- W. H. Auden</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The meaning I picked, the one that changed my life: Overcome fear, behold wonder.</p>
+> <p>Until you make peace with who you are, you'll never be content with what you have.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Doris Mortman</p>
 
 Check back at the top of the hour for a new quote!
 

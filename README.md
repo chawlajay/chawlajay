@@ -31,14 +31,13 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is impossible for a man to learn what he thinks he already knows.</p>
+> <p>Why compare yourself with others? No one in the entire world can do a better job of being you than you.</p>
 >
-> <p>- Epictetus</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 
 - - -
 
-[![Updated Badge](https://badges.pufler.dev/updated/chawlajay/chawlajay)](https://github.com/chawlajay/chawlajay)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/chawlajay)
 [![Channel Views](https://img.shields.io/youtube/channel/views/UCW-Wc0jjph3L2dMbGcxj4Yg?style=social)](https://www.youtube.com/c/JayChawla)

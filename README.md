@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The more light you allow within you, the brighter the world you live in will be.</p>
+> <p>Love and compassion open our own inner life, reducing stress, distrust and loneliness.</p>
 >
-> <p>- Shakti Gawain</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

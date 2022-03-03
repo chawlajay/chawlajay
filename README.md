@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Many of life's failures are people who did not realize how close they were to success when they gave up.</p>
+> <p>The person born with a talent they are meant to use will find their greatest happiness in using it.</p>
 >
-> <p>- Thomas Edison</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Check back at the top of the hour for a new quote!
 

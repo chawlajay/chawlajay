@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The person born with a talent they are meant to use will find their greatest happiness in using it.</p>
+> <p>Time is the wisest counsellor of all.</p>
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Pericles</p>
 
 Check back at the top of the hour for a new quote!
 

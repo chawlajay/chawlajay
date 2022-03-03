@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A thing long expected takes the form of the unexpected when at last it comes.</p>
+> <p>Man cannot discover new oceans unless he has the courage to lose sight of the shore.</p>
 >
-> <p>- Mark Twain</p>
+> <p>- Andre Gide</p>
 
 Check back at the top of the hour for a new quote!
 

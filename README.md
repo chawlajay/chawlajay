@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Love and compassion open our own inner life, reducing stress, distrust and loneliness.</p>
+> <p>To see things in the seed, that is genius.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

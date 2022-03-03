@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The world is round and the place which may seem like the end may also be the beginning.</p>
+> <p>There are no limitations to the mind except those we acknowledge.</p>
 >
-> <p>- Ivy Baker Priest</p>
+> <p>- Napoleon Hill</p>
 
 Check back at the top of the hour for a new quote!
 

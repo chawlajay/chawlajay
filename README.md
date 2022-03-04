@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Wisdom is the supreme part of happiness.</p>
+> <p>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</p>
 >
-> <p>- Sophocles</p>
+> <p>- Aristotle</p>
 
 Check back at the top of the hour for a new quote!
 

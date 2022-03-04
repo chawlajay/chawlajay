@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Before you put on a frown, make absolutely sure there are no smiles available.</p>
+> <p>I never see what has been done; I only see what remains to be done.</p>
 >
-> <p>- Jim Beggs</p>
+> <p>- Marie Curie</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception, it is a prevailing attitude.</p>
+> <p>Set your goals high, and don't stop till you get there.</p>
 >
-> <p>- Colin Powell</p>
+> <p>- Bo Jackson</p>
 
 Check back at the top of the hour for a new quote!
 

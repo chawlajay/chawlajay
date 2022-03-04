@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The least of things with a meaning is worth more in life than the greatest of things without it.</p>
+> <p>Every gift from a friend is a wish for your happiness.</p>
 >
-> <p>- Carl Jung</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

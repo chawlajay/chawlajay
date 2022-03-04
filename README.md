@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Every gift from a friend is a wish for your happiness.</p>
+> <p>Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- M. Scott Peck</p>
 
 Check back at the top of the hour for a new quote!
 

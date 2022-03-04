@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is on our failures that we base a new and different and better success.</p>
+> <p>If one is lucky, a solitary fantasy can totally transform one million realities.</p>
 >
-> <p>- Havelock Ellis</p>
+> <p>- Maya Angelou</p>
 
 Check back at the top of the hour for a new quote!
 

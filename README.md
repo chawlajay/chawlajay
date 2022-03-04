@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I don't believe in failure. It's not failure if you enjoyed the process.</p>
+> <p>Wisdom is the supreme part of happiness.</p>
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Sophocles</p>
 
 Check back at the top of the hour for a new quote!
 

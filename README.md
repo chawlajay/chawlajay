@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I never see what has been done; I only see what remains to be done.</p>
+> <p>For success, attitude is equally as important as ability.</p>
 >
-> <p>- Marie Curie</p>
+> <p>- Harry Banks</p>
 
 Check back at the top of the hour for a new quote!
 

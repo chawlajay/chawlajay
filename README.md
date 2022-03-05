@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Having nothing, nothing can he lose.</p>
+> <p>When you learn, teach. When you get, give.</p>
 >
-> <p>- William Shakespeare</p>
+> <p>- Maya Angelou</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Accept challenges, so that you may feel the exhilaration of victory.</p>
+> <p>One may say the eternal mystery of the world is its comprehensibility.</p>
 >
-> <p>- George Patton</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

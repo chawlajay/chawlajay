@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Change in all things is sweet.</p>
+> <p>Nothing is at last sacred but the integrity of your own mind.</p>
 >
-> <p>- Aristotle</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

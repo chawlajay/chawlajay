@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.</p>
+> <p>If you don't like something, change it. If you can't change it, change your attitude.</p>
 >
-> <p>- Napoleon Hill</p>
+> <p>- Maya Angelou</p>
 
 Check back at the top of the hour for a new quote!
 

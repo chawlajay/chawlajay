@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Nothing is at last sacred but the integrity of your own mind.</p>
+> <p>The greatest way to live with honour in this world is to be what we pretend to be.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Socrates</p>
 
 Check back at the top of the hour for a new quote!
 

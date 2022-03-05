@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Everyone can taste success when the going is easy, but few know how to taste victory when times get tough.</p>
+> <p>The world does not happen to you it happens from you.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

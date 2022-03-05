@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Winners have simply formed the habit of doing things losers don't like to do.</p>
+> <p>Argue for your limitations, and sure enough theyre yours.</p>
 >
-> <p>- Albert Gray</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

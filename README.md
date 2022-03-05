@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Risk more than others think is safe. Care more than others think is wise. Dream more than others think is practical.Expect more than others think is possible.</p>
+> <p>Accept challenges, so that you may feel the exhilaration of victory.</p>
 >
-> <p>- Cadet Maxim</p>
+> <p>- George Patton</p>
 
 Check back at the top of the hour for a new quote!
 

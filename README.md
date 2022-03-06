@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It has never been my object to record my dreams, just to realize them.</p>
+> <p>Peace cannot be kept by force. It can only be achieved by understanding.</p>
 >
-> <p>- Man Ray</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

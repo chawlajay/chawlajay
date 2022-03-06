@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The truth which has made us free will in the end make us glad also.</p>
+> <p>Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.</p>
 >
-> <p>- Felix Adler</p>
+> <p>- Arthur Conan Doyle</p>
 
 Check back at the top of the hour for a new quote!
 

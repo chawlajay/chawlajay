@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Don't cry because it's over. Smile because it happened.</p>
+> <p>What we achieve inwardly will change outer reality.</p>
 >
-> <p>- Dr. Seuss</p>
+> <p>- Plutarch</p>
 
 Check back at the top of the hour for a new quote!
 

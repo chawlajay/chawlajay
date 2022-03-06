@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigour of the mind.</p>
+> <p>Silence is the true friend that never betrays.</p>
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

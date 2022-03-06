@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Peace cannot be kept by force. It can only be achieved by understanding.</p>
+> <p>To accomplish great things, we must dream as well as act.</p>
 >
-> <p>- Albert Einstein</p>
+> <p>- Anatole France</p>
 
 Check back at the top of the hour for a new quote!
 

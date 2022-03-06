@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is in your moments of decision that your destiny is shaped.</p>
+> <p>The minute you settle for less than you deserve, you get even less than you settled for.</p>
 >
-> <p>- Tony Robbins</p>
+> <p>- Maureen Dowd</p>
 
 Check back at the top of the hour for a new quote!
 

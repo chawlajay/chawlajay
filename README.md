@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>What we achieve inwardly will change outer reality.</p>
+> <p>Great acts are made up of small deeds.</p>
 >
-> <p>- Plutarch</p>
+> <p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

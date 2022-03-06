@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The minute you settle for less than you deserve, you get even less than you settled for.</p>
+> <p>The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.</p>
 >
-> <p>- Maureen Dowd</p>
+> <p>- Henry Thoreau</p>
 
 Check back at the top of the hour for a new quote!
 

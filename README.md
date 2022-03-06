@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.</p>
+> <p>It is in your moments of decision that your destiny is shaped.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Tony Robbins</p>
 
 Check back at the top of the hour for a new quote!
 

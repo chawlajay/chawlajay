@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Great acts are made up of small deeds.</p>
+> <p>Sooner or later, those who win are those who think they can.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

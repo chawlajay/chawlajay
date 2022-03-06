@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.</p>
+> <p>Talk doesn't cook rice.</p>
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Chinese proverb</p>
 
 Check back at the top of the hour for a new quote!
 

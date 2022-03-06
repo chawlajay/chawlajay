@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I believe that we are fundamentally the same and have the same basic potential.</p>
+> <p>It has never been my object to record my dreams, just to realize them.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Man Ray</p>
 
 Check back at the top of the hour for a new quote!
 

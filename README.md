@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Your outlook on life is a direct reflection on how much you like yourself.</p>
+> <p>The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.</p>
 >
-> <p>- Lululemon</p>
+> <p>- Pierre Abelard</p>
 
 Check back at the top of the hour for a new quote!
 

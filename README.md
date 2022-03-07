@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.</p>
+> <p>There is no scarcity of opportunity to make a living at what you love; theres only scarcity of resolve to make it happen.</p>
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Wayne Dyer</p>
 
 Check back at the top of the hour for a new quote!
 

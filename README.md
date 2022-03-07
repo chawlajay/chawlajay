@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.</p>
+> <p>Joy is the best makeup.</p>
 >
-> <p>- Jessamyn West</p>
+> <p>- Anne Lamott</p>
 
 Check back at the top of the hour for a new quote!
 

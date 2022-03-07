@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Imagination is the living power and prime agent of all human perception.</p>
+> <p>The greatest mistake you can make in life is to be continually fearing you will make one.</p>
 >
-> <p>- Samuel Taylor Coleridge</p>
+> <p>- Elbert Hubbard</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Try not to become a man of success but rather try to become a man of value.</p>
+> <p>It's important to know that words don't move mountains. Work, exacting work moves mountains.</p>
 >
-> <p>- Albert Einstein</p>
+> <p>- Danilo Dolci</p>
 
 Check back at the top of the hour for a new quote!
 

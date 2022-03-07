@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Joy is the best makeup.</p>
+> <p>The least movement is of importance to all nature. The entire ocean is affected by a pebble.</p>
 >
-> <p>- Anne Lamott</p>
+> <p>- Blaise Pascal</p>
 
 Check back at the top of the hour for a new quote!
 

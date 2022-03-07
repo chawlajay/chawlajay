@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>In the depth of winter, I finally learned that there was within me an invincible summer.</p>
+> <p>Respect is not something that you can ask for, buy or borrow. Respect is what you earn from each person no matter their background or status.</p>
 >
-> <p>- Albert Camus</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

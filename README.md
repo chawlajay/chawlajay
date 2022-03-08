@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The greatest mistake you can make in life is to be continually fearing you will make one.</p>
+> <p>You have power over your mind not outside events. Realize this, and you will find strength.</p>
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Marcus Aurelius</p>
 
 Check back at the top of the hour for a new quote!
 

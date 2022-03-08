@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Love vanquishes time. To lovers, a moment can be eternity, eternity can be the tick of a clock.</p>
+> <p>Many people think of prosperity that concerns money only to forget that true prosperity is of the mind.</p>
 >
-> <p>- Mary Parrish</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.</p>
+> <p>Everyone has been made for some particular work, and the desire for that work has been put in every heart.</p>
 >
-> <p>- Julie Morgenstern</p>
+> <p>- Rumi</p>
 
 Check back at the top of the hour for a new quote!
 

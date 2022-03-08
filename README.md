@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Everyone has been made for some particular work, and the desire for that work has been put in every heart.</p>
+> <p>Accept challenges, so that you may feel the exhilaration of victory.</p>
 >
-> <p>- Rumi</p>
+> <p>- George Patton</p>
 
 Check back at the top of the hour for a new quote!
 

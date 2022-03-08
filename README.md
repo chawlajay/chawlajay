@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Slow down and enjoy life. It's not only the scenery you miss by going too fast you also miss the sense of where you are going and why.</p>
+> <p>Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.</p>
 >
-> <p>- Eddie Cantor</p>
+> <p>- Julie Morgenstern</p>
 
 Check back at the top of the hour for a new quote!
 

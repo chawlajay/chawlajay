@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>One who is too insistent on his own views, finds few to agree with him.</p>
+> <p>Everything has beauty, but not everyone sees it.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

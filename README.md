@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You have power over your mind not outside events. Realize this, and you will find strength.</p>
+> <p>Be like the flower, turn your face to the sun.</p>
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Kahlil Gibran</p>
 
 Check back at the top of the hour for a new quote!
 

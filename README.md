@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.</p>
+> <p>The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.</p>
 >
-> <p>- Paavo Nurmi</p>
+> <p>- Charles Lamb</p>
 
 Check back at the top of the hour for a new quote!
 

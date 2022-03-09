@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.</p>
+> <p>The self is not something ready-made, but something in continuous formation through choice of action.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- John Dewey</p>
 
 Check back at the top of the hour for a new quote!
 

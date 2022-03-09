@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Keep silence for the most part, and speak only when you must, and then briefly.</p>
+> <p>The truth which has made us free will in the end make us glad also.</p>
 >
-> <p>- Epictetus</p>
+> <p>- Felix Adler</p>
 
 Check back at the top of the hour for a new quote!
 

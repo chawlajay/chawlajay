@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.</p>
+> <p>Many people have gone further than they thought they could because someone else thought they could.</p>
 >
-> <p>- Alphonse Karr</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The only limit to your impact is your imagination and commitment.</p>
+> <p>There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.</p>
 >
-> <p>- Tony Robbins</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

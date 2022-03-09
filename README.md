@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The only limit to our realization of tomorrow will be our doubts of today.</p>
+> <p>See the positive side, the potential, and make an effort.</p>
 >
-> <p>- Franklin Roosevelt</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.</p>
+> <p>Either I will find a way, or I will make one.</p>
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Philip Sidney</p>
 
 Check back at the top of the hour for a new quote!
 

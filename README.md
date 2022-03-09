@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>See the positive side, the potential, and make an effort.</p>
+> <p>If you do not change direction, you may end up where you are heading.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

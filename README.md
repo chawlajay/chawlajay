@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To be beautiful means to be yourself. You do not need to be accepted by others. You need to accept yourself.</p>
+> <p>A life spent making mistakes is not only more honourable but more useful than a life spent in doing nothing.</p>
 >
-> <p>- Thich Nhat Hanh</p>
+> <p>- Bernard Shaw</p>
 
 Check back at the top of the hour for a new quote!
 

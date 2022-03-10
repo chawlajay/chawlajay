@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When I let go of what I am, I become what I might be.</p>
+> <p>Whenever something negative happens to you, there is a deep lesson concealed within it.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Eckhart Tolle</p>
 
 Check back at the top of the hour for a new quote!
 

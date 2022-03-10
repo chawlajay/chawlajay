@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>As we grow as unique persons, we learn to respect the uniqueness of others.</p>
+> <p>We are all inclined to judge ourselves by our ideals; others, by their acts.</p>
 >
-> <p>- Robert Schuller</p>
+> <p>- Harold Nicolson</p>
 
 Check back at the top of the hour for a new quote!
 

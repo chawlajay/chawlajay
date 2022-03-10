@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You really can change the world if you care enough.</p>
+> <p>When I let go of what I am, I become what I might be.</p>
 >
-> <p>- Marian Edelman</p>
+> <p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The universe is transformation; our life is what our thoughts make it.</p>
+> <p>When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.</p>
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

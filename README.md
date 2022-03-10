@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We are all inclined to judge ourselves by our ideals; others, by their acts.</p>
+> <p>Make the most of yourself for that is all there is of you.</p>
 >
-> <p>- Harold Nicolson</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

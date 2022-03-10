@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.</p>
+> <p>It is surprising what a man can do when he has to, and how little most men will do when they don't have to.</p>
 >
-> <p>- Confucius</p>
+> <p>- Walter Linn</p>
 
 Check back at the top of the hour for a new quote!
 

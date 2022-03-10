@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Love is the master key that opens the gates of happiness.</p>
+> <p>The universe is transformation; our life is what our thoughts make it.</p>
 >
-> <p>- Oliver Holmes</p>
+> <p>- Marcus Aurelius</p>
 
 Check back at the top of the hour for a new quote!
 

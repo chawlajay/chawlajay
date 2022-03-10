@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Whenever something negative happens to you, there is a deep lesson concealed within it.</p>
+> <p>You were not born a winner, and you were not born a loser. You are what you make yourself be.</p>
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Lou Holtz</p>
 
 Check back at the top of the hour for a new quote!
 

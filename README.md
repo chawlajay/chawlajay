@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.</p>
+> <p>Love is the master key that opens the gates of happiness.</p>
 >
-> <p>- Rumi</p>
+> <p>- Oliver Holmes</p>
 
 Check back at the top of the hour for a new quote!
 

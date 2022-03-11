@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The mind is everything. What you think you become.</p>
+> <p>Someone remembers, someone cares; your name is whispered in someone's prayers.</p>
 >
-> <p>- Buddha</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

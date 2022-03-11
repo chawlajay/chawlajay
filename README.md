@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Someone remembers, someone cares; your name is whispered in someone's prayers.</p>
+> <p>Giving up doesn't always mean you are weak; sometimes it means that you are strong enough to let go.</p>
 >
 > <p>- null</p>
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Silence is a source of great strength.</p>
+> <p>If you have no respect for your own values how can you be worthy of respect from others.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

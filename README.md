@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.</p>
+> <p>The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be.</p>
 >
-> <p>- Denis Waitley</p>
+> <p>- William James</p>
 
 Check back at the top of the hour for a new quote!
 

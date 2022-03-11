@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Be the change that you want to see in the world.</p>
+> <p>When people are like each other they tend to like each other.</p>
 >
-> <p>- Mohandas Gandhi</p>
+> <p>- Tony Robbins</p>
 
 Check back at the top of the hour for a new quote!
 

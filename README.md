@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.</p>
+> <p>If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own.</p>
 >
-> <p>- Henry Reed</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Check back at the top of the hour for a new quote!
 

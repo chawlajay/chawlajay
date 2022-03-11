@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you have no respect for your own values how can you be worthy of respect from others.</p>
+> <p>When you realize how perfect everything is you will tilt your head back and laugh at the sky.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

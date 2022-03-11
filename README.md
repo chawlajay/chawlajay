@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own.</p>
+> <p>All children are artists. The problem is how to remain an artist once he grows up.</p>
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Pablo Picasso</p>
 
 Check back at the top of the hour for a new quote!
 

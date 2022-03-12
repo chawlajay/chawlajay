@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You can stand tall without standing on someone. You can be a victor without having victims.</p>
+> <p>Do what you can. Want what you have. Be who you are.</p>
 >
-> <p>- Harriet Woods</p>
+> <p>- Forrest Church</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Don't think of it as failure. Think of it as time-released success.</p>
+> <p>We shall never know all the good that a simple smile can do.</p>
 >
-> <p>- Robert Orben</p>
+> <p>- Mother Teresa</p>
 
 Check back at the top of the hour for a new quote!
 

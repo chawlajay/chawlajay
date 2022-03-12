@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.</p>
+> <p>If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others.</p>
 >
-> <p>- Isaac Asimov</p>
+> <p>- Anne Lindbergh</p>
 
 Check back at the top of the hour for a new quote!
 

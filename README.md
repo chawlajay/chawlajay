@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Knowing is not enough; we must apply!</p>
+> <p>The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.</p>
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Thomas Edison</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Experience is not what happens to a man. It is what a man does with what happens to him.</p>
+> <p>Dreams come true. Without that possibility, nature would not incite us to have them.</p>
 >
-> <p>- Aldous Huxley</p>
+> <p>- John Updike</p>
 
 Check back at the top of the hour for a new quote!
 

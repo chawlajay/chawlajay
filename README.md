@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.</p>
+> <p>A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Chuck Norris</p>
 
 Check back at the top of the hour for a new quote!
 

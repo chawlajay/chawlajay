@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>At the center of your being you have the answer; you know who you are and you know what you want.</p>
+> <p>The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.</p>
 >
 > <p>- Lao Tzu</p>
 

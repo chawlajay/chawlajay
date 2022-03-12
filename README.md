@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Dreams come true. Without that possibility, nature would not incite us to have them.</p>
+> <p>A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.</p>
 >
-> <p>- John Updike</p>
+> <p>- Isaac Asimov</p>
 
 Check back at the top of the hour for a new quote!
 

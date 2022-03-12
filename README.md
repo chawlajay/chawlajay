@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I've never seen a smiling face that was not beautiful.</p>
+> <p>The best way to predict your future is to create it.</p>
 >
-> <p>- null</p>
+> <p>- Peter Drucker</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.</p>
+> <p>Progress always involves risks. You can't steal second base and keep your foot on first.</p>
 >
-> <p>- Mahummad Ali</p>
+> <p>- Frederick Wilcox</p>
 
 Check back at the top of the hour for a new quote!
 

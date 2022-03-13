@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The more you care, the stronger you can be.</p>
+> <p>The only person who never makes mistakes is the person who never does anything.</p>
 >
-> <p>- Jim Rohn</p>
+> <p>- Denis Waitley</p>
 
 Check back at the top of the hour for a new quote!
 

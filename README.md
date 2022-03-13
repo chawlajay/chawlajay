@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The only person who never makes mistakes is the person who never does anything.</p>
+> <p>The winds and waves are always on the side of the ablest navigators.</p>
 >
-> <p>- Denis Waitley</p>
+> <p>- Edward Gibbon</p>
 
 Check back at the top of the hour for a new quote!
 

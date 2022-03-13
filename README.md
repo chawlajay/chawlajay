@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Follow your instincts. That is where true wisdom manifests itself.</p>
+> <p>It is the mark of an educated mind to be able to entertain a thought without accepting it.</p>
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Aristotle</p>
 
 Check back at the top of the hour for a new quote!
 

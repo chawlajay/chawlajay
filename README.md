@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The meaning I picked, the one that changed my life: Overcome fear, behold wonder.</p>
+> <p>You may be deceived if you trust too much, but you will live in torment if you don't trust enough.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Frank Crane</p>
 
 Check back at the top of the hour for a new quote!
 

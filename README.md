@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Joy is the best makeup.</p>
+> <p>Always be mindful of the kindness and not the faults of others.</p>
 >
-> <p>- Anne Lamott</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

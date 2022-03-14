@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Truth isn't all about what actually happens but more about how what has happened is interpreted.</p>
+> <p>Don't judge each day by the harvest you reap but by the seeds you plant.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Robert Stevenson</p>
 
 Check back at the top of the hour for a new quote!
 

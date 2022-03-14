@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Life is the flower for which love is the honey.</p>
+> <p>As we risk ourselves, we grow. Each new experience is a risk.</p>
 >
-> <p>- Victor Hugo</p>
+> <p>- Fran Watson</p>
 
 Check back at the top of the hour for a new quote!
 

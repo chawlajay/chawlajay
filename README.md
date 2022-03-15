@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>One faces the future with ones past.</p>
+> <p>Joy is what happens to us when we allow ourselves to recognize how good things really are.</p>
 >
-> <p>- Pearl Buck</p>
+> <p>- Marianne Williamson</p>
 
 Check back at the top of the hour for a new quote!
 

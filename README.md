@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To succeed, we must first believe that we can.</p>
+> <p>It is easier to live through someone else than to become complete yourself.</p>
 >
-> <p>- Michael Korda</p>
+> <p>- Betty Friedan</p>
 
 Check back at the top of the hour for a new quote!
 

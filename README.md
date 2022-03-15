@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.</p>
+> <p>All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.</p>
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Albert Camus</p>
 
 Check back at the top of the hour for a new quote!
 

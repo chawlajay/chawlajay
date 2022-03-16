@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Your body is precious. It is our vehicle for awakening. Treat it with care.</p>
+> <p>The future is completely open, and we are writing it moment to moment.</p>
 >
-> <p>- Buddha</p>
+> <p>- Pema Chodron</p>
 
 Check back at the top of the hour for a new quote!
 

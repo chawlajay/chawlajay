@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
+> <p>To forgive is to set a prisoner free and realize that prisoner was you.</p>
 >
-> <p>- Les Brown</p>
+> <p>- Lewis B. Smedes</p>
 
 Check back at the top of the hour for a new quote!
 

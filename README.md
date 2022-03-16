@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Until you make peace with who you are, you'll never be content with what you have.</p>
+> <p>When you doubt your power, you give power to your doubt.</p>
 >
-> <p>- Doris Mortman</p>
+> <p>- Honore de Balzac</p>
 
 Check back at the top of the hour for a new quote!
 

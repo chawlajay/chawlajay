@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To forgive is to set a prisoner free and realize that prisoner was you.</p>
+> <p>You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.</p>
 >
-> <p>- Lewis B. Smedes</p>
+> <p>- Caroline Myss</p>
 
 Check back at the top of the hour for a new quote!
 

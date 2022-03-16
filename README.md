@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You have to think anyway, so why not think big?</p>
+> <p>Remember always that you not only have the right to be an individual, you have an obligation to be one.</p>
 >
-> <p>- Donald Trump</p>
+> <p>- Eleanor Roosevelt</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.</p>
+> <p>I cannot make my days longer so I strive to make them better.</p>
 >
-> <p>- Caroline Myss</p>
+> <p>- Henry David Thoreau</p>
 
 Check back at the top of the hour for a new quote!
 

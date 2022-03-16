@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Who looks outside, dreams; who looks inside, awakes.</p>
+> <p>Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.</p>
 >
-> <p>- Carl Jung</p>
+> <p>- Melody Beattie</p>
 
 Check back at the top of the hour for a new quote!
 

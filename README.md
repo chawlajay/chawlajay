@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>My reputation grows with every failure.</p>
+> <p>Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.</p>
 >
-> <p>- George Shaw</p>
+> <p>- Henry James</p>
 
 Check back at the top of the hour for a new quote!
 

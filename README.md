@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Every man is a volume if you know how to read him.</p>
+> <p>Never mistake activity for achievement.</p>
 >
-> <p>- Channing</p>
+> <p>- John Wooden</p>
 
 Check back at the top of the hour for a new quote!
 

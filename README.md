@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.</p>
+> <p>In all things of nature there is something of the marvellous.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Aristotle</p>
 
 Check back at the top of the hour for a new quote!
 

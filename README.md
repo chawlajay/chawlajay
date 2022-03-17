@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We must become the change we want to see.</p>
+> <p>Learning without reflection is a waste, reflection without learning is dangerous.</p>
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

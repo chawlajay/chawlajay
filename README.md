@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I have no special talent. I am only passionately curious.</p>
+> <p>Every man is a volume if you know how to read him.</p>
 >
-> <p>- Albert Einstein</p>
+> <p>- Channing</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>As our case is new, we must think and act anew.</p>
+> <p>We must become the change we want to see.</p>
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Mahatma Gandhi</p>
 
 Check back at the top of the hour for a new quote!
 

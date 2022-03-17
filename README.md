@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
+> <p>Kind words can be short and easy to speak, but their echoes are truly endless.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Mother Teresa</p>
 
 Check back at the top of the hour for a new quote!
 

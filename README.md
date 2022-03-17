@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I know but one freedom and that is the freedom of the mind.</p>
+> <p>Opportunity is missed by most because it is dressed in overalls and looks like work.</p>
 >
-> <p>- Antoine de Saint-Exupery</p>
+> <p>- Thomas Edison</p>
 
 Check back at the top of the hour for a new quote!
 

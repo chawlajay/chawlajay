@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Learning without reflection is a waste, reflection without learning is dangerous.</p>
+> <p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
 >
-> <p>- Confucius</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

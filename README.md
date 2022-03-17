@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>So is cheerfulness, or a good temper, the more it is spent, the more remains.</p>
+> <p>As our case is new, we must think and act anew.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Abraham Lincoln</p>
 
 Check back at the top of the hour for a new quote!
 

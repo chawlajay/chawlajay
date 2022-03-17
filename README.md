@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.</p>
+> <p>I think and that is all that I am.</p>
 >
-> <p>- Henry James</p>
+> <p>- Wayne Dyer</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Those who will play with cats must expect to be scratched.</p>
+> <p>I am a man of fixed and unbending principles, the first of which is to be flexible at all times.</p>
 >
-> <p>- Cervantes</p>
+> <p>- Everett Dirksen</p>
 
 Check back at the top of the hour for a new quote!
 

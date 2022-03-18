@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.</p>
+> <p>Why worry about tomorrow, when today is all we have?</p>
 >
-> <p>- Margaret Mead</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

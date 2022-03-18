@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The exercise of an extraordinary gift is the supremest pleasure in life.</p>
+> <p>Everything that happens happens as it should, and if you observe carefully, you will find this to be so.</p>
 >
-> <p>- Mark Twain</p>
+> <p>- Marcus Aurelius</p>
 
 Check back at the top of the hour for a new quote!
 

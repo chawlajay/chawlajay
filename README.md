@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.</p>
+> <p>To speak gratitude is courteous and pleasant, to enact gratitude is generous and noble, but to live gratitude is to touch Heaven.</p>
 >
-> <p>- Robert Graves</p>
+> <p>- Johannes Gaertner</p>
 
 Check back at the top of the hour for a new quote!
 

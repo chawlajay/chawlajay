@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The steeper the mountain the harder the climb the better the view from the finishing line</p>
+> <p>Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.</p>
 >
-> <p>- null</p>
+> <p>- Margaret Mead</p>
 
 Check back at the top of the hour for a new quote!
 

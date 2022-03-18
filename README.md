@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You need chaos in your soul to give birth to a dancing star.</p>
+> <p>The steeper the mountain the harder the climb the better the view from the finishing line</p>
 >
-> <p>- Nietzsche</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

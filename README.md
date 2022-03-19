@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You'll see it when you believe it.</p>
+> <p>To know your purpose is to live a life of direction, and in that direction is found peace and tranquillity.</p>
 >
-> <p>- Wayne Dyer</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

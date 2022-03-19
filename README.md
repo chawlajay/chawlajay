@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Silence is a true friend who never betrays.</p>
+> <p>A man should look for what is, and not for what he thinks should be.</p>
 >
-> <p>- Confucius</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

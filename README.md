@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>In skating over thin ice our safety is in our speed.</p>
+> <p>The difference between what we do and what we are capable of doing would suffice to solve most of the worlds problems.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Mohandas Gandhi</p>
 
 Check back at the top of the hour for a new quote!
 

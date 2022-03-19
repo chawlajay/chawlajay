@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A man should look for what is, and not for what he thinks should be.</p>
+> <p>We must never forget that it is through our actions, words, and thoughts that we have a choice.</p>
 >
-> <p>- Albert Einstein</p>
+> <p>- Sogyal Rinpoche</p>
 
 Check back at the top of the hour for a new quote!
 

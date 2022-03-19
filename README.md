@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>See the positive side, the potential, and make an effort.</p>
+> <p>The pain passes, but the beauty remains.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Pierre Auguste Renoir</p>
 
 Check back at the top of the hour for a new quote!
 

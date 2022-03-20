@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Every problem has a gift for you in its hands.</p>
+> <p>Follow your instincts. That is where true wisdom manifests itself.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Oprah Winfrey</p>
 
 Check back at the top of the hour for a new quote!
 

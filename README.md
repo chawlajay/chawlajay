@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The Superior Man is aware of Righteousness, the inferior man is aware of advantage.</p>
+> <p>Experience is not what happens to a man. It is what a man does with what happens to him.</p>
 >
-> <p>- Confucius</p>
+> <p>- Aldous Huxley</p>
 
 Check back at the top of the hour for a new quote!
 

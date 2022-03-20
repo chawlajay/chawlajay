@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Lose an hour in the morning, and you will spend all day looking for it.</p>
+> <p>Everyone is a genius at least once a year. A real genius has his original ideas closer together.</p>
 >
-> <p>- Richard Whately</p>
+> <p>- Georg Lichtenberg</p>
 
 Check back at the top of the hour for a new quote!
 

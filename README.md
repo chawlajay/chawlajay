@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>What you do not want done to yourself, do not do to others.</p>
+> <p>Lose an hour in the morning, and you will spend all day looking for it.</p>
 >
-> <p>- Confucius</p>
+> <p>- Richard Whately</p>
 
 Check back at the top of the hour for a new quote!
 

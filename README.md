@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Everyone is a genius at least once a year. A real genius has his original ideas closer together.</p>
+> <p>Time is the wisest counsellor of all.</p>
 >
-> <p>- Georg Lichtenberg</p>
+> <p>- Pericles</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Begin at once to live and count each separate day as a separate life.</p>
+> <p>Always be smarter than the people who hire you.</p>
 >
-> <p>- Seneca</p>
+> <p>- Lena Horne</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The longer we dwell on our misfortunes, the greater is their power to harm us.</p>
+> <p>True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.</p>
 >
-> <p>- Voltaire</p>
+> <p>- Daisaku Ikeda</p>
 
 Check back at the top of the hour for a new quote!
 

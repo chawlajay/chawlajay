@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Follow your instincts. That is where true wisdom manifests itself.</p>
+> <p>It is not fair to ask of others what you are unwilling to do yourself.</p>
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Eleanor Roosevelt</p>
 
 Check back at the top of the hour for a new quote!
 

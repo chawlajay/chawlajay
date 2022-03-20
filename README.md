@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.</p>
+> <p>If we could see the miracle of a single flower clearly, our whole life would change.</p>
 >
-> <p>- null</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

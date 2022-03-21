@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Kind words can be short and easy to speak but their echoes are truly endless.</p>
+> <p>Your sacred space is where you can find yourself again and again.</p>
 >
-> <p>- Mother Teresa</p>
+> <p>- Joseph Campbell</p>
 
 Check back at the top of the hour for a new quote!
 

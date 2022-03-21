@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.</p>
+> <p>A short saying often contains much wisdom.</p>
 >
-> <p>- Peter Drucker</p>
+> <p>- Sophocles</p>
 
 Check back at the top of the hour for a new quote!
 

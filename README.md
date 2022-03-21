@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Your sacred space is where you can find yourself again and again.</p>
+> <p>Smile, breathe, and go slowly.</p>
 >
-> <p>- Joseph Campbell</p>
+> <p>- Thich Nhat Hanh</p>
 
 Check back at the top of the hour for a new quote!
 

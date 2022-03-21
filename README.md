@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.</p>
+> <p>Everything that irritates us about others can lead us to an understanding of ourselves.</p>
 >
-> <p>- Charles A. Lindbergh</p>
+> <p>- Carl Jung</p>
 
 Check back at the top of the hour for a new quote!
 

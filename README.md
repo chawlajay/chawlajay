@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A person who never made a mistake never tried anything new.</p>
+> <p>The way is not in the sky. The way is in the heart.</p>
 >
-> <p>- Albert Einstein</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

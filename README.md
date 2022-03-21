@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Don't talk about what you have done or what you are going to do.</p>
+> <p>Kind words can be short and easy to speak but their echoes are truly endless.</p>
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Mother Teresa</p>
 
 Check back at the top of the hour for a new quote!
 

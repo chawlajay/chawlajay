@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.</p>
+> <p>The highest stage in moral ure at which we can arrive is when we recognize that we ought to control our thoughts.</p>
 >
-> <p>- John F. Kennedy</p>
+> <p>- Charles Darwin</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Just as much as we see in others we have in ourselves.</p>
+> <p>The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.</p>
 >
-> <p>- William Hazlitt</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

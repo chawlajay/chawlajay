@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The highest stage in moral ure at which we can arrive is when we recognize that we ought to control our thoughts.</p>
+> <p>To avoid criticism, do nothing, say nothing, be nothing.</p>
 >
-> <p>- Charles Darwin</p>
+> <p>- Elbert Hubbard</p>
 
 Check back at the top of the hour for a new quote!
 

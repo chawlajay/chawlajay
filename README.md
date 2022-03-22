@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The world is but a canvas to the imagination.</p>
+> <p>Time you enjoy wasting, was not wasted.</p>
 >
-> <p>- Henry Thoreau</p>
+> <p>- John Lennon</p>
 
 Check back at the top of the hour for a new quote!
 

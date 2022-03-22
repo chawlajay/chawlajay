@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>As an organizer I start from where the world is, as it is, not as I would like it to be.</p>
+> <p>Just as much as we see in others we have in ourselves.</p>
 >
-> <p>- Saul Alinsky</p>
+> <p>- William Hazlitt</p>
 
 Check back at the top of the hour for a new quote!
 

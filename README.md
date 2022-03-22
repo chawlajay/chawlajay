@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Nothing in life is to be feared. It is only to be understood.</p>
+> <p>Gratitude is not only the greatest of virtues, but the paren't of all the others.</p>
 >
-> <p>- Marie Curie</p>
+> <p>- Cicero</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
+> <p>Don't frown because you never know who is falling in love with your smile.</p>
 >
-> <p>- Les Brown</p>
+> <p>- Sinvyest Tan</p>
 
 Check back at the top of the hour for a new quote!
 

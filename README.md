@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We read the world wrong and say that it deceives us.</p>
+> <p>When anger use your energy to do something productive.</p>
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- C. Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

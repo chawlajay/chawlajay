@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Don't frown because you never know who is falling in love with your smile.</p>
+> <p>We read the world wrong and say that it deceives us.</p>
 >
-> <p>- Sinvyest Tan</p>
+> <p>- Rabindranath Tagore</p>
 
 Check back at the top of the hour for a new quote!
 

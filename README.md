@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience.</p>
+> <p>To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Tenzin Gyatso</p>
 
 Check back at the top of the hour for a new quote!
 

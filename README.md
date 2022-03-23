@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Well begun is half done.</p>
+> <p>When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.</p>
 >
-> <p>- Aristotle</p>
+> <p>- Epictetus</p>
 
 Check back at the top of the hour for a new quote!
 

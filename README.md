@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Our ability to achieve happiness and success depends on the strength of our wings.</p>
+> <p>It's so simple to be wise. Just think of something stupid to say and then don't say it.</p>
 >
-> <p>- Catherine Pulsifer</p>
+> <p>- Sam Levenson</p>
 
 Check back at the top of the hour for a new quote!
 

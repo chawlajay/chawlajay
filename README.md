@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.</p>
+> <p>The more light you allow within you, the brighter the world you live in will be.</p>
 >
-> <p>- Carlos Castaneda</p>
+> <p>- Shakti Gawain</p>
 
 Check back at the top of the hour for a new quote!
 

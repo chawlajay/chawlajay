@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.</p>
+> <p>Well begun is half done.</p>
 >
-> <p>- Wayne Dyer</p>
+> <p>- Aristotle</p>
 
 Check back at the top of the hour for a new quote!
 

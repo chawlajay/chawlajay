@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Nothing great was ever achieved without enthusiasm.</p>
+> <p>The truth of the matter is that you always know the right thing to do. The hard part is doing it.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Norman Schwarzkopf</p>
 
 Check back at the top of the hour for a new quote!
 

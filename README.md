@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It's so simple to be wise. Just think of something stupid to say and then don't say it.</p>
+> <p>If it is not right do not do it; if it is not true do not say it.</p>
 >
-> <p>- Sam Levenson</p>
+> <p>- Marcus Aurelius</p>
 
 Check back at the top of the hour for a new quote!
 

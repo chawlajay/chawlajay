@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Efficiency is doing things right; effectiveness is doing the right things.</p>
+> <p>There are no failures just experiences and your reactions to them.</p>
 >
-> <p>- Peter Drucker</p>
+> <p>- Tom Krause</p>
 
 Check back at the top of the hour for a new quote!
 

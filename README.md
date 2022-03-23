@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Time is the wisest counsellor of all.</p>
+> <p>Thats the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.</p>
 >
-> <p>- Pericles</p>
+> <p>- Lisa Alther</p>
 
 Check back at the top of the hour for a new quote!
 

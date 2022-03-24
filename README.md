@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.</p>
+> <p>When your desires are strong enough you will appear to possess superhuman powers to achieve.</p>
 >
 > <p>- Napoleon Hill</p>
 

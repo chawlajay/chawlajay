@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.</p>
+> <p>Don't judge each day by the harvest you reap but by the seeds you plant.</p>
 >
-> <p>- Albert Camus</p>
+> <p>- Robert Stevenson</p>
 
 Check back at the top of the hour for a new quote!
 

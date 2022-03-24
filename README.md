@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Love is the only force capable of transforming an enemy into friend.</p>
+> <p>The only way to have a friend is to be one.</p>
 >
-> <p>- Martin Luther King, Jr.</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

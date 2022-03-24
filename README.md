@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When your desires are strong enough you will appear to possess superhuman powers to achieve.</p>
+> <p>Important principles may, and must, be inflexible.</p>
 >
-> <p>- Napoleon Hill</p>
+> <p>- Abraham Lincoln</p>
 
 Check back at the top of the hour for a new quote!
 

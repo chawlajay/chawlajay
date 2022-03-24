@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You are never given a wish without also being given the power to make it come true. You may have to work for it, however.</p>
+> <p>It is only possible to live happily ever after on a day to day basis.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Margaret Bonnano</p>
 
 Check back at the top of the hour for a new quote!
 

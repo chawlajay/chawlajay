@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Thats the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.</p>
+> <p>You are never given a wish without also being given the power to make it come true. You may have to work for it, however.</p>
 >
-> <p>- Lisa Alther</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

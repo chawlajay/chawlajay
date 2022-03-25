@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The years teach much which the days never know.</p>
+> <p>Give it all you've got because you never know if there's going to be a next time.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Danielle Ingrum</p>
 
 Check back at the top of the hour for a new quote!
 

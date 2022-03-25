@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The only difference between your abilities and others is the ability to put yourself in their shoes and actually try.</p>
+> <p>Anybody can make history. Only a great man can write it.</p>
 >
-> <p>- Leonardo Ruiz</p>
+> <p>- Oscar Wilde</p>
 
 Check back at the top of the hour for a new quote!
 

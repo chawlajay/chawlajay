@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is not enough to have a good mind; the main thing is to use it well.</p>
+> <p>Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.</p>
 >
-> <p>- Rene Descartes</p>
+> <p>- Harriet Tubman</p>
 
 Check back at the top of the hour for a new quote!
 

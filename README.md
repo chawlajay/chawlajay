@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Give it all you've got because you never know if there's going to be a next time.</p>
+> <p>Peace begins with a smile.</p>
 >
-> <p>- Danielle Ingrum</p>
+> <p>- Mother Teresa</p>
 
 Check back at the top of the hour for a new quote!
 

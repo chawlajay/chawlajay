@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Anybody can make history. Only a great man can write it.</p>
+> <p>If you are patient in one moment of anger, you will escape one hundred days of sorrow.</p>
 >
-> <p>- Oscar Wilde</p>
+> <p>- Chinese proverb</p>
 
 Check back at the top of the hour for a new quote!
 

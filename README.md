@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Peace begins with a smile.</p>
+> <p>The bird of paradise alights only upon the hand that does not grasp.</p>
 >
-> <p>- Mother Teresa</p>
+> <p>- John Berry</p>
 
 Check back at the top of the hour for a new quote!
 

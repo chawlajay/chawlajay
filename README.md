@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him.</p>
+> <p>Work out your own salvation. Do not depend on others.</p>
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

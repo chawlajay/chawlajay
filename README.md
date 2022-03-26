@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A short saying oft contains much wisdom.</p>
+> <p>Trust your own instinct. Your mistakes might as well be your own, instead of someone elses.</p>
 >
-> <p>- Sophocles</p>
+> <p>- Billy Wilder</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>As the rest of the world is walking out the door, your best friends are the ones walking in.</p>
+> <p>To succeed, we must first believe that we can.</p>
 >
-> <p>- null</p>
+> <p>- Michael Korda</p>
 
 Check back at the top of the hour for a new quote!
 

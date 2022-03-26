@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.</p>
+> <p>As the rest of the world is walking out the door, your best friends are the ones walking in.</p>
 >
-> <p>- Joseph Roux</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

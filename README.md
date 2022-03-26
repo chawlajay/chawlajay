@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.</p>
+> <p>Your work is to discover your work and then with all your heart to give yourself to it.</p>
 >
-> <p>- Isaac Asimov</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

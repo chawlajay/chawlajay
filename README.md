@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Life is movement-we breathe, we eat, we walk, we move!</p>
+> <p>You can do what's reasonable or you can decide what's possible.</p>
 >
-> <p>- John Pierrakos</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

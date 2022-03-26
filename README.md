@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Be what you are. This is the first step toward becoming better than you are.</p>
+> <p>Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.</p>
 >
-> <p>- Julius Charles Hare</p>
+> <p>- Anais Nin</p>
 
 Check back at the top of the hour for a new quote!
 

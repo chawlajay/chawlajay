@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Your work is to discover your work and then with all your heart to give yourself to it.</p>
+> <p>A short saying oft contains much wisdom.</p>
 >
-> <p>- Buddha</p>
+> <p>- Sophocles</p>
 
 Check back at the top of the hour for a new quote!
 

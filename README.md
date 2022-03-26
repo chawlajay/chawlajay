@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The road leading to a goal does not separate you from the destination; it is essentially a part of it.</p>
+> <p>The Creator has not given you a longing to do that which you have no ability to do.</p>
 >
-> <p>- Charles DeLint</p>
+> <p>- Orison Marden</p>
 
 Check back at the top of the hour for a new quote!
 

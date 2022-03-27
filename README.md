@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You can do what's reasonable or you can decide what's possible.</p>
+> <p>So long as a person is capable of self-renewal they are a living being.</p>
 >
-> <p>- null</p>
+> <p>- Henri-Frederic Amiel</p>
 
 Check back at the top of the hour for a new quote!
 

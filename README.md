@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength.</p>
+> <p>Anybody can make history. Only a great man can write it.</p>
 >
-> <p>- Hasidic saying</p>
+> <p>- Oscar Wilde</p>
 
 Check back at the top of the hour for a new quote!
 

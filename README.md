@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A thing long expected takes the form of the unexpected when at last it comes.</p>
+> <p>To change ones life, start immediately, do it flamboyantly, no exceptions.</p>
 >
-> <p>- Mark Twain</p>
+> <p>- William James</p>
 
 Check back at the top of the hour for a new quote!
 

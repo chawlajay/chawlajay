@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.</p>
+> <p>Loss is nothing else but change,and change is Natures delight.</p>
 >
-> <p>- Louis Pasteur</p>
+> <p>- Marcus Aurelius</p>
 
 Check back at the top of the hour for a new quote!
 

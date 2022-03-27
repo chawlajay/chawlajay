@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is not fair to ask of others what you are unwilling to do yourself.</p>
+> <p>If you kick a stone in anger, you'll hurt your own foot.</p>
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Korean proverb</p>
 
 Check back at the top of the hour for a new quote!
 

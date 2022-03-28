@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is the greatest of all mistakes to do nothing because you can only do little do what you can.</p>
+> <p>Love vanquishes time. To lovers, a moment can be eternity, eternity can be the tick of a clock.</p>
 >
-> <p>- Sydney Smith</p>
+> <p>- Mary Parrish</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.</p>
+> <p>Everything in life is luck.</p>
 >
-> <p>- Bruce Lee</p>
+> <p>- Donald Trump</p>
 
 Check back at the top of the hour for a new quote!
 

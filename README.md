@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Everyone has been made for some particular work, and the desire for that work has been put in every heart.</p>
+> <p>You have to take it as it happens, but you should try to make it happen the way you want to take it.</p>
 >
-> <p>- Rumi</p>
+> <p>- Old German proverb</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.</p>
+> <p>A man of ability and the desire to accomplish something can do anything.</p>
 >
-> <p>- William Shakespeare</p>
+> <p>- Donald Kircher</p>
 
 Check back at the top of the hour for a new quote!
 

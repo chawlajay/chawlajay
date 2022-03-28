@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>With every experience, you alone are painting your own canvas, thought by thought, choice by choice.</p>
+> <p>Truth is generally the best vindication against slander.</p>
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Abraham Lincoln</p>
 
 Check back at the top of the hour for a new quote!
 

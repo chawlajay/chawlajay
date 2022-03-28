@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You have to take it as it happens, but you should try to make it happen the way you want to take it.</p>
+> <p>Be the change that you want to see in the world.</p>
 >
-> <p>- Old German proverb</p>
+> <p>- Mohandas Gandhi</p>
 
 Check back at the top of the hour for a new quote!
 

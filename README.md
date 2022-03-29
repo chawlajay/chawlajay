@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.</p>
+> <p>The wisest men follow their own direction.</p>
 >
-> <p>- John Lennon</p>
+> <p>- Euripides</p>
 
 Check back at the top of the hour for a new quote!
 

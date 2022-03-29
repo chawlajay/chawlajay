@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.</p>
+> <p>Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.</p>
 >
-> <p>- Jim Rohn</p>
+> <p>- Louis Pasteur</p>
 
 Check back at the top of the hour for a new quote!
 

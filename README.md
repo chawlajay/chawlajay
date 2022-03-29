@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A true friend is the most precious of all possessions and the one we take the least thought about acquiring.</p>
+> <p>Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength.</p>
 >
-> <p>- Francois de La Rochefoucauld</p>
+> <p>- Hasidic saying</p>
 
 Check back at the top of the hour for a new quote!
 

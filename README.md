@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Every day may not be good, but there's something good in every day.</p>
+> <p>A man who doesn't trust himself can never really trust anyone else.</p>
 >
-> <p>- null</p>
+> <p>- Cardinal Retz</p>
 
 Check back at the top of the hour for a new quote!
 

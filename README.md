@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.</p>
+> <p>If you want your life to be more rewarding, you have to change the way you think.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Oprah Winfrey</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you want your life to be more rewarding, you have to change the way you think.</p>
+> <p>To be upset over what you don't have is to waste what you do have.</p>
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Ken S. Keyes</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To free us from the expectations of others, to give us back to ourselves there lies the great, singular power of self-respect.</p>
+> <p>No valid plans for the future can be made by those who have no capacity for living now.</p>
 >
-> <p>- Joan Didion</p>
+> <p>- Alan Watts</p>
 
 Check back at the top of the hour for a new quote!
 

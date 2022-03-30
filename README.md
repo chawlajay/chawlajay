@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The greatest part of our happiness depends on our dispositions, not our circumstances.</p>
+> <p>You cannot find yourself by going into the past. You can find yourself by coming into the present.</p>
 >
-> <p>- Martha Washington</p>
+> <p>- Eckhart Tolle</p>
 
 Check back at the top of the hour for a new quote!
 

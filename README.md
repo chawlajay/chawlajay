@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Look forward to spring as a time when you can start to see what nature has to offer once again.</p>
+> <p>If I could reach up and hold a star for every time you've made me smile, the entire evening sky would be in the palm of my hand.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

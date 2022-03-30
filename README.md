@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.</p>
+> <p>You may only be someone in the world, but to someone else, you may be the world.</p>
 >
-> <p>- Uta Hagen</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

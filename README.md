@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Nothing could be worse than the fear that one had given up too soon, and left one unexpended effort that might have saved the world.</p>
+> <p>Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.</p>
 >
 > <p>- Jane Addams</p>
 

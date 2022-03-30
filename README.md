@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.</p>
+> <p>Nothing could be worse than the fear that one had given up too soon, and left one unexpended effort that might have saved the world.</p>
 >
-> <p>- John Steinbeck</p>
+> <p>- Jane Addams</p>
 
 Check back at the top of the hour for a new quote!
 

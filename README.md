@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>People seldom notice old clothes if you wear a big smile.</p>
+> <p>Be faithful in small things because it is in them that your strength lies.</p>
 >
-> <p>- Lee Mildon</p>
+> <p>- Mother Teresa</p>
 
 Check back at the top of the hour for a new quote!
 

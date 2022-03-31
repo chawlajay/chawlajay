@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>What lies behind us and what lies before us are tiny matters compared to what lies within us.</p>
+> <p>Every day may not be good, but there's something good in every day.</p>
 >
-> <p>- Walt Emerson</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

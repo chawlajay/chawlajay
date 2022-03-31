@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A jug fills drop by drop.</p>
+> <p>Better than a thousand hollow words, is one word that brings peace.</p>
 >
 > <p>- Buddha</p>
 

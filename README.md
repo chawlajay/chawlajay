@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Ideas are the beginning points of all fortunes.</p>
+> <p>He that respects himself is safe from others; he wears a coat of mail that none can pierce.</p>
 >
-> <p>- Napoleon Hill</p>
+> <p>- Henry Longfellow</p>
 
 Check back at the top of the hour for a new quote!
 

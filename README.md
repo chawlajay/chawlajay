@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Wicked people are always surprised to find ability in those that are good.</p>
+> <p>When deeds speak, words are nothing.</p>
 >
-> <p>- Marquis Vauvenargues</p>
+> <p>- African proverb</p>
 
 Check back at the top of the hour for a new quote!
 

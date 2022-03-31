@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>One today is worth two tomorrows.</p>
+> <p>The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.</p>
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Anais Nin</p>
 
 Check back at the top of the hour for a new quote!
 

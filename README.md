@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Those who dream by day are cognizant of many things which escape those who dream only by night.</p>
+> <p>We shall never know all the good that a simple smile can do.</p>
 >
-> <p>- Edgar Allan Poe</p>
+> <p>- Mother Teresa</p>
 
 Check back at the top of the hour for a new quote!
 

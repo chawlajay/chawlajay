@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When deeds speak, words are nothing.</p>
+> <p>Divide each difficulty into as many parts as is feasible and necessary to resolve it.</p>
 >
-> <p>- African proverb</p>
+> <p>- Rene Descartes</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Do not turn back when you are just at the goal.</p>
+> <p>The less effort, the faster and more powerful you will be.</p>
 >
-> <p>- Publilius Syrus</p>
+> <p>- Bruce Lee</p>
 
 Check back at the top of the hour for a new quote!
 

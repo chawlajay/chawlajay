@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.</p>
+> <p>The beginning of knowledge is the discovery of something we do not understand.</p>
 >
-> <p>- Anais Nin</p>
+> <p>- Frank Herbert</p>
 
 Check back at the top of the hour for a new quote!
 

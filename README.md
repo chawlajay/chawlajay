@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There is nothing in a caterpillar that tells you it's going to be a butterfly.</p>
+> <p>I have often regretted my speech, never my silence.</p>
 >
-> <p>- Buckminster Fuller</p>
+> <p>- Publilius Syrus</p>
 
 Check back at the top of the hour for a new quote!
 

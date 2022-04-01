@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!</p>
+> <p>There is nothing in a caterpillar that tells you it's going to be a butterfly.</p>
 >
-> <p>- Charlotte Gilman</p>
+> <p>- Buckminster Fuller</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The future belongs to those who believe in the beauty of their dreams.</p>
+> <p>What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.</p>
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Sai Baba</p>
 
 Check back at the top of the hour for a new quote!
 

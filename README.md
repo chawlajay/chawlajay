@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To climb steep hills requires a slow pace at first.</p>
+> <p>I believe that we are fundamentally the same and have the same basic potential.</p>
 >
-> <p>- William Shakespeare</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

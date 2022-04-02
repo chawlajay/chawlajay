@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The possibilities are numerous once we decide to act and not react.</p>
+> <p>By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.</p>
 >
-> <p>- George Bernard Shaw</p>
+> <p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

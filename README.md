@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You do not become good by trying to be good, but by finding the goodness that is already within you.</p>
+> <p>Stay committed to your decisions, but stay flexible in your approach.</p>
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Tony Robbins</p>
 
 Check back at the top of the hour for a new quote!
 

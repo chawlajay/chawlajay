@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</p>
+> <p>You do not become good by trying to be good, but by finding the goodness that is already within you.</p>
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Eckhart Tolle</p>
 
 Check back at the top of the hour for a new quote!
 

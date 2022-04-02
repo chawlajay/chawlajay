@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It isn't where you come from, it's where you're going that counts.</p>
+> <p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
 >
-> <p>- Ella Fitzgerald</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

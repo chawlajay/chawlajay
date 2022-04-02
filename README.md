@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
+> <p>I never think of the future. It comes soon enough.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We do what we do because we believe.</p>
+> <p>The possibilities are numerous once we decide to act and not react.</p>
 >
-> <p>- null</p>
+> <p>- George Bernard Shaw</p>
 
 Check back at the top of the hour for a new quote!
 

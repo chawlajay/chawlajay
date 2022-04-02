@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I never think of the future. It comes soon enough.</p>
+> <p>Think like a man of action; act like a man of thought.</p>
 >
-> <p>- Albert Einstein</p>
+> <p>- Henri L. Bergson</p>
 
 Check back at the top of the hour for a new quote!
 

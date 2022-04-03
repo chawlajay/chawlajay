@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Those who cannot learn from history are doomed to repeat it.</p>
+> <p>First say to yourself what you would be; and then do what you have to do.</p>
 >
-> <p>- George Santayan</p>
+> <p>- Epictetus</p>
 
 Check back at the top of the hour for a new quote!
 

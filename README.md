@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The cautious seldom err.</p>
+> <p>An ant on the move does more than a dozing ox</p>
 >
-> <p>- Confucius</p>
+> <p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

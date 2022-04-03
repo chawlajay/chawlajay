@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Sadness flies away on the wings of time.</p>
+> <p>The two most powerful warriors are patience and time.</p>
 >
-> <p>- Jean de la Fontaine</p>
+> <p>- Leo Tolstoy</p>
 
 Check back at the top of the hour for a new quote!
 

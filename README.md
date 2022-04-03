@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Yesterday I dared to struggle. Today I dare to win.</p>
+> <p>The world does not happen to you it happens from you.</p>
 >
-> <p>- Bernadette Devlin</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

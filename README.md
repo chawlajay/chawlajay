@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I always wanted to be somebody, but I should have been more specific.</p>
+> <p>To be beautiful means to be yourself. You do not need to be accepted by others. You need to accept yourself.</p>
 >
-> <p>- Lily Tomlin</p>
+> <p>- Thich Nhat Hanh</p>
 
 Check back at the top of the hour for a new quote!
 

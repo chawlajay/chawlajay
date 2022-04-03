@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The world is always in movement.</p>
+> <p>Always tell the truth. That way, you don't have to remember what you said.</p>
 >
-> <p>- V. Naipaul</p>
+> <p>- Mark Twain</p>
 
 Check back at the top of the hour for a new quote!
 

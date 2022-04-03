@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To be beautiful means to be yourself. You do not need to be accepted by others. You need to accept yourself.</p>
+> <p>By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.</p>
 >
-> <p>- Thich Nhat Hanh</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

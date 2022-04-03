@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.</p>
+> <p>Sadness flies away on the wings of time.</p>
 >
-> <p>- Plato</p>
+> <p>- Jean de la Fontaine</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The two most powerful warriors are patience and time.</p>
+> <p>Those who cannot learn from history are doomed to repeat it.</p>
 >
-> <p>- Leo Tolstoy</p>
+> <p>- George Santayan</p>
 
 Check back at the top of the hour for a new quote!
 

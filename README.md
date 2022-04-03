@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.</p>
+> <p>The cautious seldom err.</p>
 >
-> <p>- Horace</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

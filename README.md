@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</p>
+> <p>Everyone smiles in the same language.</p>
 >
-> <p>- Pema Chodron</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

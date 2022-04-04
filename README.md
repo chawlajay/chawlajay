@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.</p>
+> <p>People grow through experience if they meet life honestly and courageously. This is how character is built.</p>
 >
-> <p>- Rudolf Arnheim</p>
+> <p>- Eleanor Roosevelt</p>
 
 Check back at the top of the hour for a new quote!
 

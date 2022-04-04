@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The free man is he who does not fear to go to the end of his thought.</p>
+> <p>All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.</p>
 >
-> <p>- Leon Blum</p>
+> <p>- Rudolf Arnheim</p>
 
 Check back at the top of the hour for a new quote!
 

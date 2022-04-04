@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>People grow through experience if they meet life honestly and courageously. This is how character is built.</p>
+> <p>If you want your life to be more rewarding, you have to change the way you think.</p>
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Oprah Winfrey</p>
 
 Check back at the top of the hour for a new quote!
 

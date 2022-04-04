@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To give ones self earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.</p>
+> <p>The simplest things are often the truest.</p>
 >
-> <p>- Confucius</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

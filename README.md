@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.</p>
+> <p>By living deeply in the present moment we can understand the past better and we can prepare for a better future.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Thich Nhat Hanh</p>
 
 Check back at the top of the hour for a new quote!
 

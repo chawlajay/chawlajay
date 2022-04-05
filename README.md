@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>By living deeply in the present moment we can understand the past better and we can prepare for a better future.</p>
+> <p>Just as much as we see in others we have in ourselves.</p>
 >
-> <p>- Thich Nhat Hanh</p>
+> <p>- William Hazlitt</p>
 
 Check back at the top of the hour for a new quote!
 

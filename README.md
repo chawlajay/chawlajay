@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The foot feels the foot when it feels the ground.</p>
+> <p>No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.</p>
 >
 > <p>- Buddha</p>
 

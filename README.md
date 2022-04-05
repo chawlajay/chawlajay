@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When you are content to be simply yourself and don't compare or compete, everybody will respect you.</p>
+> <p>I am always doing that which I cannot do, in order that I may learn how to do it.</p>
 >
-> <p>- Laozi</p>
+> <p>- Pablo Picasso</p>
 
 Check back at the top of the hour for a new quote!
 

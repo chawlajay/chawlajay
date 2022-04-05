@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Reality leaves a lot to the imagination.</p>
+> <p>The foot feels the foot when it feels the ground.</p>
 >
-> <p>- John Lennon</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

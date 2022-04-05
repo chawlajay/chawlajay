@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Loss is nothing else but change,and change is Natures delight.</p>
+> <p>The only thing to do with good advice is to pass it on. It is never of any use to oneself.</p>
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Oscar Wilde</p>
 
 Check back at the top of the hour for a new quote!
 

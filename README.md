@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.</p>
+> <p>Do not go where the path may lead, go instead where there is no path and leave a trail.</p>
 >
-> <p>- Amiel</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Wishes can be your best avenue of getting what you want when you turn wishes into action. Action moves your wish to the forefront from thought to reality.</p>
+> <p>Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Napoleon Hill</p>
 
 Check back at the top of the hour for a new quote!
 

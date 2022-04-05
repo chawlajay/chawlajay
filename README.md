@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.</p>
+> <p>Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.</p>
 >
-> <p>- John Lennon</p>
+> <p>- Amiel</p>
 
 Check back at the top of the hour for a new quote!
 

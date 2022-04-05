@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The only thing to do with good advice is to pass it on. It is never of any use to oneself.</p>
+> <p>Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that so it goes on flying anyway.</p>
 >
-> <p>- Oscar Wilde</p>
+> <p>- Mary Kay Ash</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.</p>
+> <p>Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.</p>
 >
-> <p>- Isaac Asimov</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

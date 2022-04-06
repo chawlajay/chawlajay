@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.</p>
+> <p>Think for yourselves and let others enjoy the privilege to do so too.</p>
 >
-> <p>- Helen Keller</p>
+> <p>- Voltaire</p>
 
 Check back at the top of the hour for a new quote!
 

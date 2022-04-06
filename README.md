@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The place to improve the world is first in one's own heart and head and hands.</p>
+> <p>Never put off till tomorrow what you can do today.</p>
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- Thomas Jefferson</p>
 
 Check back at the top of the hour for a new quote!
 

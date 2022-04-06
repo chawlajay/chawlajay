@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Try and fail, but don't fail to try.</p>
+> <p>Allow the world to live as it chooses, and allow yourself to live as you choose.</p>
 >
-> <p>- Stephen Kaggwa</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

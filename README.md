@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Choose a job you love, and you will never have to work a day in your life.</p>
+> <p>If you cannot do great things, do small things in a great way.</p>
 >
-> <p>- Confucius</p>
+> <p>- Napoleon Hill</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I can't imagine a person becoming a success who doesn't give this game of life everything hes got.</p>
+> <p>The most successful people are those who are good at plan B.</p>
 >
-> <p>- Walter Cronkite</p>
+> <p>- James Yorke</p>
 
 Check back at the top of the hour for a new quote!
 

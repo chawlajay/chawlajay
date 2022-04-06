@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Great is the art of beginning, but greater is the art of ending.</p>
+> <p>In all things of nature there is something of the marvellous.</p>
 >
-> <p>- Lazurus Long</p>
+> <p>- Aristotle</p>
 
 Check back at the top of the hour for a new quote!
 

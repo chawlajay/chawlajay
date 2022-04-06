@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Allow the world to live as it chooses, and allow yourself to live as you choose.</p>
+> <p>The place to improve the world is first in one's own heart and head and hands.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Robert M. Pirsig</p>
 
 Check back at the top of the hour for a new quote!
 

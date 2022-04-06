@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The most successful people are those who are good at plan B.</p>
+> <p>One fails forward toward success.</p>
 >
-> <p>- James Yorke</p>
+> <p>- Charles Kettering</p>
 
 Check back at the top of the hour for a new quote!
 

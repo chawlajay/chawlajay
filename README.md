@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.</p>
+> <p>One does not discover new lands without consenting to lose sight of the shore for a very long time.</p>
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Andre Gide</p>
 
 Check back at the top of the hour for a new quote!
 

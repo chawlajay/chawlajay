@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you accept the expectations of others, especially negative ones, then you never will change the outcome.</p>
+> <p>Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.</p>
 >
-> <p>- Michael Jordan</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

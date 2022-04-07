@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Be kind whenever possible. It is always possible.</p>
+> <p>With the realization of ones own potential and self-confidence in ones ability, one can build a better world.</p>
 >
 > <p>- Dalai Lama</p>
 

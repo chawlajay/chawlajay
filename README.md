@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We see things not as they are, but as we are. Our perception is shaped by our previous experiences.</p>
+> <p>More often than not, anger is actually an indication of weakness rather than of strength.</p>
 >
-> <p>- Dennis Kimbro</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

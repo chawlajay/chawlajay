@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.</p>
+> <p>It is fatal to enter any war without the will to win it.</p>
 >
-> <p>- Mortimer Adler</p>
+> <p>- General Douglas MacArthur</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Your work is to discover your world and then with all your heart give yourself to it.</p>
+> <p>In seed time learn, in harvest teach, in winter enjoy.</p>
 >
-> <p>- Buddha</p>
+> <p>- William Blake</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The person born with a talent they are meant to use will find their greatest happiness in using it.</p>
+> <p>Without faith, nothing is possible. With it, nothing is impossible.</p>
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Mary Bethune</p>
 
 Check back at the top of the hour for a new quote!
 

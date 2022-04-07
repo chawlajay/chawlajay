@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is fatal to enter any war without the will to win it.</p>
+> <p>We cannot solve our problems with the same thinking we used when we created them.</p>
 >
-> <p>- General Douglas MacArthur</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

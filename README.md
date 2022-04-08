@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If a man does his best, what else is there?</p>
+> <p>We read the world wrong and say that it deceives us.</p>
 >
-> <p>- George Patton</p>
+> <p>- Rabindranath Tagore</p>
 
 Check back at the top of the hour for a new quote!
 

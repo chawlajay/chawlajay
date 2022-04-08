@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Life is just a chance to grow a soul.</p>
+> <p>Either I will find a way, or I will make one.</p>
 >
-> <p>- A. Powell Davies</p>
+> <p>- Philip Sidney</p>
 
 Check back at the top of the hour for a new quote!
 

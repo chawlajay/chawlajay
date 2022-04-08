@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I can't change the direction of the wind, but I can adjust my sails to always reach my destination.</p>
+> <p>Consider that not only do negative thoughts and emotions destroy our experience of peace, they also undermine our health.</p>
 >
-> <p>- Jimmy Dean</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

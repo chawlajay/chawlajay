@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Your big opportunity may be right where you are now.</p>
+> <p>Happiness is the reward we get for living to the highest right we know.</p>
 >
-> <p>- Napoleon Hill</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The only real failure in life is not to be true to the best one knows.</p>
+> <p>The day is already blessed, find peace within it.</p>
 >
-> <p>- Buddha</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

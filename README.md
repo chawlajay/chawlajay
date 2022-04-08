@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I have done my best: that is about all the philosophy of living one needs.</p>
+> <p>If a man does his best, what else is there?</p>
 >
-> <p>- Lin-yutang</p>
+> <p>- George Patton</p>
 
 Check back at the top of the hour for a new quote!
 

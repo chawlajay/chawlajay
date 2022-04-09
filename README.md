@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Consider how hard it is to change yourself and you'll understand what little chance you have in trying to change others.</p>
+> <p>The greatest good you can do for another is not just to share your riches but to reveal to him his own.</p>
 >
-> <p>- Jacob Braude</p>
+> <p>- Benjamin Disraeli</p>
 
 Check back at the top of the hour for a new quote!
 

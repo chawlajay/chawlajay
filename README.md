@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>No valid plans for the future can be made by those who have no capacity for living now.</p>
+> <p>If you can't explain it simply, you don't understand it well enough.</p>
 >
-> <p>- Alan Watts</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

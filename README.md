@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Bad times have a scientific value. These are occasions a good learner would not miss.</p>
+> <p>Invent your world. Surround yourself with people, color, sounds, and work that nourish you.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

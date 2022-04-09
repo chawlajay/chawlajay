@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.</p>
+> <p>Absence makes the heart grow fonder.</p>
 >
-> <p>- Denis Waitley</p>
+> <p>- Haynes Bayly</p>
 
 Check back at the top of the hour for a new quote!
 

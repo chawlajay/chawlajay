@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.</p>
+> <p>Bad times have a scientific value. These are occasions a good learner would not miss.</p>
 >
-> <p>- W. Clement Stone</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

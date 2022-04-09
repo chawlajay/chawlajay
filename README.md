@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I've never seen a smiling face that was not beautiful.</p>
+> <p>We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.</p>
 >
-> <p>- null</p>
+> <p>- Barbara De Angelis</p>
 
 Check back at the top of the hour for a new quote!
 

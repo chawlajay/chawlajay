@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>What you do not want done to yourself, do not do to others.</p>
+> <p>No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.</p>
 >
-> <p>- Confucius</p>
+> <p>- W. Clement Stone</p>
 
 Check back at the top of the hour for a new quote!
 

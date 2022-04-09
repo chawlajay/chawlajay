@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Invent your world. Surround yourself with people, color, sounds, and work that nourish you.</p>
+> <p>Don't judge each day by the harvest you reap but by the seeds you plant.</p>
 >
-> <p>- null</p>
+> <p>- Robert Stevenson</p>
 
 Check back at the top of the hour for a new quote!
 

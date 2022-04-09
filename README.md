@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is on our failures that we base a new and different and better success.</p>
+> <p>If you accept the expectations of others, especially negative ones, then you never will change the outcome.</p>
 >
-> <p>- Havelock Ellis</p>
+> <p>- Michael Jordan</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.</p>
+> <p>Believe deep down in your heart that you're destined to do great things.</p>
 >
-> <p>- Mortimer Adler</p>
+> <p>- Joe Paterno</p>
 
 Check back at the top of the hour for a new quote!
 

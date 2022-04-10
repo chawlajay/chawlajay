@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Always tell the truth. That way, you don't have to remember what you said.</p>
+> <p>Life is change. Growth is optional. Choose wisely.</p>
 >
-> <p>- Mark Twain</p>
+> <p>- Karen Clark</p>
 
 Check back at the top of the hour for a new quote!
 

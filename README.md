@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.</p>
+> <p>We know what we are, but know not what we may be.</p>
 >
-> <p>- Jamie Paolinetti</p>
+> <p>- William Shakespeare</p>
 
 Check back at the top of the hour for a new quote!
 

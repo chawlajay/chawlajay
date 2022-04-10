@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The biggest adventure you can ever take is to live the life of your dreams.</p>
+> <p>Trusting our intuition often saves us from disaster.</p>
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Anne Wilson Schaef</p>
 
 Check back at the top of the hour for a new quote!
 

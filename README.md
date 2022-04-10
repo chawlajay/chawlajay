@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Trusting our intuition often saves us from disaster.</p>
+> <p>Turn your face toward the sun and the shadows will fall behind you.</p>
 >
-> <p>- Anne Wilson Schaef</p>
+> <p>- Maori proverb</p>
 
 Check back at the top of the hour for a new quote!
 

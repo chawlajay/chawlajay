@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Experience is not what happens to a man. It is what a man does with what happens to him.</p>
+> <p>Life is a process. We are a process. The universe is a process.</p>
 >
-> <p>- Aldous Huxley</p>
+> <p>- Anne Schaef</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You are the only person on Earth who can use your ability.</p>
+> <p>Learn wisdom from the ways of a seedling. A seedling which is never hardened off through stressful situations will never become a strong productive plant.</p>
 >
-> <p>- Zig Ziglar</p>
+> <p>- Stephen Sigmund</p>
 
 Check back at the top of the hour for a new quote!
 

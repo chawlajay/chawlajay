@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>God always takes the simplest way.</p>
+> <p>If you cannot be silent be brilliant and thoughtful.</p>
 >
-> <p>- Albert Einstein</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

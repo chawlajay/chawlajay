@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Letting go is not the end of the world; it is the beginning of a new life.</p>
+> <p>You are special, you are unique, you are the best!</p>
 >
-> <p>- null</p>
+> <p>- Cathy Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

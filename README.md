@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.</p>
+> <p>Fear not for the future, weep not for the past.</p>
 >
-> <p>- Henry Longfellow</p>
+> <p>- Percy Shelley</p>
 
 Check back at the top of the hour for a new quote!
 

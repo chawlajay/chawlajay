@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A goal without a plan is just a wish.</p>
+> <p>Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.</p>
 >
-> <p>- Larry Elder</p>
+> <p>- Henry Longfellow</p>
 
 Check back at the top of the hour for a new quote!
 

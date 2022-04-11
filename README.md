@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Life is change. Growth is optional. Choose wisely.</p>
+> <p>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</p>
 >
-> <p>- Karen Clark</p>
+> <p>- Thomas Jefferson</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.</p>
+> <p>Many people have gone further than they thought they could because someone else thought they could.</p>
 >
-> <p>- William Menninger</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

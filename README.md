@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Learn wisdom from the ways of a seedling. A seedling which is never hardened off through stressful situations will never become a strong productive plant.</p>
+> <p>Great ideas often receive violent opposition from mediocre minds.</p>
 >
-> <p>- Stephen Sigmund</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

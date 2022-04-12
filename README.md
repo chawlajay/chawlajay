@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>History will be kind to me for I intend to write it.</p>
+> <p>People take different roads seeking fulfilment and happiness. Just because theyre not on your road doesn't mean they've gotten lost.</p>
 >
-> <p>- Winston Churchill</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

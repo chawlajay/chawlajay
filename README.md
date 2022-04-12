@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>People take different roads seeking fulfilment and happiness. Just because theyre not on your road doesn't mean they've gotten lost.</p>
+> <p>No alibi will save you from accepting the responsibility.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Napoleon Hill</p>
 
 Check back at the top of the hour for a new quote!
 

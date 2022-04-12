@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>What is necessary to change a person is to change his awareness of himself.</p>
+> <p>To succeed, we must first believe that we can.</p>
 >
-> <p>- Abraham Maslow</p>
+> <p>- Michael Korda</p>
 
 Check back at the top of the hour for a new quote!
 

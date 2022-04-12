@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The cosmos is neither moral or immoral; only people are. He who would move the world must first move himself.</p>
+> <p>What is necessary to change a person is to change his awareness of himself.</p>
 >
-> <p>- Edward Ericson</p>
+> <p>- Abraham Maslow</p>
 
 Check back at the top of the hour for a new quote!
 

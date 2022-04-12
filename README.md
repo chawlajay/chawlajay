@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You are special, you are unique, you are the best!</p>
+> <p>Life is what happens to you while you're busy making other plans.</p>
 >
-> <p>- Cathy Pulsifer</p>
+> <p>- John Lennon</p>
 
 Check back at the top of the hour for a new quote!
 

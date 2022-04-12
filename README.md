@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I will prepare and some day my chance will come.</p>
+> <p>The cosmos is neither moral or immoral; only people are. He who would move the world must first move himself.</p>
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Edward Ericson</p>
 
 Check back at the top of the hour for a new quote!
 

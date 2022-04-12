@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The place to improve the world is first in one's own heart and head and hands.</p>
+> <p>We are all faced with a series of great opportunities brilliantly disguised as impossible situations.</p>
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- Charles R. Swindoll</p>
 
 Check back at the top of the hour for a new quote!
 

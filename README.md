@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>No alibi will save you from accepting the responsibility.</p>
+> <p>Our ability to achieve happiness and success depends on the strength of our wings.</p>
 >
-> <p>- Napoleon Hill</p>
+> <p>- Catherine Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I never worry about action, but only inaction.</p>
+> <p>History will be kind to me for I intend to write it.</p>
 >
 > <p>- Winston Churchill</p>
 

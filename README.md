@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.</p>
+> <p>I will prepare and some day my chance will come.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Abraham Lincoln</p>
 
 Check back at the top of the hour for a new quote!
 

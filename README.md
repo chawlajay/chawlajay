@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>He who is contented is rich.</p>
+> <p>I never worry about action, but only inaction.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Winston Churchill</p>
 
 Check back at the top of the hour for a new quote!
 

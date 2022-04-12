@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Life is what happens to you while you're busy making other plans.</p>
+> <p>He who is contented is rich.</p>
 >
-> <p>- John Lennon</p>
+> <p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

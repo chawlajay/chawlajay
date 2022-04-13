@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.</p>
+> <p>People are not lazy. They simply have impotent goals that is, goals that do not inspire them.</p>
 >
-> <p>- Barbara De Angelis</p>
+> <p>- Tony Robbins</p>
 
 Check back at the top of the hour for a new quote!
 

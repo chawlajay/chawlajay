@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To get something you never had, you have to do something you never did.</p>
+> <p>What you see depends on what you're looking for.</p>
 >
 > <p>- null</p>
 

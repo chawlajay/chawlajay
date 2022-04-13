@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When you come to the end of your rope, tie a knot and hang on.</p>
+> <p>To get something you never had, you have to do something you never did.</p>
 >
-> <p>- Franklin Roosevelt</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

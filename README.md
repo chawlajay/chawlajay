@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.</p>
+> <p>Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Louis Pasteur</p>
 
 Check back at the top of the hour for a new quote!
 

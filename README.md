@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You don't drown by falling in water. You drown by staying there.</p>
+> <p>We do what we do because we believe.</p>
 >
 > <p>- null</p>
 

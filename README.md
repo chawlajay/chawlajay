@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that's why they call it the present.</p>
+> <p>You always succeed in producing a result.</p>
 >
-> <p>- null</p>
+> <p>- Tony Robbins</p>
 
 Check back at the top of the hour for a new quote!
 

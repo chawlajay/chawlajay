@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.</p>
+> <p>Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were.</p>
 >
-> <p>- William Channing</p>
+> <p>- David Rockefeller</p>
 
 Check back at the top of the hour for a new quote!
 

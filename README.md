@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.</p>
+> <p>Bite off more than you can chew, then chew it.</p>
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Ella Williams</p>
 
 Check back at the top of the hour for a new quote!
 

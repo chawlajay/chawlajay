@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Be slow of tongue and quick of eye.</p>
+> <p>Not what we have but what we enjoy constitutes our abundance.</p>
 >
-> <p>- Cervantes</p>
+> <p>- John Petit-Senn</p>
 
 Check back at the top of the hour for a new quote!
 

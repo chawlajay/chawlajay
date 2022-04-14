@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.</p>
+> <p>To study and not think is a waste. To think and not study is dangerous.</p>
 >
-> <p>- Eknath Easwaran</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

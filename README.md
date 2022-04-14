@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is not uncommon for people to spend their whole life waiting to start living.</p>
+> <p>Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.</p>
 >
-> <p>- Eckhart Tolle</p>
+> <p>- William Channing</p>
 
 Check back at the top of the hour for a new quote!
 

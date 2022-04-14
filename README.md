@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To study and not think is a waste. To think and not study is dangerous.</p>
+> <p>He who lives in harmony with himself lives in harmony with the world.</p>
 >
-> <p>- Confucius</p>
+> <p>- Marcus Aurelius</p>
 
 Check back at the top of the hour for a new quote!
 

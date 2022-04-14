@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Beware of missing chances; otherwise it may be altogether too late some day.</p>
+> <p>It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.</p>
 >
-> <p>- Franz Liszt</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Check back at the top of the hour for a new quote!
 

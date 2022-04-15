@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The day is already blessed, find peace within it.</p>
+> <p>What we see is mainly what we look for.</p>
 >
 > <p>- null</p>
 

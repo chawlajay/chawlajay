@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Successful people ask better questions, and as a result, they get better answers.</p>
+> <p>Work while you have the light. You are responsible for the talent that has been entrusted to you.</p>
 >
-> <p>- Tony Robbins</p>
+> <p>- Henri-Frederic Amiel</p>
 
 Check back at the top of the hour for a new quote!
 

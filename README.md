@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.</p>
+> <p>The possibilities are numerous once we decide to act and not react.</p>
 >
-> <p>- Chuck Norris</p>
+> <p>- George Bernard Shaw</p>
 
 Check back at the top of the hour for a new quote!
 

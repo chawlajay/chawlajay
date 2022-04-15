@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Always seek out the seed of triumph in every adversity.</p>
+> <p>What lies behind us and what lies before us are small matters compared to what lies within us.</p>
 >
-> <p>- Og Mandino</p>
+> <p>- Oliver Holmes</p>
 
 Check back at the top of the hour for a new quote!
 

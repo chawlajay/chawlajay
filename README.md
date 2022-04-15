@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Nobody can do everything, but everybody can do something.</p>
+> <p>The final proof of greatness lies in being able to endure criticism without resentment.</p>
 >
-> <p>- null</p>
+> <p>- Elbert Hubbard</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Id rather regret the things that I have done than the things that I have not done.</p>
+> <p>I believe that we are fundamentally the same and have the same basic potential.</p>
 >
-> <p>- Lucille Ball</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Work while you have the light. You are responsible for the talent that has been entrusted to you.</p>
+> <p>Always seek out the seed of triumph in every adversity.</p>
 >
-> <p>- Henri-Frederic Amiel</p>
+> <p>- Og Mandino</p>
 
 Check back at the top of the hour for a new quote!
 

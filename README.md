@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The final proof of greatness lies in being able to endure criticism without resentment.</p>
+> <p>With every experience, you alone are painting your own canvas, thought by thought, choice by choice.</p>
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Oprah Winfrey</p>
 
 Check back at the top of the hour for a new quote!
 

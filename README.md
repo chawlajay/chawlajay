@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You need chaos in your soul to give birth to a dancing star.</p>
+> <p>Take rest; a field that has rested gives a bountiful crop.</p>
 >
-> <p>- Nietzsche</p>
+> <p>- Ovid</p>
 
 Check back at the top of the hour for a new quote!
 

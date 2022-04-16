@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Much wisdom often goes with fewer words.</p>
+> <p>Men are disturbed not by things, but by the view which they take of them.</p>
 >
-> <p>- Sophocles</p>
+> <p>- Epictetus</p>
 
 Check back at the top of the hour for a new quote!
 

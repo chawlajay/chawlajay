@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Take rest; a field that has rested gives a bountiful crop.</p>
+> <p>Strong beliefs win strong men, and then make them stronger.</p>
 >
-> <p>- Ovid</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

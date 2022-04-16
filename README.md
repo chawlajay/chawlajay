@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Strong beliefs win strong men, and then make them stronger.</p>
+> <p>Life is the flower for which love is the honey.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Victor Hugo</p>
 
 Check back at the top of the hour for a new quote!
 

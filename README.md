@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I never see what has been done; I only see what remains to be done.</p>
+> <p>By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.</p>
 >
-> <p>- Marie Curie</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

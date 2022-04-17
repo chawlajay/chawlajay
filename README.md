@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Strength does not come from physical capacity. It comes from an indomitable will.</p>
+> <p>Weve got to have a dream if we are going to make a dream come true.</p>
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Walt Disney</p>
 
 Check back at the top of the hour for a new quote!
 

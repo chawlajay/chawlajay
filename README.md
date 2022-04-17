@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>As an organizer I start from where the world is, as it is, not as I would like it to be.</p>
+> <p>When you are content to be simply yourself and don't compare or compete, everybody will respect you.</p>
 >
-> <p>- Saul Alinsky</p>
+> <p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

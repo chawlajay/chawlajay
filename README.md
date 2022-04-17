@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Man cannot discover new oceans unless he has the courage to lose sight of the shore.</p>
+> <p>If you're in a bad situation, don't worry it'll change. If you're in a good situation, don't worry it'll change.</p>
 >
-> <p>- Andre Gide</p>
+> <p>- John Simone</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.</p>
+> <p>A gem cannot be polished without friction, nor a man perfected without trials.</p>
 >
-> <p>- Marie Curie</p>
+> <p>- Chinese proverb</p>
 
 Check back at the top of the hour for a new quote!
 

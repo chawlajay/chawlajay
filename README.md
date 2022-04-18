@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>From small beginnings come great things.</p>
+> <p>The real measure of your wealth is how much youd be worth if you lost all your money.</p>
 >
 > <p>- null</p>
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Don't ruin the present with the ruined past.</p>
+> <p>Gratitude is the fairest blossom which springs from the soul.</p>
 >
-> <p>- Ellen Gilchrist</p>
+> <p>- Henry Beecher</p>
 
 Check back at the top of the hour for a new quote!
 

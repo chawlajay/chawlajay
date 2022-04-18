@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>From error to error one discovers the entire truth.</p>
+> <p>Don't ruin the present with the ruined past.</p>
 >
-> <p>- Sigmund Freud</p>
+> <p>- Ellen Gilchrist</p>
 
 Check back at the top of the hour for a new quote!
 

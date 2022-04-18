@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Success means having the courage, the determination, and the will to become the person you believe you were meant to be.</p>
+> <p>Love is the master key that opens the gates of happiness.</p>
 >
-> <p>- George Sheehan</p>
+> <p>- Oliver Holmes</p>
 
 Check back at the top of the hour for a new quote!
 

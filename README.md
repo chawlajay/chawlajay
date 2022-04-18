@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Gratitude is the fairest blossom which springs from the soul.</p>
+> <p>Never do things others can do and will do, if there are things others cannot do or will not do.</p>
 >
-> <p>- Henry Beecher</p>
+> <p>- Amelia Earhart</p>
 
 Check back at the top of the hour for a new quote!
 

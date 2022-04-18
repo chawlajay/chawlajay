@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Weve got to have a dream if we are going to make a dream come true.</p>
+> <p>He who has health has hope, and he who has hope has everything.</p>
 >
-> <p>- Walt Disney</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

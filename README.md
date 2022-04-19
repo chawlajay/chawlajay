@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.</p>
+> <p>Any of us can achieve virtue, if by virtue we merely mean the avoidance of the vices that do not attract us.</p>
 >
-> <p>- Epictetus</p>
+> <p>- Robert Lynd</p>
 
 Check back at the top of the hour for a new quote!
 

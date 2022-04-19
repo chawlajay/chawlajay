@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Thousands of candles can be lit from a single, and the life of the candle will not be shortened. Happiness never decreases by being shared.</p>
+> <p>Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.</p>
 >
-> <p>- Buddha</p>
+> <p>- Robert Graves</p>
 
 Check back at the top of the hour for a new quote!
 

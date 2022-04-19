@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Never let lack of money interfere with having fun.</p>
+> <p>If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.</p>
 >
-> <p>- null</p>
+> <p>- Vince Lombardi</p>
 
 Check back at the top of the hour for a new quote!
 

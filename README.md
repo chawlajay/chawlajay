@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.</p>
+> <p>There are no limitations to the mind except those we acknowledge.</p>
 >
-> <p>- Robert Graves</p>
+> <p>- Napoleon Hill</p>
 
 Check back at the top of the hour for a new quote!
 

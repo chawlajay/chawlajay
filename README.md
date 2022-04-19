@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.</p>
+> <p>The least of things with a meaning is worth more in life than the greatest of things without it.</p>
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Carl Jung</p>
 
 Check back at the top of the hour for a new quote!
 

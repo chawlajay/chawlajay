@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Any of us can achieve virtue, if by virtue we merely mean the avoidance of the vices that do not attract us.</p>
+> <p>Continuous effort, not strength or intelligence is the key to unlocking our potential.</p>
 >
-> <p>- Robert Lynd</p>
+> <p>- Winston Churchill</p>
 
 Check back at the top of the hour for a new quote!
 

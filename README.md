@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>By accepting yourself and being fully what you are, your presence can make others happy.</p>
+> <p>Learn to listen. Opportunity could be knocking at your door very softly.</p>
 >
-> <p>- Jane Roberts</p>
+> <p>- Frank Tyger</p>
 
 Check back at the top of the hour for a new quote!
 

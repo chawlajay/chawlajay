@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If the stars should appear but one night every thousand years how man would marvel and adore.</p>
+> <p>Wherever a man turns he can find someone who needs him.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Albert Schweitzer</p>
 
 Check back at the top of the hour for a new quote!
 

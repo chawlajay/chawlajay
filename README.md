@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Where all think alike, no one thinks very much.</p>
+> <p>If the stars should appear but one night every thousand years how man would marvel and adore.</p>
 >
-> <p>- Walter Lippmann</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

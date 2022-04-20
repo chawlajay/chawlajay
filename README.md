@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>All achievements, all earned riches, have their beginning in an idea.</p>
+> <p>To be happy is to be able to become aware of oneself without fright.</p>
 >
-> <p>- Napoleon Hill</p>
+> <p>- Walter Benjamin</p>
 
 Check back at the top of the hour for a new quote!
 

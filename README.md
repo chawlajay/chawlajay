@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Life is what happens while you are making other plans.</p>
+> <p>The truth is always exciting. Speak it, then. Life is dull without it.</p>
 >
-> <p>- John Lennon</p>
+> <p>- Pearl Buck</p>
 
 Check back at the top of the hour for a new quote!
 

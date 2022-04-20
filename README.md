@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.</p>
+> <p>The cause is hidden. The effect is visible to all.</p>
 >
-> <p>- Helen Keller</p>
+> <p>- Ovid</p>
 
 Check back at the top of the hour for a new quote!
 

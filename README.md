@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.</p>
+> <p>How far that little candle throws its beams! So shines a good deed in a naughty world.</p>
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- William Shakespeare</p>
 
 Check back at the top of the hour for a new quote!
 

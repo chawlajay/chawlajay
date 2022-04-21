@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The possibilities are numerous once we decide to act and not react.</p>
+> <p>The mind unlearns with difficulty what it has long learned.</p>
 >
-> <p>- George Bernard Shaw</p>
+> <p>- Seneca</p>
 
 Check back at the top of the hour for a new quote!
 

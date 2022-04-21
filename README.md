@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>All serious daring starts from within.</p>
+> <p>A garden is always a series of losses set against a few triumphs, like life itself.</p>
 >
-> <p>- Harriet Beecher Stowe</p>
+> <p>- May Sarton</p>
 
 Check back at the top of the hour for a new quote!
 

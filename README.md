@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You won't skid if you stay in a rut.</p>
+> <p>All serious daring starts from within.</p>
 >
-> <p>- Kin Hubbard</p>
+> <p>- Harriet Beecher Stowe</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The truth is always exciting. Speak it, then. Life is dull without it.</p>
+> <p>Memory is the mother of all wisdom.</p>
 >
-> <p>- Pearl Buck</p>
+> <p>- Samuel Johnson</p>
 
 Check back at the top of the hour for a new quote!
 

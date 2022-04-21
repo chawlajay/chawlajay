@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.</p>
+> <p>I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.</p>
 >
-> <p>- Michelangelo</p>
+> <p>- Leonardo da Vinci</p>
 
 Check back at the top of the hour for a new quote!
 

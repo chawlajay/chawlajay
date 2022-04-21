@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>How far that little candle throws its beams! So shines a good deed in a naughty world.</p>
+> <p>You won't skid if you stay in a rut.</p>
 >
-> <p>- William Shakespeare</p>
+> <p>- Kin Hubbard</p>
 
 Check back at the top of the hour for a new quote!
 

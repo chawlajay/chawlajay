@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.</p>
+> <p>Transformation doesn't take place with a vacuum; instead, it occurs when we are indirectly and directly connected to all those around us.</p>
 >
-> <p>- Napoleon Hill</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

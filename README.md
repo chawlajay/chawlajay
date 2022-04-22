@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The future is completely open, and we are writing it moment to moment.</p>
+> <p>Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.</p>
 >
-> <p>- Pema Chodron</p>
+> <p>- Thomas Carlyle</p>
 
 Check back at the top of the hour for a new quote!
 

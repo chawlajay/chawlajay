@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Your mind will answer most questions if you learn to relax and wait for the answer.</p>
+> <p>Imagination rules the world.</p>
 >
-> <p>- William Burroughs</p>
+> <p>- Napoleon Bonaparte</p>
 
 Check back at the top of the hour for a new quote!
 

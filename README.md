@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.</p>
+> <p>The personal life deeply lived always expands into truths beyond itself.</p>
 >
-> <p>- William Penn</p>
+> <p>- Anais Nin</p>
 
 Check back at the top of the hour for a new quote!
 

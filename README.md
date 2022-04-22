@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The true way to render ourselves happy is to love our work and find in it our pleasure.</p>
+> <p>Learning is finding out what you already know.</p>
 >
-> <p>- Francoise de Motteville</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

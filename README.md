@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>In the middle of every difficulty lies opportunity.</p>
+> <p>True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.</p>
 >
-> <p>- Albert Einstein</p>
+> <p>- William Penn</p>
 
 Check back at the top of the hour for a new quote!
 

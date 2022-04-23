@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>In seed time learn, in harvest teach, in winter enjoy.</p>
+> <p>It is in your moments of decision that your destiny is shaped.</p>
 >
-> <p>- William Blake</p>
+> <p>- Tony Robbins</p>
 
 Check back at the top of the hour for a new quote!
 

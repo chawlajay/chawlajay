@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The journey of a thousand miles begins with one step.</p>
+> <p>Example has more followers than reason.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Christian Bovee</p>
 
 Check back at the top of the hour for a new quote!
 

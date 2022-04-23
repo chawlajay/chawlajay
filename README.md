@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To be what we are, and to become what we are capable of becoming, is the only end of life.</p>
+> <p>When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.</p>
 >
-> <p>- Robert Stevenson</p>
+> <p>- Tenzin Gyatso</p>
 
 Check back at the top of the hour for a new quote!
 

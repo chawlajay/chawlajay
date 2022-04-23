@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You must welcome change as the rule but not as your ruler.</p>
+> <p>I am glad that I paid so little attention to good advice; had I abided by it I might have been saved from some of my most valuable mistakes.</p>
 >
-> <p>- Denis Waitley</p>
+> <p>- Edna Millay</p>
 
 Check back at the top of the hour for a new quote!
 

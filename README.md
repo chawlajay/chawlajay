@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A jug fills drop by drop.</p>
+> <p>Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.</p>
 >
-> <p>- Buddha</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

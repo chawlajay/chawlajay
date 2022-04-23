@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.</p>
+> <p>A jug fills drop by drop.</p>
 >
-> <p>- Henry Thoreau</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

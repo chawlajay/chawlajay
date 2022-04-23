@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Id rather regret the things that I have done than the things that I have not done.</p>
+> <p>God has given you one face, and you make yourself another.</p>
 >
-> <p>- Lucille Ball</p>
+> <p>- William Shakespeare</p>
 
 Check back at the top of the hour for a new quote!
 

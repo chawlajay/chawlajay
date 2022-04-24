@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Talk doesn't cook rice.</p>
+> <p>The smallest act of kindness is worth more than the grandest intention.</p>
 >
-> <p>- Chinese proverb</p>
+> <p>- Oscar Wilde</p>
 
 Check back at the top of the hour for a new quote!
 

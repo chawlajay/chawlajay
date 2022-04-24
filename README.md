@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The only limit to your impact is your imagination and commitment.</p>
+> <p>No man was ever wise by chance.</p>
 >
-> <p>- Tony Robbins</p>
+> <p>- Seneca</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A man should look for what is, and not for what he thinks should be.</p>
+> <p>Talk doesn't cook rice.</p>
 >
-> <p>- Albert Einstein</p>
+> <p>- Chinese proverb</p>
 
 Check back at the top of the hour for a new quote!
 

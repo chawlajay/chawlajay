@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Everything has beauty, but not everyone sees it.</p>
+> <p>When one tugs at a single thing in nature, he finds it attached to the rest of the world.</p>
 >
-> <p>- Confucius</p>
+> <p>- John Muir</p>
 
 Check back at the top of the hour for a new quote!
 

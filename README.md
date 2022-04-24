@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We all have problems. The way we solve them is what makes us different.</p>
+> <p>Wisdom begins in wonder.</p>
 >
-> <p>- null</p>
+> <p>- Socrates</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>As we are liberated from our own fear, our presence automatically liberates others.</p>
+> <p>If the shoe doesn't fit, must we change the foot?</p>
 >
-> <p>- Nelson Mandela</p>
+> <p>- Gloria Steinem</p>
 
 Check back at the top of the hour for a new quote!
 

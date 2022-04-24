@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Meaning is not what you start with but what you end up with.</p>
+> <p>Do not expect the world to look bright, if you habitually wear gray-brown glasses.</p>
 >
-> <p>- Peter Elbow</p>
+> <p>- Tomas Eliot</p>
 
 Check back at the top of the hour for a new quote!
 

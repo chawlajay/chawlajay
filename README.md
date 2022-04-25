@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Inspiration exists, but it has to find us working.</p>
+> <p>I am always doing that which I cannot do, in order that I may learn how to do it.</p>
 >
 > <p>- Pablo Picasso</p>
 

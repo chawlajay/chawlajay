@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I cannot always control what goes on outside. But I can always control what goes on inside.</p>
+> <p>Keep yourself to the sunshine and you cannot see the shadow.</p>
 >
-> <p>- Wayne Dyer</p>
+> <p>- Helen Keller</p>
 
 Check back at the top of the hour for a new quote!
 

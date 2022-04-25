@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We choose our destiny in the way we treat others.</p>
+> <p>A gem cannot be polished without friction, nor a man perfected without trials.</p>
 >
-> <p>- Wit</p>
+> <p>- Chinese proverb</p>
 
 Check back at the top of the hour for a new quote!
 

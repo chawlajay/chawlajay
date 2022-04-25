@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.</p>
+> <p>We choose our destiny in the way we treat others.</p>
 >
-> <p>- Og Mandino</p>
+> <p>- Wit</p>
 
 Check back at the top of the hour for a new quote!
 

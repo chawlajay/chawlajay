@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When you lose, don't lose the lesson.</p>
+> <p>We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.</p>
 >
-> <p>- null</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

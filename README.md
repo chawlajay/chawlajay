@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.</p>
+> <p>Fortune befriends the bold.</p>
 >
-> <p>- Aristotle</p>
+> <p>- John Dryden</p>
 
 Check back at the top of the hour for a new quote!
 

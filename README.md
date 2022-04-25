@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It all depends on how we look at things, and not how they are in themselves.</p>
+> <p>Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.</p>
 >
-> <p>- Carl Jung</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

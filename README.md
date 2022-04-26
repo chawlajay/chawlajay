@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.</p>
+> <p>You cannot make yourself feel something you do not feel, but you can make yourself do right in spite of your feelings.</p>
 >
-> <p>- Winston Churchill</p>
+> <p>- Pearl Buck</p>
 
 Check back at the top of the hour for a new quote!
 

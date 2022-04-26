@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.</p>
+> <p>There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.</p>
 >
-> <p>- Sam Keen</p>
+> <p>- Alfred Korzybski</p>
 
 Check back at the top of the hour for a new quote!
 

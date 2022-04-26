@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.</p>
+> <p>Keep your eyes on the stars and your feet on the ground.</p>
 >
-> <p>- Paavo Nurmi</p>
+> <p>- Theodore Roosevelt</p>
 
 Check back at the top of the hour for a new quote!
 

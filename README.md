@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Whenever something negative happens to you, there is a deep lesson concealed within it.</p>
+> <p>Joy is the best makeup.</p>
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Anne Lamott</p>
 
 Check back at the top of the hour for a new quote!
 

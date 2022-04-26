@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.</p>
+> <p>Success means having the courage, the determination, and the will to become the person you believe you were meant to be.</p>
 >
-> <p>- Barack Obama</p>
+> <p>- George Sheehan</p>
 
 Check back at the top of the hour for a new quote!
 

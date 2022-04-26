@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Never do things others can do and will do, if there are things others cannot do or will not do.</p>
+> <p>Without courage, wisdom bears no fruit.</p>
 >
-> <p>- Amelia Earhart</p>
+> <p>- Baltasar Gracian</p>
 
 Check back at the top of the hour for a new quote!
 

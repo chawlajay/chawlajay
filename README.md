@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Never say there is nothing beautiful in the world any more. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.</p>
+> <p>The greatest obstacle to connecting with our joy is resentment.</p>
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Pema Chodron</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Those who dream by day are cognizant of many things which escape those who dream only by night.</p>
+> <p>The happy and efficient people in this world are those who accept trouble as a normal detail of human life and resolve to capitalize it when it comes along.</p>
 >
-> <p>- Edgar Allan Poe</p>
+> <p>- H. Bertram Lewis</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Don't look back. Something might be gaining on you.</p>
+> <p>Those who dream by day are cognizant of many things which escape those who dream only by night.</p>
 >
-> <p>- Satchel Paige</p>
+> <p>- Edgar Allan Poe</p>
 
 Check back at the top of the hour for a new quote!
 

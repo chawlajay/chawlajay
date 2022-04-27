@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.</p>
+> <p>Meditation brings wisdom; lack of mediation leaves ignorance. Know well what leads you forward and what hold you back, and choose the path that leads to wisdom.</p>
 >
 > <p>- Buddha</p>
 

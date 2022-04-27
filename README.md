@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.</p>
+> <p>No yesterdays are ever wasted for those who give themselves to today.</p>
 >
-> <p>- Helen Keller</p>
+> <p>- Brendan Francis</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Always be mindful of the kindness and not the faults of others.</p>
+> <p>You give before you get.</p>
 >
-> <p>- Buddha</p>
+> <p>- Napoleon Hill</p>
 
 Check back at the top of the hour for a new quote!
 

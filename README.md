@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.</p>
+> <p>Nobody will believe in you unless you believe in yourself.</p>
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Liberace</p>
 
 Check back at the top of the hour for a new quote!
 

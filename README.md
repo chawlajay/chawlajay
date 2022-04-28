@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.</p>
+> <p>The happiness that is genuinely satisfying is accompanied by the fullest exercise of our faculties and the fullest realization of the world in which we live.</p>
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Bertrand Russell</p>
 
 Check back at the top of the hour for a new quote!
 

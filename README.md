@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Your attitude, not your aptitude, will determine your altitude.</p>
+> <p>Spring is a time for rebirth and the fulfilment of new life.</p>
 >
-> <p>- Zig Ziglar</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

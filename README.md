@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Spring is a time for rebirth and the fulfilment of new life.</p>
+> <p>True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Daisaku Ikeda</p>
 
 Check back at the top of the hour for a new quote!
 

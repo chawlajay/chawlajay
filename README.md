@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.</p>
+> <p>The day you decide to do it is your lucky day.</p>
 >
-> <p>- Margaret Smith</p>
+> <p>- Japanese proverb</p>
 
 Check back at the top of the hour for a new quote!
 

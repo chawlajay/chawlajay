@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We do not quit playing because we grow old, we grow old because we quit playing.</p>
+> <p>The day is already blessed, find peace within it.</p>
 >
-> <p>- Oliver Holmes</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The energy of the mind is the essence of life.</p>
+> <p>It is not the mistake that has the most power, instead, it is learning from the mistake to advance your own attributes.</p>
 >
-> <p>- Aristotle</p>
+> <p>- Byron Roberts</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.</p>
+> <p>Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength.</p>
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Hasidic saying</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.</p>
+> <p>What do we live for, if it is not to make life less difficult for each other?</p>
 >
-> <p>- Niccolo Machiavelli</p>
+> <p>- George Eliot</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You cannot find yourself by going into the past. You can find yourself by coming into the present.</p>
+> <p>We do not quit playing because we grow old, we grow old because we quit playing.</p>
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Oliver Holmes</p>
 
 Check back at the top of the hour for a new quote!
 

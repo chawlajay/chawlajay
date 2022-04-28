@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength.</p>
+> <p>The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.</p>
 >
-> <p>- Hasidic saying</p>
+> <p>- Margaret Smith</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Keep true to the dreams of thy youth.</p>
+> <p>History will be kind to me for I intend to write it.</p>
 >
-> <p>- Friedrich von Schiller</p>
+> <p>- Winston Churchill</p>
 
 Check back at the top of the hour for a new quote!
 

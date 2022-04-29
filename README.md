@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The truth you believe and cling to makes you unavailable to hear anything new.</p>
+> <p>The power of intuitive understanding will protect you from harm until the end of your days.</p>
 >
-> <p>- Pema Chodron</p>
+> <p>- Laozi</p>
 
 Check back at the top of the hour for a new quote!
 

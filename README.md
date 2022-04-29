@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception, it is a prevailing attitude.</p>
+> <p>The truth you believe and cling to makes you unavailable to hear anything new.</p>
 >
-> <p>- Colin Powell</p>
+> <p>- Pema Chodron</p>
 
 Check back at the top of the hour for a new quote!
 

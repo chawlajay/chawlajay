@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The power of intuitive understanding will protect you from harm until the end of your days.</p>
+> <p>Money was never a big motivation for me, except as a way to keep score. The real excitement is playing the game.</p>
 >
-> <p>- Laozi</p>
+> <p>- Donald Trump</p>
 
 Check back at the top of the hour for a new quote!
 

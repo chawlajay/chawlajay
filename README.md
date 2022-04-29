@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You'll see it when you believe it.</p>
+> <p>You got to be careful if you don't know where you're going, because you might not get there.</p>
 >
-> <p>- Wayne Dyer</p>
+> <p>- Yogi Berra</p>
 
 Check back at the top of the hour for a new quote!
 

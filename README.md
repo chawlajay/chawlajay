@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, Something is out of tune.</p>
+> <p>You have to believe in yourself.</p>
 >
-> <p>- Carl Jung</p>
+> <p>- Sun Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

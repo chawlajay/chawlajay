@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Money was never a big motivation for me, except as a way to keep score. The real excitement is playing the game.</p>
+> <p>The highest stage in moral ure at which we can arrive is when we recognize that we ought to control our thoughts.</p>
 >
-> <p>- Donald Trump</p>
+> <p>- Charles Darwin</p>
 
 Check back at the top of the hour for a new quote!
 

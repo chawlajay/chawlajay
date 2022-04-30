@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>He who fears being conquered is sure of defeat.</p>
+> <p>Imagination rules the world.</p>
 >
 > <p>- Napoleon Bonaparte</p>
 

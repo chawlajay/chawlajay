@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.</p>
+> <p>To free us from the expectations of others, to give us back to ourselves there lies the great, singular power of self-respect.</p>
 >
-> <p>- Og Mandino</p>
+> <p>- Joan Didion</p>
 
 Check back at the top of the hour for a new quote!
 

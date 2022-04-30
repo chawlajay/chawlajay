@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Nothing is at last sacred but the integrity of your own mind.</p>
+> <p>Mountains cannot be surmounted except by winding paths.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Check back at the top of the hour for a new quote!
 

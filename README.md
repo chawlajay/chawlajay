@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Mountains cannot be surmounted except by winding paths.</p>
+> <p>When you arise in the morning, think of what a precious privilege it is to be alive to breathe, to think, to enjoy, to love.</p>
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Marcus Aurelius</p>
 
 Check back at the top of the hour for a new quote!
 

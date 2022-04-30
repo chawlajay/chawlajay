@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Ability is what you're capable of doing. Motivation determines what you do.Attitude determines how well you do it.</p>
+> <p>Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.</p>
 >
-> <p>- Lou Holtz</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

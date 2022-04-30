@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>He that is giddy thinks the world turns round.</p>
+> <p>A wise man can learn more from a foolish question than a fool can learn from a wise answer.</p>
 >
-> <p>- William Shakespeare</p>
+> <p>- Bruce Lee</p>
 
 Check back at the top of the hour for a new quote!
 

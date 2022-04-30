@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When you arise in the morning, think of what a precious privilege it is to be alive to breathe, to think, to enjoy, to love.</p>
+> <p>I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.</p>
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Og Mandino</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.</p>
+> <p>Progress always involves risks. You can't steal second base and keep your foot on first.</p>
 >
-> <p>- Morris West</p>
+> <p>- Frederick Wilcox</p>
 
 Check back at the top of the hour for a new quote!
 

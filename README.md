@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Prosperity depends more on wanting what you have than having what you want.</p>
+> <p>If you take each challenge one step at a time, with faith in every footstep, your strength and understanding will increase.</p>
 >
-> <p>- Geoffrey F. Abert</p>
+> <p>- James Faust</p>
 
 Check back at the top of the hour for a new quote!
 

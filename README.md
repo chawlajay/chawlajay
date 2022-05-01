@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You block your dream when you allow your fear to grow bigger than your faith.</p>
+> <p>Prosperity depends more on wanting what you have than having what you want.</p>
 >
-> <p>- Mary Morrissey</p>
+> <p>- Geoffrey F. Abert</p>
 
 Check back at the top of the hour for a new quote!
 

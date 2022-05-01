@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Whoever is happy will make others happy, too.</p>
+> <p>If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.</p>
 >
-> <p>- Mark Twain</p>
+> <p>- Morris West</p>
 
 Check back at the top of the hour for a new quote!
 

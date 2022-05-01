@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Experience is simply the name we give our mistakes.</p>
+> <p>Nothing is a waste of time if you use the experience wisely.</p>
 >
-> <p>- Oscar Wilde</p>
+> <p>- Rodin</p>
 
 Check back at the top of the hour for a new quote!
 

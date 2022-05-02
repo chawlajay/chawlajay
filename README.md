@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The Superior Man is aware of Righteousness, the inferior man is aware of advantage.</p>
+> <p>Things turn out best for those who make the best of the way things turn out.</p>
 >
-> <p>- Confucius</p>
+> <p>- Jack Buck</p>
 
 Check back at the top of the hour for a new quote!
 

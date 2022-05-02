@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Ignorant men don't know what good they hold in their hands until they've flung it away.</p>
+> <p>Take time to deliberate, but when the time for action has arrived, stop thinking and go in.</p>
 >
-> <p>- Sophocles</p>
+> <p>- Napoleon Bonaparte</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.</p>
+> <p>Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.</p>
 >
-> <p>- Maya Angelou</p>
+> <p>- Marcus Aurelius</p>
 
 Check back at the top of the hour for a new quote!
 

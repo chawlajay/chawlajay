@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>From little acorns mighty oaks do grow.</p>
+> <p>In the long run we get no more than we have been willing to risk giving.</p>
 >
-> <p>- American proverb</p>
+> <p>- Sheldon Kopp</p>
 
 Check back at the top of the hour for a new quote!
 

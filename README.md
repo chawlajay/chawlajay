@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>In the long run we get no more than we have been willing to risk giving.</p>
+> <p>It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.</p>
 >
-> <p>- Sheldon Kopp</p>
+> <p>- Pema Chodron</p>
 
 Check back at the top of the hour for a new quote!
 

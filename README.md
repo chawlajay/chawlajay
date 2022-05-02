@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Every sixty seconds you spend angry, upset or mad, is a full minute of happiness you will never get back.</p>
+> <p>A stumble may prevent a fall.</p>
 >
 > <p>- null</p>
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.</p>
+> <p>Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.</p>
 >
-> <p>- Wayne Dyer</p>
+> <p>- Napoleon Hill</p>
 
 Check back at the top of the hour for a new quote!
 

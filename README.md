@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.</p>
+> <p>Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.</p>
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

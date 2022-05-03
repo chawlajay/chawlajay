@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You are always free to change your mind and choose a different future, or a different past.</p>
+> <p>We must embrace pain and burn it as fuel for our journey.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Kenji Miyazawa</p>
 
 Check back at the top of the hour for a new quote!
 

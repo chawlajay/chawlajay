@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When you judge another, you do not define them, you define yourself.</p>
+> <p>Doing what you love is the cornerstone of having abundance in your life.</p>
 >
 > <p>- Wayne Dyer</p>
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We must learn our limits. We are all something, but none of us are everything.</p>
+> <p>Flow with whatever is happening and let your mind be free. Stay centred by accepting whatever you are doing. This is the ultimate.</p>
 >
-> <p>- Blaise Pascal</p>
+> <p>- Chuang Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

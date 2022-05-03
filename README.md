@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Deep listening is miraculous for both listener and speaker.When someone receives us with open-hearted, non-judging, intensely interested listening, our spirits expand.</p>
+> <p>Life is what happens while you are making other plans.</p>
 >
-> <p>- Sue Patton Thoele</p>
+> <p>- John Lennon</p>
 
 Check back at the top of the hour for a new quote!
 

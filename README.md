@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Flow with whatever is happening and let your mind be free. Stay centred by accepting whatever you are doing. This is the ultimate.</p>
+> <p>With the realization of ones own potential and self-confidence in ones ability, one can build a better world.</p>
 >
-> <p>- Chuang Tzu</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

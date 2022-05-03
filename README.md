@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.</p>
+> <p>Forget about all the reasons why something may not work. You only need to find one good reason why it will.</p>
 >
-> <p>- null</p>
+> <p>- Robert Anthony</p>
 
 Check back at the top of the hour for a new quote!
 

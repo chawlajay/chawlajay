@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>With the realization of ones own potential and self-confidence in ones ability, one can build a better world.</p>
+> <p>Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Mary Kay Ash</p>
 
 Check back at the top of the hour for a new quote!
 

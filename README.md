@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Forget about all the reasons why something may not work. You only need to find one good reason why it will.</p>
+> <p>There never was a good knife made of bad steel.</p>
 >
-> <p>- Robert Anthony</p>
+> <p>- Benjamin Franklin</p>
 
 Check back at the top of the hour for a new quote!
 

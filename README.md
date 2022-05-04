@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You can complain because roses have thorns, or you can rejoice because thorns have roses.</p>
+> <p>Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.</p>
 >
-> <p>- Ziggy</p>
+> <p>- Helen Keller</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you are patient in one moment of anger, you will escape one hundred days of sorrow.</p>
+> <p>Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.</p>
 >
-> <p>- Chinese proverb</p>
+> <p>- Nikola Tesla</p>
 
 Check back at the top of the hour for a new quote!
 

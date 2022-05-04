@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A man is great by deeds, not by birth.</p>
+> <p>Quality is never an accident; it is always the result of intelligent effort.</p>
 >
-> <p>- Chanakya</p>
+> <p>- John Ruskin</p>
 
 Check back at the top of the hour for a new quote!
 

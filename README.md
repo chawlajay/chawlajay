@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Open minds lead to open doors.</p>
+> <p>The universe is made of stories, not atoms.</p>
 >
-> <p>- null</p>
+> <p>- Muriel Rukeyser</p>
 
 Check back at the top of the hour for a new quote!
 

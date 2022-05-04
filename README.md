@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We cannot direct the wind but we can adjust the sails.</p>
+> <p>A man is great by deeds, not by birth.</p>
 >
-> <p>- null</p>
+> <p>- Chanakya</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The universe is made of stories, not atoms.</p>
+> <p>The aim of life is self-development. To realize ones nature perfectly that is what each of us is here for.</p>
 >
-> <p>- Muriel Rukeyser</p>
+> <p>- Oscar Wilde</p>
 
 Check back at the top of the hour for a new quote!
 

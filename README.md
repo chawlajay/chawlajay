@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>No one can make you feel inferior without your consent.</p>
+> <p>Be yourself; everyone else is already taken.</p>
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Oscar Wilde</p>
 
 Check back at the top of the hour for a new quote!
 

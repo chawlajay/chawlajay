@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The aim of life is self-development. To realize ones nature perfectly that is what each of us is here for.</p>
+> <p>Nothing strengthens authority so much as silence.</p>
 >
-> <p>- Oscar Wilde</p>
+> <p>- Leonardo da Vinci</p>
 
 Check back at the top of the hour for a new quote!
 

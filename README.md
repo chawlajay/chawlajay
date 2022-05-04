@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Every problem has a gift for you in its hands.</p>
+> <p>We cannot direct the wind but we can adjust the sails.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

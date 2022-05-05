@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>All is flux; nothing stays still.</p>
+> <p>The best place to find a helping hand is at the end of your own arm.</p>
 >
-> <p>- Heraclitus</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

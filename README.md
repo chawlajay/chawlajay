@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>No snowflake in an avalanche ever feels responsible.</p>
+> <p>Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.</p>
 >
-> <p>- Voltaire</p>
+> <p>- Maya Angelou</p>
 
 Check back at the top of the hour for a new quote!
 

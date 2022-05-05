@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Setting an example is not the main means of influencing another, it is the only means.</p>
+> <p>If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.</p>
 >
-> <p>- Albert Einstein</p>
+> <p>- Jim Rohn</p>
 
 Check back at the top of the hour for a new quote!
 

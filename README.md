@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Experience keeps a dear school, but fools will learn in no other.</p>
+> <p>Open minds lead to open doors.</p>
 >
-> <p>- Benjamin Franklin</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

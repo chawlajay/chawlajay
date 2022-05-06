@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.</p>
+> <p>Time you enjoy wasting, was not wasted.</p>
 >
-> <p>- Confucius</p>
+> <p>- John Lennon</p>
 
 Check back at the top of the hour for a new quote!
 

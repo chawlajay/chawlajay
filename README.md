@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Much wisdom often goes with fewer words.</p>
+> <p>Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.</p>
 >
-> <p>- Sophocles</p>
+> <p>- Hannah Arendt</p>
 
 Check back at the top of the hour for a new quote!
 

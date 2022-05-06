@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is the greatest of all mistakes to do nothing because you can only do little do what you can.</p>
+> <p>When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.</p>
 >
-> <p>- Sydney Smith</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

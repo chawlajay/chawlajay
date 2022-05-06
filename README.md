@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Love at first sight is easy to understand; its when two people have been looking at each other for a lifetime that it becomes a miracle.</p>
+> <p>Nature takes away any faculty that is not used.</p>
 >
-> <p>- Amy Bloom</p>
+> <p>- William R. Inge</p>
 
 Check back at the top of the hour for a new quote!
 

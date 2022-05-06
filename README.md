@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Nature takes away any faculty that is not used.</p>
+> <p>Choose a job you love, and you will never have to work a day in your life.</p>
 >
-> <p>- William R. Inge</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

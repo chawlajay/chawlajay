@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.</p>
+> <p>Everything in life is luck.</p>
 >
-> <p>- Tony Robbins</p>
+> <p>- Donald Trump</p>
 
 Check back at the top of the hour for a new quote!
 

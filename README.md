@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Blessed is the person who is too busy to worry in the daytime, and too sleepy to worry at night.</p>
+> <p>Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.</p>
 >
-> <p>- Leo Aikman</p>
+> <p>- Tony Robbins</p>
 
 Check back at the top of the hour for a new quote!
 

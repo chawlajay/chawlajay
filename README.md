@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A prudent question is one half of wisdom.</p>
+> <p>History will be kind to me for I intend to write it.</p>
 >
-> <p>- Francis Bacon</p>
+> <p>- Winston Churchill</p>
 
 Check back at the top of the hour for a new quote!
 

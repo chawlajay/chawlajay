@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Good thoughts are no better than good dreams, unless they be executed.</p>
+> <p>We can only be said to be alive in those moments when our hearts are conscious of our treasures.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Thornton Wilder</p>
 
 Check back at the top of the hour for a new quote!
 

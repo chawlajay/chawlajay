@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Those who dream by day are cognizant of many things which escape those who dream only by night.</p>
+> <p>Action will remove the doubts that theory cannot solve.</p>
 >
-> <p>- Edgar Allan Poe</p>
+> <p>- Tehyi Hsieh</p>
 
 Check back at the top of the hour for a new quote!
 

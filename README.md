@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The aim of life is self-development. To realize ones nature perfectly that is what each of us is here for.</p>
+> <p>Don't leave a stone unturned. It's always something, to know you have done the most you could.</p>
 >
-> <p>- Oscar Wilde</p>
+> <p>- Charles Dickens</p>
 
 Check back at the top of the hour for a new quote!
 

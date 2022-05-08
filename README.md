@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The best cure for the body is a quiet mind.</p>
+> <p>An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is colour-blind.</p>
 >
-> <p>- Napoleon Bonaparte</p>
+> <p>- Albert Schweitzer</p>
 
 Check back at the top of the hour for a new quote!
 

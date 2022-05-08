@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The awareness of our own strength makes us modest.</p>
+> <p>The cure for boredom is curiosity. There is no cure for curiosity.</p>
 >
-> <p>- Paul Cezanne</p>
+> <p>- Ellen Parr</p>
 
 Check back at the top of the hour for a new quote!
 

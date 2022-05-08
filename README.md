@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.</p>
+> <p>You teach best what you most need to learn.</p>
 >
-> <p>- Nelson Mandela</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

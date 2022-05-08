@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You can complain because roses have thorns, or you can rejoice because thorns have roses.</p>
+> <p>To listen well is as powerful a means of communication and influence as to talk well.</p>
 >
-> <p>- Ziggy</p>
+> <p>- John Marshall</p>
 
 Check back at the top of the hour for a new quote!
 

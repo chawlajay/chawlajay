@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The cure for boredom is curiosity. There is no cure for curiosity.</p>
+> <p>I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.</p>
 >
-> <p>- Ellen Parr</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

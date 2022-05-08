@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you aren't going all the way, why go at all?</p>
+> <p>Being right is highly overrated. Even a stopped clock is right twice a day.</p>
 >
-> <p>- Joe Namath</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

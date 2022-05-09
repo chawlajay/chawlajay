@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can't build on it; it's only for wallowing in.</p>
+> <p>To dare is to lose ones footing momentarily. To not dare is to lose oneself.</p>
 >
-> <p>- Katherine Mansfield</p>
+> <p>- Soren Kierkegaard</p>
 
 Check back at the top of the hour for a new quote!
 

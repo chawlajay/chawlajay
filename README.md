@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Never ignore a gut feeling, but never believe that it's enough.</p>
+> <p>Chaos is inherent in all compounded things. Strive on with diligence.</p>
 >
-> <p>- Robert Heller</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

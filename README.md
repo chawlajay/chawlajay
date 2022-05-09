@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Many people think of prosperity that concerns money only to forget that true prosperity is of the mind.</p>
+> <p>There is not one big cosmic meaning for all, there is only the meaning we each give to our life.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Anais Nin</p>
 
 Check back at the top of the hour for a new quote!
 

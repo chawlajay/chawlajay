@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Work for something because it is good, not just because it stands a chance to succeed.</p>
+> <p>Everything is perfect in the universe even your desire to improve it.</p>
 >
-> <p>- Vaclav Havel</p>
+> <p>- Wayne Dyer</p>
 
 Check back at the top of the hour for a new quote!
 

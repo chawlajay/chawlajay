@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Never ignore a gut feeling, but never believe that it's enough.</p>
+> <p>A goal without a plan is just a wish.</p>
 >
-> <p>- Robert Heller</p>
+> <p>- Larry Elder</p>
 
 Check back at the top of the hour for a new quote!
 

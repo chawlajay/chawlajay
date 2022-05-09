@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Kind words do not cost much. Yet they accomplish much.</p>
+> <p>A jug fills drop by drop.</p>
 >
-> <p>- Blaise Pascal</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

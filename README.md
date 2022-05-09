@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It's easier to see the mistakes on someone else's paper.</p>
+> <p>Do not go where the path may lead, go instead where there is no path and leave a trail.</p>
 >
-> <p>- null</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

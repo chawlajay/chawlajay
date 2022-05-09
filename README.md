@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Be less curious about people and more curious about ideas.</p>
+> <p>It's easier to see the mistakes on someone else's paper.</p>
 >
-> <p>- Marie Curie</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

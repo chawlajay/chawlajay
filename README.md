@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A goal without a plan is just a wish.</p>
+> <p>Our kindness may be the most persuasive argument for that which we believe.</p>
 >
-> <p>- Larry Elder</p>
+> <p>- Gordon Hinckley</p>
 
 Check back at the top of the hour for a new quote!
 

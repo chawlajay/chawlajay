@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Everything is perfect in the universe even your desire to improve it.</p>
+> <p>The greatest minds are capable of the greatest vices as well as of the greatest virtues.</p>
 >
-> <p>- Wayne Dyer</p>
+> <p>- Rene Descartes</p>
 
 Check back at the top of the hour for a new quote!
 

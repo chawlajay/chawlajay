@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You have enemies? Good. That means you've stood up for something, sometime in your life.</p>
+> <p>We never live; we are always in the expectation of living.</p>
 >
-> <p>- Winston Churchill</p>
+> <p>- Voltaire</p>
 
 Check back at the top of the hour for a new quote!
 

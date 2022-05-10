@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.</p>
+> <p>Gratitude is riches. Complaint is poverty.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Doris Day</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Patience is the companion of wisdom.</p>
+> <p>To dream of the person you would like to be is to waste the person you are.</p>
 >
-> <p>- Saint Augustine</p>
+> <p>- Tim Menchen</p>
 
 Check back at the top of the hour for a new quote!
 

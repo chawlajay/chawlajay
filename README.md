@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Imagination is the highest kite one can fly.</p>
+> <p>Happiness is when what you think, what you say, and what you do are in harmony.</p>
 >
-> <p>- Lauren Bacall</p>
+> <p>- Mohandas Gandhi</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.</p>
+> <p>It is impossible for a man to learn what he thinks he already knows.</p>
 >
-> <p>- Denis Waitley</p>
+> <p>- Epictetus</p>
 
 Check back at the top of the hour for a new quote!
 

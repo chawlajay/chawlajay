@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Knowledge is a process of piling up facts; wisdom lies in their simplification.</p>
+> <p>Learning is finding out what you already know.</p>
 >
-> <p>- Martin Fischer</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

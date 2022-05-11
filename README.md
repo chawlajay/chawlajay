@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>He who talks more is sooner exhausted.</p>
+> <p>If I know what love is, it is because of you.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Hermann Hesse</p>
 
 Check back at the top of the hour for a new quote!
 

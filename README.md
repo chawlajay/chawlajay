@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Yeah we all shine on, like the moon, and the stars, and the sun.</p>
+> <p>The thing always happens that you really believe in; and the belief in a thing makes it happen.</p>
 >
-> <p>- John Lennon</p>
+> <p>- Frank Wright</p>
 
 Check back at the top of the hour for a new quote!
 

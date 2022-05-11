@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>History will be kind to me for I intend to write it.</p>
+> <p>To ensure good health: eat lightly, breathe deeply, live moderately, cultivate cheerfulness, and maintain an interest in life.</p>
 >
-> <p>- Winston Churchill</p>
+> <p>- William Londen</p>
 
 Check back at the top of the hour for a new quote!
 

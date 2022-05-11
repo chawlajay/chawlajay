@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.</p>
+> <p>In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.</p>
 >
-> <p>- Uta Hagen</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

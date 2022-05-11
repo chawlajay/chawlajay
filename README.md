@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>In the depth of winter, I finally learned that there was within me an invincible summer.</p>
+> <p>To know oneself is to study oneself in action with another person.</p>
 >
-> <p>- Albert Camus</p>
+> <p>- Bruce Lee</p>
 
 Check back at the top of the hour for a new quote!
 

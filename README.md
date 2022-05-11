@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Knowledge has three degrees opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.</p>
+> <p>Invent your world. Surround yourself with people, color, sounds, and work that nourish you.</p>
 >
-> <p>- Plotinus</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

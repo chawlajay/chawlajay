@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There is a way that nature speaks, that land speaks. Most of the time we are simply not patient enough, quiet enough, to pay attention to the story.</p>
+> <p>We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.</p>
 >
-> <p>- Linda Hogan</p>
+> <p>- Uta Hagen</p>
 
 Check back at the top of the hour for a new quote!
 

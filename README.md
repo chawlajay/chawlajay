@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I gave my life to become the person I am right now. Was it worth it?</p>
+> <p>Nothing is softer or more flexible than water, yet nothing can resist it.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

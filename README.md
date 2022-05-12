@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.</p>
+> <p>Every man takes the limits of his own field of vision for the limits of the world.</p>
 >
-> <p>- Winston Churchill</p>
+> <p>- Arthur Schopenhauer</p>
 
 Check back at the top of the hour for a new quote!
 

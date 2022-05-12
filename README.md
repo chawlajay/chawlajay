@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.</p>
+> <p>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.</p>
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Wayne Dyer</p>
 
 Check back at the top of the hour for a new quote!
 

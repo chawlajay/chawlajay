@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You can't create in a vacuum. Life gives you the material and dreams can propel new beginnings.</p>
+> <p>Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Check back at the top of the hour for a new quote!
 

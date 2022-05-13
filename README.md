@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Imagination is the highest kite one can fly.</p>
+> <p>Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather.</p>
 >
-> <p>- Lauren Bacall</p>
+> <p>- John Ruskin</p>
 
 Check back at the top of the hour for a new quote!
 

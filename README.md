@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Nothing ever goes away until it has taught us what we need to know.</p>
+> <p>Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.</p>
 >
-> <p>- Pema Chodron</p>
+> <p>- Bruce Lee</p>
 
 Check back at the top of the hour for a new quote!
 

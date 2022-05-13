@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Everything is perfect in the universe even your desire to improve it.</p>
+> <p>Nothing ever goes away until it has taught us what we need to know.</p>
 >
-> <p>- Wayne Dyer</p>
+> <p>- Pema Chodron</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.</p>
+> <p>The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.</p>
 >
-> <p>- Jane Addams</p>
+> <p>- Charles Lamb</p>
 
 Check back at the top of the hour for a new quote!
 

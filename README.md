@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</p>
+> <p>Whatever we expect with confidence becomes our own self-fulfilling prophecy.</p>
 >
-> <p>- Aristotle</p>
+> <p>- Brian Tracy</p>
 
 Check back at the top of the hour for a new quote!
 

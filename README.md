@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.</p>
+> <p>Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.</p>
 >
-> <p>- Audre Lorde</p>
+> <p>- Jane Addams</p>
 
 Check back at the top of the hour for a new quote!
 

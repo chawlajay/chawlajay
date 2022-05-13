@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability.</p>
+> <p>Imagination is the highest kite one can fly.</p>
 >
-> <p>- Confucius</p>
+> <p>- Lauren Bacall</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Whatever we expect with confidence becomes our own self-fulfilling prophecy.</p>
+> <p>Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.</p>
 >
-> <p>- Brian Tracy</p>
+> <p>- Dhammapada</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.</p>
+> <p>Life is a learning experience, only if you learn.</p>
 >
-> <p>- Charles Lamb</p>
+> <p>- Yogi Berra</p>
 
 Check back at the top of the hour for a new quote!
 

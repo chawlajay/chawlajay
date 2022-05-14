@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If one way be better than another, that you may be sure is natures way.</p>
+> <p>Meaning is not what you start with but what you end up with.</p>
 >
-> <p>- Aristotle</p>
+> <p>- Peter Elbow</p>
 
 Check back at the top of the hour for a new quote!
 

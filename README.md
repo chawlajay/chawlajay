@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Your work is to discover your work and then with all your heart to give yourself to it.</p>
+> <p>Anything you really want, you can attain, if you really go after it.</p>
 >
-> <p>- Buddha</p>
+> <p>- Wayne Dyer</p>
 
 Check back at the top of the hour for a new quote!
 

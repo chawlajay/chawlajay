@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Build a better mousetrap and the world will beat a path to your door.</p>
+> <p>I gave my life to become the person I am right now. Was it worth it?</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</p>
+> <p>The only real failure in life is not to be true to the best one knows.</p>
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.</p>
+> <p>Happiness is when what you think, what you say, and what you do are in harmony.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Mohandas Gandhi</p>
 
 Check back at the top of the hour for a new quote!
 

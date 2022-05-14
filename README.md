@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Responsibility is not inherited, it is a choice that everyone needs to make at some point in their life.</p>
+> <p>I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Happiness is when what you think, what you say, and what you do are in harmony.</p>
+> <p>Change your words. Change your world.</p>
 >
-> <p>- Mohandas Gandhi</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

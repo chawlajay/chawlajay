@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We are Divine enough to ask and we are important enough to receive.</p>
+> <p>If one way be better than another, that you may be sure is natures way.</p>
 >
-> <p>- Wayne Dyer</p>
+> <p>- Aristotle</p>
 
 Check back at the top of the hour for a new quote!
 

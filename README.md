@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.</p>
+> <p>A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one.</p>
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Chuck Norris</p>
 
 Check back at the top of the hour for a new quote!
 

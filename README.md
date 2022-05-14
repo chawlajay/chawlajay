@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.</p>
+> <p>Be sure you put your feet in the right place, then stand firm.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Abraham Lincoln</p>
 
 Check back at the top of the hour for a new quote!
 

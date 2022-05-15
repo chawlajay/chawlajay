@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.</p>
+> <p>If we look at the world with a love of life, the world will reveal its beauty to us.</p>
 >
-> <p>- Melody Beattie</p>
+> <p>- Daisaku Ikeda</p>
 
 Check back at the top of the hour for a new quote!
 

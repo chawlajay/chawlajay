@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.</p>
+> <p>Failure will never overtake me if my determination to succeed is strong enough.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Og Mandino</p>
 
 Check back at the top of the hour for a new quote!
 

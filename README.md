@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The greatest good you can do for another is not just share your riches, but reveal to them their own.</p>
+> <p>We see things not as they are, but as we are. Our perception is shaped by our previous experiences.</p>
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Dennis Kimbro</p>
 
 Check back at the top of the hour for a new quote!
 

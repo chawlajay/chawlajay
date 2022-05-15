@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.</p>
+> <p>The greatest good you can do for another is not just share your riches, but reveal to them their own.</p>
 >
-> <p>- Mortimer Adler</p>
+> <p>- Benjamin Disraeli</p>
 
 Check back at the top of the hour for a new quote!
 

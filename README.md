@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Only when we are no longer afraid do we begin to live.</p>
+> <p>Through perseverance many people win success out of what seemed destined to be certain failure.</p>
 >
-> <p>- Dorothy Thompson</p>
+> <p>- Benjamin Disraeli</p>
 
 Check back at the top of the hour for a new quote!
 

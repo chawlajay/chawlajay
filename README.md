@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Failure will never overtake me if my determination to succeed is strong enough.</p>
+> <p>Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong.</p>
 >
-> <p>- Og Mandino</p>
+> <p>- Richard Needham</p>
 
 Check back at the top of the hour for a new quote!
 

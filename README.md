@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Good advice is always certain to be ignored, but that's no reason not to give it.</p>
+> <p>Flow with whatever is happening and let your mind be free. Stay centred by accepting whatever you are doing. This is the ultimate.</p>
 >
-> <p>- Agatha Christie</p>
+> <p>- Chuang Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

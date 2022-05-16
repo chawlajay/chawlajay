@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>In separateness lies the world's great misery, in compassion lies the world's true strength.</p>
+> <p>Much wisdom often goes with fewer words.</p>
 >
-> <p>- Buddha</p>
+> <p>- Sophocles</p>
 
 Check back at the top of the hour for a new quote!
 

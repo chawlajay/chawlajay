@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We all live with the objective of being happy; our lives are all different and yet the same.</p>
+> <p>Every action of our lives touches on some chord that will vibrate in eternity.</p>
 >
-> <p>- Anne Frank</p>
+> <p>- Edwin Chapin</p>
 
 Check back at the top of the hour for a new quote!
 

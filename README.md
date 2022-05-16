@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>He who lives in harmony with himself lives in harmony with the world.</p>
+> <p>Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.</p>
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Julie Morgenstern</p>
 
 Check back at the top of the hour for a new quote!
 

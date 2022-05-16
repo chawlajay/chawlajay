@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Every action of our lives touches on some chord that will vibrate in eternity.</p>
+> <p>We could never learn to be brave and patient if there were only joy in the world.</p>
 >
-> <p>- Edwin Chapin</p>
+> <p>- Helen Keller</p>
 
 Check back at the top of the hour for a new quote!
 

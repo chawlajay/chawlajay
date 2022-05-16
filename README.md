@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>God has given you one face, and you make yourself another.</p>
+> <p>Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.</p>
 >
-> <p>- William Shakespeare</p>
+> <p>- Eleanor Roosevelt</p>
 
 Check back at the top of the hour for a new quote!
 

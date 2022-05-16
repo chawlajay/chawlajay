@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>All achievements, all earned riches, have their beginning in an idea.</p>
+> <p>This is the final test of a gentleman: his respect for those who can be of no possible value to him.</p>
 >
-> <p>- Napoleon Hill</p>
+> <p>- William Lyon Phelps</p>
 
 Check back at the top of the hour for a new quote!
 

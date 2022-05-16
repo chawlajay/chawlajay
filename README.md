@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>They can do all because they think they can.</p>
+> <p>The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.</p>
 >
-> <p>- Virgil</p>
+> <p>- Winston Churchill</p>
 
 Check back at the top of the hour for a new quote!
 

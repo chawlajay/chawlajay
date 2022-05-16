@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Our greatness lies not so much in being able to remake the world as being able to remake ourselves.</p>
+> <p>At the center of your being you have the answer; you know who you are and you know what you want.</p>
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

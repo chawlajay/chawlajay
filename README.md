@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you come to a fork in the road, take it.</p>
+> <p>There is only one success to be able to spend your life in your own way.</p>
 >
-> <p>- null</p>
+> <p>- Christopher Morley</p>
 
 Check back at the top of the hour for a new quote!
 

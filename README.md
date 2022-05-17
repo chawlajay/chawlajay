@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Mistakes are always forgivable, if one has the courage to admit them.</p>
+> <p>If only wed stop trying to be happy wed have a pretty good time.</p>
 >
-> <p>- Bruce Lee</p>
+> <p>- Edith Wharton</p>
 
 Check back at the top of the hour for a new quote!
 

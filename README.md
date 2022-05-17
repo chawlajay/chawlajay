@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Freedom is the right to live as we wish.</p>
+> <p>He who conquers others is strong; He who conquers himself is mighty.</p>
 >
-> <p>- Epictetus</p>
+> <p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

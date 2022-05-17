@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To be beautiful means to be yourself. You do not need to be accepted by others. You need to accept yourself.</p>
+> <p>I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.</p>
 >
-> <p>- Thich Nhat Hanh</p>
+> <p>- Herbert Swope</p>
 
 Check back at the top of the hour for a new quote!
 

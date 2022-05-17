@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.</p>
+> <p>Until you make peace with who you are, you will never be content with what you have.</p>
 >
-> <p>- Herbert Swope</p>
+> <p>- Doris Mortman</p>
 
 Check back at the top of the hour for a new quote!
 

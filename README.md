@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>He who conquers others is strong; He who conquers himself is mighty.</p>
+> <p>To study and not think is a waste. To think and not study is dangerous.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

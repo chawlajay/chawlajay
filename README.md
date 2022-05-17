@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Life is a learning experience, only if you learn.</p>
+> <p>Try not to become a man of success, but rather try to become a man of value.</p>
 >
-> <p>- Yogi Berra</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

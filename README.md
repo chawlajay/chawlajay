@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Life is a process. We are a process. The universe is a process.</p>
+> <p>Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.</p>
 >
-> <p>- Anne Schaef</p>
+> <p>- Blaise Pascal</p>
 
 Check back at the top of the hour for a new quote!
 

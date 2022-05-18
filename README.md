@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.</p>
+> <p>Life is a process. We are a process. The universe is a process.</p>
 >
-> <p>- Anatole France</p>
+> <p>- Anne Schaef</p>
 
 Check back at the top of the hour for a new quote!
 

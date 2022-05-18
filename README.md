@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The superior man is modest in his speech, but exceeds in his actions.</p>
+> <p>Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.</p>
 >
-> <p>- Confucius</p>
+> <p>- Arthur Conan Doyle</p>
 
 Check back at the top of the hour for a new quote!
 

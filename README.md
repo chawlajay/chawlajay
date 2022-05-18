@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Dreams come true. Without that possibility, nature would not incite us to have them.</p>
+> <p>Life is 10% what happens to you and 90% how you react to it.</p>
 >
-> <p>- John Updike</p>
+> <p>- Charles Swindoll</p>
 
 Check back at the top of the hour for a new quote!
 

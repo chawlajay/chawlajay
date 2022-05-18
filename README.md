@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.</p>
+> <p>Every great advance in science has issued from a new audacity of the imagination.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- John Dewey</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price well have to pay to achieve that goal, or any goal.</p>
+> <p>If only wed stop trying to be happy wed have a pretty good time.</p>
 >
-> <p>- Vince Lombardi</p>
+> <p>- Edith Wharton</p>
 
 Check back at the top of the hour for a new quote!
 

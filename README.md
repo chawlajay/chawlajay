@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Having nothing, nothing can he lose.</p>
+> <p>Time changes everything except something within us which is always surprised by change.</p>
 >
-> <p>- William Shakespeare</p>
+> <p>- Thomas Hardy</p>
 
 Check back at the top of the hour for a new quote!
 

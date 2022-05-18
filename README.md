@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you want to study yourself look into the hearts of other people. If you want to study other people look into your own heart.</p>
+> <p>Weve got to have a dream if we are going to make a dream come true.</p>
 >
-> <p>- Friedrich von Schiller</p>
+> <p>- Walt Disney</p>
 
 Check back at the top of the hour for a new quote!
 

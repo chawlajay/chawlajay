@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Time changes everything except something within us which is always surprised by change.</p>
+> <p>One secret of success in life is for a man to be ready for his opportunity when it comes.</p>
 >
-> <p>- Thomas Hardy</p>
+> <p>- Benjamin Disraeli</p>
 
 Check back at the top of the hour for a new quote!
 

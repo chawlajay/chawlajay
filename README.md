@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Peace begins with a smile.</p>
+> <p>If you do what you've always done, you'll get what youve always gotten.</p>
 >
-> <p>- Mother Teresa</p>
+> <p>- Tony Robbins</p>
 
 Check back at the top of the hour for a new quote!
 

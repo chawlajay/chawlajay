@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Give thanks for a little and you will find a lot.</p>
+> <p>Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.</p>
 >
-> <p>- Hausa</p>
+> <p>- Margaret Cousins</p>
 
 Check back at the top of the hour for a new quote!
 

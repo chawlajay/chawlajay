@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you're in a bad situation, don't worry it'll change. If you're in a good situation, don't worry it'll change.</p>
+> <p>Intuition will tell the thinking mind where to look next.</p>
 >
-> <p>- John Simone</p>
+> <p>- Jonas Salk</p>
 
 Check back at the top of the hour for a new quote!
 

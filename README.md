@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Intuition will tell the thinking mind where to look next.</p>
+> <p>Continuous effort, not strength or intelligence is the key to unlocking our potential.</p>
 >
-> <p>- Jonas Salk</p>
+> <p>- Winston Churchill</p>
 
 Check back at the top of the hour for a new quote!
 

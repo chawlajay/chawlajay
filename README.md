@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Love does not consist of gazing at each other, but in looking together in the same direction.</p>
+> <p>Not what we have but what we enjoy constitutes our abundance.</p>
 >
-> <p>- Antoine de Saint-Exupery</p>
+> <p>- John Petit-Senn</p>
 
 Check back at the top of the hour for a new quote!
 

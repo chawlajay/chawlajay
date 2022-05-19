@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Don't fear failure so much that you refuse to try new things. The saddest summary of life contains three descriptions: could have, might have, and should have.</p>
+> <p>If you're in a bad situation, don't worry it'll change. If you're in a good situation, don't worry it'll change.</p>
 >
-> <p>- null</p>
+> <p>- John Simone</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others.</p>
+> <p>Don't fear failure so much that you refuse to try new things. The saddest summary of life contains three descriptions: could have, might have, and should have.</p>
 >
-> <p>- Anthony Robbins</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

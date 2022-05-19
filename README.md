@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Better than a thousand hollow words is one word that brings peace.</p>
+> <p>We must become the change we want to see.</p>
 >
-> <p>- Buddha</p>
+> <p>- Mahatma Gandhi</p>
 
 Check back at the top of the hour for a new quote!
 

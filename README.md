@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Victory belongs to the most persevering.</p>
+> <p>I can't believe that God put us on this earth to be ordinary.</p>
 >
-> <p>- Napoleon Bonaparte</p>
+> <p>- Lou Holtz</p>
 
 Check back at the top of the hour for a new quote!
 

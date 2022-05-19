@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The future is completely open, and we are writing it moment to moment.</p>
+> <p>To enjoy life, we must touch much of it lightly.</p>
 >
-> <p>- Pema Chodron</p>
+> <p>- Voltaire</p>
 
 Check back at the top of the hour for a new quote!
 

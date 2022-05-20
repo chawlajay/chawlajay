@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The heart has eyes which the brain knows nothing of.</p>
+> <p>You are always free to change your mind and choose a different future, or a different past.</p>
 >
-> <p>- Charles Perkhurst</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

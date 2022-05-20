@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.</p>
+> <p>Take it easy, but take it.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Woody Guthrie</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is impossible for a man to learn what he thinks he already knows.</p>
+> <p>You cannot be lonely if you like the person you're alone with.</p>
 >
-> <p>- Epictetus</p>
+> <p>- Wayne Dyer</p>
 
 Check back at the top of the hour for a new quote!
 

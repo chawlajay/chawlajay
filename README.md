@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is not in the stars to hold our destiny but in ourselves.</p>
+> <p>He that is giddy thinks the world turns round.</p>
 >
 > <p>- William Shakespeare</p>
 

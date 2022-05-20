@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Never mistake motion for action.</p>
+> <p>Work for something because it is good, not just because it stands a chance to succeed.</p>
 >
-> <p>- Ernest Hemingway</p>
+> <p>- Vaclav Havel</p>
 
 Check back at the top of the hour for a new quote!
 

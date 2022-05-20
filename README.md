@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Take it easy, but take it.</p>
+> <p>The heart has eyes which the brain knows nothing of.</p>
 >
-> <p>- Woody Guthrie</p>
+> <p>- Charles Perkhurst</p>
 
 Check back at the top of the hour for a new quote!
 

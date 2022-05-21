@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.</p>
+> <p>Do good by stealth, and blush to find it fame.</p>
 >
-> <p>- Anatole France</p>
+> <p>- Alexander Pope</p>
 
 Check back at the top of the hour for a new quote!
 

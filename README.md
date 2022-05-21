@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If a man does his best, what else is there?</p>
+> <p>I always wanted to be somebody, but I should have been more specific.</p>
 >
-> <p>- George Patton</p>
+> <p>- Lily Tomlin</p>
 
 Check back at the top of the hour for a new quote!
 

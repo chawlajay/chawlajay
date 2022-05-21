@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>On every thorn, delightful wisdom grows, In every rill a sweet instruction flows.</p>
+> <p>So long as a person is capable of self-renewal they are a living being.</p>
 >
-> <p>- Edward Young</p>
+> <p>- Henri-Frederic Amiel</p>
 
 Check back at the top of the hour for a new quote!
 

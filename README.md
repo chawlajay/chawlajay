@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.</p>
+> <p>As an organizer I start from where the world is, as it is, not as I would like it to be.</p>
 >
-> <p>- Plutarch</p>
+> <p>- Saul Alinsky</p>
 
 Check back at the top of the hour for a new quote!
 

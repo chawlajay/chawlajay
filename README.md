@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Nothing is so strong as gentleness. Nothing is so gentle as real strength.</p>
+> <p>If a man does his best, what else is there?</p>
 >
-> <p>- Frances de Sales</p>
+> <p>- George Patton</p>
 
 Check back at the top of the hour for a new quote!
 

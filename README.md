@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The person who lives life fully, glowing with life's energy, is the person who lives a successful life.</p>
+> <p>On every thorn, delightful wisdom grows, In every rill a sweet instruction flows.</p>
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Edward Young</p>
 
 Check back at the top of the hour for a new quote!
 

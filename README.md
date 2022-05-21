@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.</p>
+> <p>Don't focus on making the right decision, focus on making the decision the right one.</p>
 >
-> <p>- Bruce Lee</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

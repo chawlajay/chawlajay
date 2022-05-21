@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Each time we face a fear, we gain strength, courage, and confidence in the doing.</p>
+> <p>To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.</p>
 >
-> <p>- null</p>
+> <p>- Plutarch</p>
 
 Check back at the top of the hour for a new quote!
 

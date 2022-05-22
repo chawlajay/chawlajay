@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.</p>
+> <p>The worst bankrupt in the world is the person who has lost his enthusiasm.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- H. W. Arnold</p>
 
 Check back at the top of the hour for a new quote!
 

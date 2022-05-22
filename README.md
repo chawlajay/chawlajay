@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Happiness mainly comes from our own attitude, rather than from external factors.</p>
+> <p>Nature gave us one tongue and two ears so we could hear twice as much as we speak.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Epictetus</p>
 
 Check back at the top of the hour for a new quote!
 

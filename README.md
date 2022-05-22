@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Nothing could be worse than the fear that one had given up too soon, and left one unexpended effort that might have saved the world.</p>
+> <p>If you have no respect for your own values how can you be worthy of respect from others.</p>
 >
-> <p>- Jane Addams</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

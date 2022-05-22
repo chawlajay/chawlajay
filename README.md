@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.</p>
+> <p>Happiness mainly comes from our own attitude, rather than from external factors.</p>
 >
-> <p>- Tryon Edwards</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

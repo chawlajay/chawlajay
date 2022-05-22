@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The worst bankrupt in the world is the person who has lost his enthusiasm.</p>
+> <p>Life is what happens to you while you're busy making other plans.</p>
 >
-> <p>- H. W. Arnold</p>
+> <p>- John Lennon</p>
 
 Check back at the top of the hour for a new quote!
 

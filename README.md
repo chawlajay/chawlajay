@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Let the beauty of what you love be what you do.</p>
+> <p>Forgiveness is choosing to love. It is the first skill of self-giving love.</p>
 >
-> <p>- Rumi</p>
+> <p>- Mohandas Gandhi</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Every sixty seconds you spend angry, upset or mad, is a full minute of happiness you will never get back.</p>
+> <p>When you are content to be simply yourself and don't compare or compete, everybody will respect you.</p>
 >
-> <p>- null</p>
+> <p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

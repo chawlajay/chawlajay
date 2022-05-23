@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Beware of the half truth. You may have gotten hold of the wrong half.</p>
+> <p>Being angry never solves anything.</p>
 >
-> <p>- null</p>
+> <p>- Catherine Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

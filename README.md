@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You block your dream when you allow your fear to grow bigger than your faith.</p>
+> <p>We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.</p>
 >
-> <p>- Mary Morrissey</p>
+> <p>- Uta Hagen</p>
 
 Check back at the top of the hour for a new quote!
 

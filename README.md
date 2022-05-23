@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Forgiveness is choosing to love. It is the first skill of self-giving love.</p>
+> <p>If you correct your mind, the rest of your life will fall into place.</p>
 >
-> <p>- Mohandas Gandhi</p>
+> <p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

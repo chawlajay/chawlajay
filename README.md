@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Life's challenges are not supposed to paralyse you, they're supposed to help you discover who you are.</p>
+> <p>Knowledge rests not upon truth alone, but upon error also.</p>
 >
-> <p>- Bernice Reagon</p>
+> <p>- Carl Jung</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.</p>
+> <p>Nothing strengthens authority so much as silence.</p>
 >
-> <p>- Henri Bergson</p>
+> <p>- Leonardo da Vinci</p>
 
 Check back at the top of the hour for a new quote!
 

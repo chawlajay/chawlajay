@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I believe that every person is born with talent.</p>
+> <p>Respect is not something that you can ask for, buy or borrow. Respect is what you earn from each person no matter their background or status.</p>
 >
-> <p>- Maya Angelou</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

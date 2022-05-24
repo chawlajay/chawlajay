@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Respect is not something that you can ask for, buy or borrow. Respect is what you earn from each person no matter their background or status.</p>
+> <p>To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Henri Bergson</p>
 
 Check back at the top of the hour for a new quote!
 

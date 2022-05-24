@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You block your dream when you allow your fear to grow bigger than your faith.</p>
+> <p>It isn't where you come from, it's where you're going that counts.</p>
 >
-> <p>- Mary Morrissey</p>
+> <p>- Ella Fitzgerald</p>
 
 Check back at the top of the hour for a new quote!
 

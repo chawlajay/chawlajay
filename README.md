@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The eye sees only what the mind is prepared to comprehend.</p>
+> <p>To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.</p>
 >
-> <p>- Henri Bergson</p>
+> <p>- Tenzin Gyatso</p>
 
 Check back at the top of the hour for a new quote!
 

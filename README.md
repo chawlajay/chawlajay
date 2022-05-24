@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The foot feels the foot when it feels the ground.</p>
+> <p>We do not quit playing because we grow old, we grow old because we quit playing.</p>
 >
-> <p>- Buddha</p>
+> <p>- Oliver Holmes</p>
 
 Check back at the top of the hour for a new quote!
 

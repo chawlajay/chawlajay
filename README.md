@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Nothing strengthens authority so much as silence.</p>
+> <p>There is no scarcity of opportunity to make a living at what you love; theres only scarcity of resolve to make it happen.</p>
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Wayne Dyer</p>
 
 Check back at the top of the hour for a new quote!
 

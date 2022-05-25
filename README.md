@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.</p>
+> <p>If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.</p>
 >
-> <p>- Pema Chodron</p>
+> <p>- Nora Roberts</p>
 
 Check back at the top of the hour for a new quote!
 

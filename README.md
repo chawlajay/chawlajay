@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Wherever a man turns he can find someone who needs him.</p>
+> <p>What we see is mainly what we look for.</p>
 >
-> <p>- Albert Schweitzer</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

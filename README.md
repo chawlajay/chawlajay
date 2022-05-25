@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Treat people as if they were what they ought to be and you help them to become what they are capable of being.</p>
+> <p>To fly, we have to have resistance.</p>
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Maya Lin</p>
 
 Check back at the top of the hour for a new quote!
 

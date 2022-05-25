@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The years teach much which the days never know.</p>
+> <p>Inspiration exists, but it has to find us working.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Pablo Picasso</p>
 
 Check back at the top of the hour for a new quote!
 

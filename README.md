@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We don't stop playing because we grow old; we grow old because we stop playing.</p>
+> <p>The years teach much which the days never know.</p>
 >
-> <p>- Bernard Shaw</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

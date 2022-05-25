@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Continuous effort, not strength or intelligence is the key to unlocking our potential.</p>
+> <p>We don't stop playing because we grow old; we grow old because we stop playing.</p>
 >
-> <p>- Winston Churchill</p>
+> <p>- Bernard Shaw</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Love and compassion open our own inner life, reducing stress, distrust and loneliness.</p>
+> <p>The world makes way for the man who knows where he is going.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

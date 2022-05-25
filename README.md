@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>What we see is mainly what we look for.</p>
+> <p>If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.</p>
 >
-> <p>- null</p>
+> <p>- Pema Chodron</p>
 
 Check back at the top of the hour for a new quote!
 

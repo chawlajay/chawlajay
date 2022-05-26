@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.</p>
+> <p>The only real mistake is the one from which we learn nothing.</p>
 >
-> <p>- Epictetus</p>
+> <p>- John Powell</p>
 
 Check back at the top of the hour for a new quote!
 

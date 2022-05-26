@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Most people are about as happy as they make up their minds to be</p>
+> <p>Our strength grows out of our weaknesses.</p>
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

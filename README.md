@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Quality means doing it right when no one is looking.</p>
+> <p>Be faithful in small things because it is in them that your strength lies.</p>
 >
-> <p>- Henry Ford</p>
+> <p>- Mother Teresa</p>
 
 Check back at the top of the hour for a new quote!
 

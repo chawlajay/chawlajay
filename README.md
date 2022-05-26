@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The weak can never forgive. Forgiveness is the attribute of the strong.</p>
+> <p>Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.</p>
 >
-> <p>- Mohandas Gandhi</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

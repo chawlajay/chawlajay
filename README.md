@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Silence is a fence around wisdom.</p>
+> <p>If you wish to be a writer, write.</p>
 >
-> <p>- German proverb</p>
+> <p>- Epictetus</p>
 
 Check back at the top of the hour for a new quote!
 

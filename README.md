@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Society develops wit, but its contemplation alone forms genius.</p>
+> <p>Neither genius, fame, nor love show the greatness of the soul. Only kindness can do that.</p>
 >
-> <p>- Madame de Stael</p>
+> <p>- Jean Lacordaire</p>
 
 Check back at the top of the hour for a new quote!
 

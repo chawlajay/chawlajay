@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god.</p>
+> <p>Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that's why they call it the present.</p>
 >
-> <p>- Napoleon Bonaparte</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

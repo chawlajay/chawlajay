@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you wish to be a writer, write.</p>
+> <p>All know the way; few actually walk it.</p>
 >
-> <p>- Epictetus</p>
+> <p>- Bodhidharma</p>
 
 Check back at the top of the hour for a new quote!
 

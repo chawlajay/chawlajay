@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Neither genius, fame, nor love show the greatness of the soul. Only kindness can do that.</p>
+> <p>Silence is a fence around wisdom.</p>
 >
-> <p>- Jean Lacordaire</p>
+> <p>- German proverb</p>
 
 Check back at the top of the hour for a new quote!
 

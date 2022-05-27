@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.</p>
+> <p>So is cheerfulness, or a good temper, the more it is spent, the more remains.</p>
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Parents can only give good advice or put them on the right paths, but the final forming of a persons character lies in their own hands.</p>
+> <p>There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.</p>
 >
-> <p>- Anne Frank</p>
+> <p>- Robert Louis Stevenson</p>
 
 Check back at the top of the hour for a new quote!
 

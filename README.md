@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The secret of success is constancy to purpose.</p>
+> <p>Society develops wit, but its contemplation alone forms genius.</p>
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Madame de Stael</p>
 
 Check back at the top of the hour for a new quote!
 

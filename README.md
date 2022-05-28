@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Life is what you make of it. Always has been, always will be.</p>
+> <p>All action results from thought, so it is thoughts that matter.</p>
 >
-> <p>- Grandma Moses</p>
+> <p>- Sai Baba</p>
 
 Check back at the top of the hour for a new quote!
 

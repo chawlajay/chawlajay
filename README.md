@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Autumn is a second spring when every leaf is a flower.</p>
+> <p>The best way to predict your future is to create it.</p>
 >
-> <p>- Albert Camus</p>
+> <p>- Peter Drucker</p>
 
 Check back at the top of the hour for a new quote!
 

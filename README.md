@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.</p>
+> <p>Remember that sometimes not getting what you want is a wonderful stroke of luck.</p>
 >
-> <p>- Robert Fulghum</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

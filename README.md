@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Remember that sometimes not getting what you want is a wonderful stroke of luck.</p>
+> <p>Genuine sincerity opens people's hearts, while manipulation causes them to close.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Daisaku Ikeda</p>
 
 Check back at the top of the hour for a new quote!
 

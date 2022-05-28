@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A life spent making mistakes is not only more honourable but more useful than a life spent in doing nothing.</p>
+> <p>Life is so constructed that an event does not, cannot, will not, match the expectation.</p>
 >
-> <p>- Bernard Shaw</p>
+> <p>- Charlotte Bronte</p>
 
 Check back at the top of the hour for a new quote!
 

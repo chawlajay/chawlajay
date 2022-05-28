@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>All action results from thought, so it is thoughts that matter.</p>
+> <p>The important thing is this: to be able at any moment to sacrifice what we are for what we could become.</p>
 >
-> <p>- Sai Baba</p>
+> <p>- Charles Dubois</p>
 
 Check back at the top of the hour for a new quote!
 

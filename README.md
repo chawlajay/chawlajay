@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Whenever something negative happens to you, there is a deep lesson concealed within it.</p>
+> <p>Autumn is a second spring when every leaf is a flower.</p>
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Albert Camus</p>
 
 Check back at the top of the hour for a new quote!
 

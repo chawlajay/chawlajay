@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.</p>
+> <p>The happiness of a man in this life does not consist in the absence but in the mastery of his passions.</p>
 >
-> <p>- Tony Robbins</p>
+> <p>- Alfred Tennyson</p>
 
 Check back at the top of the hour for a new quote!
 

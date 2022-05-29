@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is not fair to ask of others what you are unwilling to do yourself.</p>
+> <p>In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.</p>
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

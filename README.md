@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It all depends on how we look at things, and not how they are in themselves.</p>
+> <p>Thousands of candles can be lit from a single, and the life of the candle will not be shortened. Happiness never decreases by being shared.</p>
 >
-> <p>- Carl Jung</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

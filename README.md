@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A thing well said will be wit in all languages.</p>
+> <p>One that desires to excel should endeavour in those things that are in themselves most excellent.</p>
 >
-> <p>- John Dryden</p>
+> <p>- Epictetus</p>
 
 Check back at the top of the hour for a new quote!
 

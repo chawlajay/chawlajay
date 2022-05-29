@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.</p>
+> <p>When there is no enemy within, the enemies outside cannot hurt you.</p>
 >
-> <p>- Elisabeth Kubler-Ross</p>
+> <p>- African proverb</p>
 
 Check back at the top of the hour for a new quote!
 

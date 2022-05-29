@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When there is no enemy within, the enemies outside cannot hurt you.</p>
+> <p>We all have problems. The way we solve them is what makes us different.</p>
 >
-> <p>- African proverb</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>One that desires to excel should endeavour in those things that are in themselves most excellent.</p>
+> <p>Just trust yourself, then you will know how to live.</p>
 >
-> <p>- Epictetus</p>
+> <p>- Goethe</p>
 
 Check back at the top of the hour for a new quote!
 

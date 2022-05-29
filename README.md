@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The happiness of a man in this life does not consist in the absence but in the mastery of his passions.</p>
+> <p>Loss is nothing else but change,and change is Natures delight.</p>
 >
-> <p>- Alfred Tennyson</p>
+> <p>- Marcus Aurelius</p>
 
 Check back at the top of the hour for a new quote!
 

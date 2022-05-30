@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.</p>
+> <p>To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture.</p>
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

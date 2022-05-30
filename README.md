@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>By nature man hates change; seldom will he quit his old home till it has actually fallen around his ears.</p>
+> <p>Good thoughts are no better than good dreams, unless they be executed.</p>
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

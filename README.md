@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Change your thoughts, change your life!</p>
+> <p>They say that time changes things, but you actually have to change them yourself.</p>
 >
-> <p>- null</p>
+> <p>- Andy Warhol</p>
 
 Check back at the top of the hour for a new quote!
 

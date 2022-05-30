@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>No man is free who is not master of himself.</p>
+> <p>Never say there is nothing beautiful in the world any more. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.</p>
 >
-> <p>- Epictetus</p>
+> <p>- Albert Schweitzer</p>
 
 Check back at the top of the hour for a new quote!
 

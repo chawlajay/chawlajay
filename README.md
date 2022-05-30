@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>They say that time changes things, but you actually have to change them yourself.</p>
+> <p>Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.</p>
 >
-> <p>- Andy Warhol</p>
+> <p>- Napoleon Hill</p>
 
 Check back at the top of the hour for a new quote!
 

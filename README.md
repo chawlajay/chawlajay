@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.</p>
+> <p>The greatest mistake you can make in life is to be continually fearing you will make one.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Elbert Hubbard</p>
 
 Check back at the top of the hour for a new quote!
 

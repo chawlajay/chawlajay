@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The greatest mistake you can make in life is to be continually fearing you will make one.</p>
+> <p>Be thankful when you don't know something for it gives you the opportunity to learn.</p>
 >
-> <p>- Elbert Hubbard</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

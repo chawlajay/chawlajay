@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When you judge another, you do not define them, you define yourself.</p>
+> <p>Do not wait for leaders; do it alone, person to person.</p>
 >
-> <p>- Wayne Dyer</p>
+> <p>- Mother Teresa</p>
 
 Check back at the top of the hour for a new quote!
 

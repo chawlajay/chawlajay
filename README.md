@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Don't wait for your feelings to change to take the action. Take the action and your feelings will change.</p>
+> <p>Don't fear failure so much that you refuse to try new things. The saddest summary of life contains three descriptions: could have, might have, and should have.</p>
 >
-> <p>- Barbara Baron</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

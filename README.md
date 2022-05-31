@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Living at risk is jumping off the cliff and building your wings on the way down.</p>
+> <p>Age does not protect you from love. But love, to some extent, protects you from age.</p>
 >
-> <p>- Ray Bradbury</p>
+> <p>- Anais Nin</p>
 
 Check back at the top of the hour for a new quote!
 

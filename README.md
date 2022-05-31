@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If I could reach up and hold a star for every time you've made me smile, the entire evening sky would be in the palm of my hand.</p>
+> <p>People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.</p>
 >
-> <p>- null</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Check back at the top of the hour for a new quote!
 

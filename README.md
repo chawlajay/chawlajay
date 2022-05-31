@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Begin at once to live and count each separate day as a separate life.</p>
+> <p>When you judge another, you do not define them, you define yourself.</p>
 >
-> <p>- Seneca</p>
+> <p>- Wayne Dyer</p>
 
 Check back at the top of the hour for a new quote!
 

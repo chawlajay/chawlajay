@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Nothing strengthens authority so much as silence.</p>
+> <p>Strong beliefs win strong men, and then make them stronger.</p>
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

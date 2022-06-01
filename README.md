@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Meditation brings wisdom; lack of mediation leaves ignorance. Know well what leads you forward and what hold you back, and choose the path that leads to wisdom.</p>
+> <p>Ability will never catch up with the demand for it.</p>
 >
-> <p>- Buddha</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

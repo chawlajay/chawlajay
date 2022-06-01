@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Don't miss all the beautiful colors of the rainbow looking for that pot of gold.</p>
+> <p>Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings.</p>
 >
-> <p>- null</p>
+> <p>- Ralph Blum</p>
 
 Check back at the top of the hour for a new quote!
 

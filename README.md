@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You only lose what you cling to.</p>
+> <p>Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.</p>
 >
-> <p>- Buddha</p>
+> <p>- Henry Reed</p>
 
 Check back at the top of the hour for a new quote!
 

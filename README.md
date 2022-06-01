@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When the solution is simple, God is answering.</p>
+> <p>Those that know, do. Those that understand, teach.</p>
 >
-> <p>- Albert Einstein</p>
+> <p>- Aristotle</p>
 
 Check back at the top of the hour for a new quote!
 

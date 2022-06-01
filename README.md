@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Ignorance never settle a question.</p>
+> <p>Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.</p>
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- William Menninger</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.</p>
+> <p>Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.</p>
 >
-> <p>- William Menninger</p>
+> <p>- Napoleon Hill</p>
 
 Check back at the top of the hour for a new quote!
 

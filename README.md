@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Ability will never catch up with the demand for it.</p>
+> <p>When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.</p>
 >
-> <p>- Confucius</p>
+> <p>- Audre Lorde</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If it is not right do not do it; if it is not true do not say it.</p>
+> <p>Giving up doesn't always mean you are weak; sometimes it means that you are strong enough to let go.</p>
 >
-> <p>- Marcus Aurelius</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

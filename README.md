@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Do not go where the path may lead, go instead where there is no path and leave a trail.</p>
+> <p>The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Abernathy</p>
 
 Check back at the top of the hour for a new quote!
 

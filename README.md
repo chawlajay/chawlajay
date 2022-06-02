@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Nothing great was ever achieved without enthusiasm.</p>
+> <p>Our distrust is very expensive.</p>
 >
 > <p>- Ralph Emerson</p>
 

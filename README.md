@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The deepest craving of human nature is the need to be appreciated.</p>
+> <p>They must often change, who would be constant in happiness or wisdom.</p>
 >
-> <p>- William James</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

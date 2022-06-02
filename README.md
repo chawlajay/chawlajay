@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We should all be thankful for those people who rekindle the inner spirit.</p>
+> <p>Know how to listen, and you will profit even from those who talk badly.</p>
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Plutarch</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Our distrust is very expensive.</p>
+> <p>Always be smarter than the people who hire you.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Lena Horne</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.</p>
+> <p>The deepest craving of human nature is the need to be appreciated.</p>
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- William James</p>
 
 Check back at the top of the hour for a new quote!
 

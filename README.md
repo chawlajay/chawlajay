@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.</p>
+> <p>Every gift from a friend is a wish for your happiness.</p>
 >
-> <p>- Alfred Korzybski</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

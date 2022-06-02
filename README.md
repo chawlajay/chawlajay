@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.</p>
+> <p>There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.</p>
 >
-> <p>- Napoleon Hill</p>
+> <p>- Alfred Korzybski</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>While we try to teach our children all about life, our children teach us what life is all about.</p>
+> <p>Build a better mousetrap and the world will beat a path to your door.</p>
 >
-> <p>- Angela Schwindt</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

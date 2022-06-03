@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Keep silence for the most part, and speak only when you must, and then briefly.</p>
+> <p>Nothing is a waste of time if you use the experience wisely.</p>
 >
-> <p>- Epictetus</p>
+> <p>- Rodin</p>
 
 Check back at the top of the hour for a new quote!
 

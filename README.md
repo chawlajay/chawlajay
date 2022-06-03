@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.</p>
+> <p>The poor man is not he who is without a cent, but he who is without a dream.</p>
 >
-> <p>- Buddha</p>
+> <p>- Harry Kemp</p>
 
 Check back at the top of the hour for a new quote!
 

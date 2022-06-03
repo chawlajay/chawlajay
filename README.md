@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I allow my intuition to lead my path.</p>
+> <p>Luck is what happens when preparation meets opportunity.</p>
 >
-> <p>- Manuel Puig</p>
+> <p>- Seneca</p>
 
 Check back at the top of the hour for a new quote!
 

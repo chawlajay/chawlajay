@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Responsibility is not inherited, it is a choice that everyone needs to make at some point in their life.</p>
+> <p>Keep silence for the most part, and speak only when you must, and then briefly.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Epictetus</p>
 
 Check back at the top of the hour for a new quote!
 

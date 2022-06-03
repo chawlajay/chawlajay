@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.</p>
+> <p>To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.</p>
 >
-> <p>- null</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

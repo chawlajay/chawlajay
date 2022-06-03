@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>They must often change, who would be constant in happiness or wisdom.</p>
+> <p>Trouble is only opportunity in work clothes.</p>
 >
-> <p>- Confucius</p>
+> <p>- Henry J. Kaiser</p>
 
 Check back at the top of the hour for a new quote!
 

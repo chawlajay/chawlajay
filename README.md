@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Maxim for life: You get treated in life the way you teach people to treat you.</p>
+> <p>Listen to your intuition. It will tell you everything you need to know.</p>
 >
-> <p>- Wayne Dyer</p>
+> <p>- Anthony D'Angelo</p>
 
 Check back at the top of the hour for a new quote!
 

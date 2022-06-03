@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.</p>
+> <p>Quality means doing it right when no one is looking.</p>
 >
-> <p>- Pablo Picasso</p>
+> <p>- Henry Ford</p>
 
 Check back at the top of the hour for a new quote!
 

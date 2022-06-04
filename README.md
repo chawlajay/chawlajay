@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A good plan today is better than a perfect plan tomorrow.</p>
+> <p>Success is determined by those whom prove the impossible, possible.</p>
 >
-> <p>- null</p>
+> <p>- James Pence</p>
 
 Check back at the top of the hour for a new quote!
 

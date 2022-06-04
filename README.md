@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Courage is not the absence of fear, but simply moving on with dignity despite that fear.</p>
+> <p>People seldom notice old clothes if you wear a big smile.</p>
 >
-> <p>- Pat Riley</p>
+> <p>- Lee Mildon</p>
 
 Check back at the top of the hour for a new quote!
 

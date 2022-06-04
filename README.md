@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Every man takes the limits of his own field of vision for the limits of the world.</p>
+> <p>Nothing strengthens authority so much as silence.</p>
 >
-> <p>- Arthur Schopenhauer</p>
+> <p>- Leonardo da Vinci</p>
 
 Check back at the top of the hour for a new quote!
 

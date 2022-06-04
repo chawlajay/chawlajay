@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The ladder of success is never crowded at the top.</p>
+> <p>Every man takes the limits of his own field of vision for the limits of the world.</p>
 >
-> <p>- Napoleon Hill</p>
+> <p>- Arthur Schopenhauer</p>
 
 Check back at the top of the hour for a new quote!
 

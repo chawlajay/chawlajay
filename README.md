@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You will not be punished for your anger, you will be punished by your anger.</p>
+> <p>Most of the shadows of life are caused by standing in our own sunshine.</p>
 >
-> <p>- Buddha</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

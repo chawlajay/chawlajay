@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Never deny a diagnosis, but do deny the negative verdict that may go with it.</p>
+> <p>Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.</p>
 >
-> <p>- Norman Cousins</p>
+> <p>- Paavo Nurmi</p>
 
 Check back at the top of the hour for a new quote!
 

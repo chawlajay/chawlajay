@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.</p>
+> <p>The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.</p>
 >
-> <p>- Helen Keller</p>
+> <p>- Will Durant</p>
 
 Check back at the top of the hour for a new quote!
 

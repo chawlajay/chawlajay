@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Sometimes it is better to lose and do the right thing than to win and do the wrong thing.</p>
+> <p>Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.</p>
 >
-> <p>- Tony Blair</p>
+> <p>- Helen Keller</p>
 
 Check back at the top of the hour for a new quote!
 

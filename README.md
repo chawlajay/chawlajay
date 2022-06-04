@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.</p>
+> <p>Sometimes it is better to lose and do the right thing than to win and do the wrong thing.</p>
 >
-> <p>- Paavo Nurmi</p>
+> <p>- Tony Blair</p>
 
 Check back at the top of the hour for a new quote!
 

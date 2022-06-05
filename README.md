@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.</p>
+> <p>All children are artists. The problem is how to remain an artist once he grows up.</p>
 >
-> <p>- Dhammapada</p>
+> <p>- Pablo Picasso</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There is nothing happens to any person but what was in his power to go through with.</p>
+> <p>In order to win, you must expect to win.</p>
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

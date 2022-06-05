@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Do not turn back when you are just at the goal.</p>
+> <p>Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.</p>
 >
-> <p>- Publilius Syrus</p>
+> <p>- Nathaniel Hawthorne</p>
 
 Check back at the top of the hour for a new quote!
 

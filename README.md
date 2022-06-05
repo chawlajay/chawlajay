@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.</p>
+> <p>Talk doesn't cook rice.</p>
 >
-> <p>- Nathaniel Hawthorne</p>
+> <p>- Chinese proverb</p>
 
 Check back at the top of the hour for a new quote!
 

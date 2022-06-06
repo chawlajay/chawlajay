@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.</p>
+> <p>When the solution is simple, God is answering.</p>
 >
-> <p>- Ovid</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

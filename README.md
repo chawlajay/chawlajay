@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Into each life rain must fall but rain can be the giver of life and it is all in your attitude that makes rain produce sunshine.</p>
+> <p>Time is the most valuable thing a man can spend.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Theophrastus</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When the solution is simple, God is answering.</p>
+> <p>All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.</p>
 >
-> <p>- Albert Einstein</p>
+> <p>- Bruce Lee</p>
 
 Check back at the top of the hour for a new quote!
 

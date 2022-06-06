@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The winner ain't the one with the fastest car it's the one who refuses to lose.</p>
+> <p>Bold is not the act of foolishness but the attribute and inner strength to act when others will not so as to move forward not backward.</p>
 >
-> <p>- Dale Earnhardt</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

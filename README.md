@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you want things to be different, perhaps the answer is to become different yourself.</p>
+> <p>The winner ain't the one with the fastest car it's the one who refuses to lose.</p>
 >
-> <p>- Norman Peale</p>
+> <p>- Dale Earnhardt</p>
 
 Check back at the top of the hour for a new quote!
 

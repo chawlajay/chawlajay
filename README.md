@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Life is not measured by the breaths we take, but by the moments that take our breath.</p>
+> <p>There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.</p>
 >
-> <p>- null</p>
+> <p>- Mark Twain</p>
 
 Check back at the top of the hour for a new quote!
 

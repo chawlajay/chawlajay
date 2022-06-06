@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.</p>
+> <p>However many holy words you read, However many you speak, What good will they do you If you do not act on upon them?</p>
 >
-> <p>- Alfred Korzybski</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

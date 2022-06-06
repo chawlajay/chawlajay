@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.</p>
+> <p>Everything that exists is in a manner the seed of that which will be.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Marcus Aurelius</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.</p>
+> <p>I don't believe in failure. It is not failure if you enjoyed the process.</p>
 >
-> <p>- Carl Jung</p>
+> <p>- Oprah Winfrey</p>
 
 Check back at the top of the hour for a new quote!
 

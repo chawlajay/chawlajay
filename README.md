@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.</p>
+> <p>Man cannot discover new oceans unless he has the courage to lose sight of the shore.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Andre Gide</p>
 
 Check back at the top of the hour for a new quote!
 

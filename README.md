@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.</p>
+> <p>You cannot make yourself feel something you do not feel, but you can make yourself do right in spite of your feelings.</p>
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Pearl Buck</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Positive thinking will let you do everything better than negative thinking will.</p>
+> <p>It is better to travel well than to arrive.</p>
 >
-> <p>- Zig Ziglar</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The superior man acts before he speaks, and afterwards speaks according to his action.</p>
+> <p>Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.</p>
 >
-> <p>- Confucius</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

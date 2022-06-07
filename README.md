@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>However many holy words you read, However many you speak, What good will they do you If you do not act on upon them?</p>
+> <p>The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.</p>
 >
-> <p>- Buddha</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

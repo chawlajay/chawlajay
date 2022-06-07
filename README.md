@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.</p>
+> <p>For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.</p>
 >
-> <p>- Buddha</p>
+> <p>- Mary Kay Ash</p>
 
 Check back at the top of the hour for a new quote!
 

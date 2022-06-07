@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The winds and waves are always on the side of the ablest navigators.</p>
+> <p>Genuine sincerity opens people's hearts, while manipulation causes them to close.</p>
 >
-> <p>- Edward Gibbon</p>
+> <p>- Daisaku Ikeda</p>
 
 Check back at the top of the hour for a new quote!
 

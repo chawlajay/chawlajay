@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Man cannot discover new oceans unless he has the courage to lose sight of the shore.</p>
+> <p>We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.</p>
 >
-> <p>- Andre Gide</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

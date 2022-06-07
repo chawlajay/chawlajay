@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.</p>
+> <p>Beware of missing chances; otherwise it may be altogether too late some day.</p>
 >
-> <p>- Booker Washington</p>
+> <p>- Franz Liszt</p>
 
 Check back at the top of the hour for a new quote!
 

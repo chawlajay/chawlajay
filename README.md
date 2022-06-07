@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.</p>
+> <p>Be thankful when you don't know something for it gives you the opportunity to learn.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

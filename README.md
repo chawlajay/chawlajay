@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.</p>
+> <p>Our greatest glory is not in never failing but rising everytime we fall.</p>
 >
-> <p>- Confucius</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

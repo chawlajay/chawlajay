@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A bend in the road is not the end of the road...unless you fail to make the turn.</p>
+> <p>Where all think alike, no one thinks very much.</p>
 >
-> <p>- null</p>
+> <p>- Walter Lippmann</p>
 
 Check back at the top of the hour for a new quote!
 

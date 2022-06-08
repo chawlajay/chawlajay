@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Never, never, never give up.</p>
+> <p>Peace of mind is not the absence of conflict from life, but the ability to cope with it.</p>
 >
-> <p>- Winston Churchill</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

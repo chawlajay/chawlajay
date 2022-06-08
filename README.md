@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Peace of mind is not the absence of conflict from life, but the ability to cope with it.</p>
+> <p>Open minds lead to open doors.</p>
 >
 > <p>- null</p>
 

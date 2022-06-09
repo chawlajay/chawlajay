@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you don't like something, change it. If you can't change it, change your attitude.</p>
+> <p>Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.</p>
 >
-> <p>- Maya Angelou</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

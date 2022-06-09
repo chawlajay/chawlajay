@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Sometimes the most important thing in a whole day is the rest we take between two deep breaths.</p>
+> <p>Minds are like parachutes. They only function when open.</p>
 >
-> <p>- Etty Hillesum</p>
+> <p>- Thomas Dewar</p>
 
 Check back at the top of the hour for a new quote!
 

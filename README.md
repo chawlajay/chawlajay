@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Minds are like parachutes. They only function when open.</p>
+> <p>Example has more followers than reason.</p>
 >
-> <p>- Thomas Dewar</p>
+> <p>- Christian Bovee</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Giving up doesn't always mean you are weak; sometimes it means that you are strong enough to let go.</p>
+> <p>Aim for success, not perfection. Never give up your right to be wrong, because then you will lose the ability to learn new things and move forward with your life.</p>
 >
-> <p>- null</p>
+> <p>- Dr. David M. Burns</p>
 
 Check back at the top of the hour for a new quote!
 

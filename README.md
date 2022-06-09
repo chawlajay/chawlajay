@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Aim for success, not perfection. Never give up your right to be wrong, because then you will lose the ability to learn new things and move forward with your life.</p>
+> <p>The superior man acts before he speaks, and afterwards speaks according to his action.</p>
 >
-> <p>- Dr. David M. Burns</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

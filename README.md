@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You must welcome change as the rule but not as your ruler.</p>
+> <p>We must learn our limits. We are all something, but none of us are everything.</p>
 >
-> <p>- Denis Waitley</p>
+> <p>- Blaise Pascal</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Nature takes away any faculty that is not used.</p>
+> <p>You must welcome change as the rule but not as your ruler.</p>
 >
-> <p>- William R. Inge</p>
+> <p>- Denis Waitley</p>
 
 Check back at the top of the hour for a new quote!
 

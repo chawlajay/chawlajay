@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others.</p>
+> <p>You are never given a wish without also being given the power to make it come true. You may have to work for it, however.</p>
 >
-> <p>- Anthony Robbins</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Failure will never overtake me if my determination to succeed is strong enough.</p>
+> <p>Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.</p>
 >
-> <p>- Og Mandino</p>
+> <p>- Aristotle</p>
 
 Check back at the top of the hour for a new quote!
 

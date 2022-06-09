@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.</p>
+> <p>Sometimes the most important thing in a whole day is the rest we take between two deep breaths.</p>
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Etty Hillesum</p>
 
 Check back at the top of the hour for a new quote!
 

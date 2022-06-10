@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Reason and free inquiry are the only effectual agents against error.</p>
+> <p>Life is a succession of lessons, which must be lived to be understood.</p>
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Follow your instincts. That is where true wisdom manifests itself.</p>
+> <p>Count your joys instead of your woes. Count your friends instead of your foes.</p>
 >
-> <p>- Oprah Winfrey</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

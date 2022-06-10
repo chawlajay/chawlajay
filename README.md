@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Count your joys instead of your woes. Count your friends instead of your foes.</p>
+> <p>As long as your going to be thinking anyway, think big.</p>
 >
-> <p>- null</p>
+> <p>- Donald Trump</p>
 
 Check back at the top of the hour for a new quote!
 

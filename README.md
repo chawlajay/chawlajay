@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Everything that happens happens as it should, and if you observe carefully, you will find this to be so.</p>
+> <p>Never miss an opportunity to make others happy, even if you have to leave them alone in order to do it.</p>
 >
-> <p>- Marcus Aurelius</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

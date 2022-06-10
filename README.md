@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>As long as your going to be thinking anyway, think big.</p>
+> <p>Better be ignorant of a matter than half know it.</p>
 >
-> <p>- Donald Trump</p>
+> <p>- Publilius Syrus</p>
 
 Check back at the top of the hour for a new quote!
 

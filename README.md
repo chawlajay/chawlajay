@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It's easier to see the mistakes on someone else's paper.</p>
+> <p>Those who try to do something and fail are infinitely better than those who try nothing and succeed.</p>
 >
-> <p>- null</p>
+> <p>- Lloyd Jones</p>
 
 Check back at the top of the hour for a new quote!
 

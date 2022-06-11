@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There is not one big cosmic meaning for all, there is only the meaning we each give to our life.</p>
+> <p>Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.</p>
 >
-> <p>- Anais Nin</p>
+> <p>- Tom Jackson</p>
 
 Check back at the top of the hour for a new quote!
 

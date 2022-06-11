@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There never was a good knife made of bad steel.</p>
+> <p>Don't wait for people to be friendly. Show them how.</p>
 >
-> <p>- Benjamin Franklin</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

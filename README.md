@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Good timber does not grow with ease; the stronger the wind, the stronger the trees.</p>
+> <p>I'm not interested in age. People who tell me their age are silly. You're as old as you feel.</p>
 >
-> <p>- J. Willard Marriott</p>
+> <p>- Elizabeth Arden</p>
 
 Check back at the top of the hour for a new quote!
 

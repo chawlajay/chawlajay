@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>No person is your friend who demands your silence, or denies your right to grow.</p>
+> <p>Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.</p>
 >
-> <p>- Alice Walker</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

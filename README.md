@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.</p>
+> <p>Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.</p>
 >
-> <p>- Mary Pickford</p>
+> <p>- Barack Obama</p>
 
 Check back at the top of the hour for a new quote!
 

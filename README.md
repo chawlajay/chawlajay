@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I'm not interested in age. People who tell me their age are silly. You're as old as you feel.</p>
+> <p>The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.</p>
 >
-> <p>- Elizabeth Arden</p>
+> <p>- Cecil B. DeMille</p>
 
 Check back at the top of the hour for a new quote!
 

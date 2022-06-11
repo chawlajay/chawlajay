@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Don't wait for people to be friendly. Show them how.</p>
+> <p>Never, never, never give up.</p>
 >
-> <p>- null</p>
+> <p>- Winston Churchill</p>
 
 Check back at the top of the hour for a new quote!
 

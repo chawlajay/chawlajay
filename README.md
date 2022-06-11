@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Never, never, never give up.</p>
+> <p>Think how hard physics would be if particles could think.</p>
 >
-> <p>- Winston Churchill</p>
+> <p>- Murray Gell-Mann</p>
 
 Check back at the top of the hour for a new quote!
 

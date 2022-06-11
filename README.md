@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Begin to weave and God will give you the thread.</p>
+> <p>No person is your friend who demands your silence, or denies your right to grow.</p>
 >
-> <p>- German proverb</p>
+> <p>- Alice Walker</p>
 
 Check back at the top of the hour for a new quote!
 

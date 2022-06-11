@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Impossibilities are merely things which we have not yet learned.</p>
+> <p>Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.</p>
 >
-> <p>- Charles Chesnutt</p>
+> <p>- Alphonse Karr</p>
 
 Check back at the top of the hour for a new quote!
 

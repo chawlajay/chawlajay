@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We may encounter many defeats but we must not be defeated.</p>
+> <p>You get peace of mind not by thinking about it or imagining it, but by quietening and relaxing the restless mind.</p>
 >
-> <p>- Maya Angelou</p>
+> <p>- Remez Sasson</p>
 
 Check back at the top of the hour for a new quote!
 

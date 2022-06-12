@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Miracles come in moments. Be ready and willing.</p>
+> <p>The grand essentials of happiness are: something to do, something to love, and something to hope for.</p>
 >
-> <p>- Wayne Dyer</p>
+> <p>- Chalmers</p>
 
 Check back at the top of the hour for a new quote!
 

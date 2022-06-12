@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Don't judge each day by the harvest you reap but by the seeds you plant.</p>
+> <p>We are Divine enough to ask and we are important enough to receive.</p>
 >
-> <p>- Robert Stevenson</p>
+> <p>- Wayne Dyer</p>
 
 Check back at the top of the hour for a new quote!
 

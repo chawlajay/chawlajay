@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Be here now. Be someplace else later. Is that so complicated?</p>
+> <p>Miracles come in moments. Be ready and willing.</p>
 >
-> <p>- David Bader</p>
+> <p>- Wayne Dyer</p>
 
 Check back at the top of the hour for a new quote!
 

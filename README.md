@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.</p>
+> <p>Be here now. Be someplace else later. Is that so complicated?</p>
 >
-> <p>- Eckhart Tolle</p>
+> <p>- David Bader</p>
 
 Check back at the top of the hour for a new quote!
 

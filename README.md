@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>No act of kindness, no matter how small, is ever wasted.</p>
+> <p>The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.</p>
 >
-> <p>- Aesop</p>
+> <p>- Eckhart Tolle</p>
 
 Check back at the top of the hour for a new quote!
 

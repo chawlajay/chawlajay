@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is one of the blessings of old friends that you can afford to be stupid with them.</p>
+> <p>All know the way; few actually walk it.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Bodhidharma</p>
 
 Check back at the top of the hour for a new quote!
 

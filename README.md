@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Those who try to do something and fail are infinitely better than those who try nothing and succeed.</p>
+> <p>No act of kindness, no matter how small, is ever wasted.</p>
 >
-> <p>- Lloyd Jones</p>
+> <p>- Aesop</p>
 
 Check back at the top of the hour for a new quote!
 

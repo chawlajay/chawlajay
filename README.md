@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Always seek out the seed of triumph in every adversity.</p>
+> <p>The past has no power to stop you from being present now. Only your grievance about the past can do that.</p>
 >
-> <p>- Og Mandino</p>
+> <p>- Eckhart Tolle</p>
 
 Check back at the top of the hour for a new quote!
 

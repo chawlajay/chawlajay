@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.</p>
+> <p>The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Helen Keller</p>
 
 Check back at the top of the hour for a new quote!
 

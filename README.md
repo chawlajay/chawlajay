@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Remember that failure is an event, not a person.</p>
+> <p>Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.</p>
 >
-> <p>- Zig Ziglar</p>
+> <p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you don't know where you are going, you will probably end up somewhere else.</p>
+> <p>If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?</p>
 >
-> <p>- Lawrence Peter</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

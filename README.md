@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Consider that not only do negative thoughts and emotions destroy our experience of peace, they also undermine our health.</p>
+> <p>Remember that failure is an event, not a person.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Zig Ziglar</p>
 
 Check back at the top of the hour for a new quote!
 

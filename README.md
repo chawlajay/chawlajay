@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Arrogance and rudeness are training wheels on the bicycle of life for weak people who cannot keep their balance without them.</p>
+> <p>I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.</p>
 >
-> <p>- Laura Teresa Marquez</p>
+> <p>- G. K. Chesterton</p>
 
 Check back at the top of the hour for a new quote!
 

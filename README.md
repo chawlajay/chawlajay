@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The path to success is to take massive, determined action.</p>
+> <p>We know what we are, but know not what we may be.</p>
 >
-> <p>- Tony Robbins</p>
+> <p>- William Shakespeare</p>
 
 Check back at the top of the hour for a new quote!
 

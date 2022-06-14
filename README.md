@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Life is like riding a bicycle. To keep your balance you must keep moving.</p>
+> <p>The greatest barrier to success is the fear of failure.</p>
 >
-> <p>- Albert Einstein</p>
+> <p>- Eriksson</p>
 
 Check back at the top of the hour for a new quote!
 

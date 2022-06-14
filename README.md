@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Real magic in relationships means an absence of judgement of others.</p>
+> <p>Life is like riding a bicycle. To keep your balance you must keep moving.</p>
 >
-> <p>- Wayne Dyer</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

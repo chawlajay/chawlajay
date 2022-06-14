@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Arriving at one point is the starting point to another.</p>
+> <p>The harder you fall, the higher you bounce.</p>
 >
-> <p>- John Dewey</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

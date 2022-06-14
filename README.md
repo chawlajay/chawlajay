@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Be kind whenever possible. It is always possible.</p>
+> <p>Arriving at one point is the starting point to another.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- John Dewey</p>
 
 Check back at the top of the hour for a new quote!
 

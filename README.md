@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>What lies behind us and what lies before us are small matters compared to what lies within us.</p>
+> <p>Real magic in relationships means an absence of judgement of others.</p>
 >
-> <p>- Oliver Holmes</p>
+> <p>- Wayne Dyer</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you want a thing done well, do it yourself.</p>
+> <p>There is nothing in a caterpillar that tells you it's going to be a butterfly.</p>
 >
-> <p>- Napoleon Bonaparte</p>
+> <p>- Buckminster Fuller</p>
 
 Check back at the top of the hour for a new quote!
 

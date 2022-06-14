@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The world is round and the place which may seem like the end may also be the beginning.</p>
+> <p>What lies behind us and what lies before us are small matters compared to what lies within us.</p>
 >
-> <p>- Ivy Baker Priest</p>
+> <p>- Oliver Holmes</p>
 
 Check back at the top of the hour for a new quote!
 

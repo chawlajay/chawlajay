@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We cannot change our memories, but we can change their meaning and the power they have over us.</p>
+> <p>Formula for success: under promise and over deliver.</p>
 >
-> <p>- David Seamans</p>
+> <p>- Tom Peters</p>
 
 Check back at the top of the hour for a new quote!
 

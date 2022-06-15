@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Luck is what happens when preparation meets opportunity.</p>
+> <p>Never let lack of money interfere with having fun.</p>
 >
-> <p>- Seneca</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

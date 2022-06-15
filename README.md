@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There are things so deep and complex that only intuition can reach it in our stage of development as human beings.</p>
+> <p>Silence is deep as Eternity, Speech is shallow as Time.</p>
 >
-> <p>- John Astin</p>
+> <p>- Carlyle</p>
 
 Check back at the top of the hour for a new quote!
 

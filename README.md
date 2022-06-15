@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Men are disturbed not by things, but by the view which they take of them.</p>
+> <p>Consider how hard it is to change yourself and you'll understand what little chance you have in trying to change others.</p>
 >
-> <p>- Epictetus</p>
+> <p>- Jacob Braude</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Sooner or later, those who win are those who think they can.</p>
+> <p>He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Tryon Edwards</p>
 
 Check back at the top of the hour for a new quote!
 

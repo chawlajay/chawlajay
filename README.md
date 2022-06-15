@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Formula for success: under promise and over deliver.</p>
+> <p>There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.</p>
 >
-> <p>- Tom Peters</p>
+> <p>- Epictetus</p>
 
 Check back at the top of the hour for a new quote!
 

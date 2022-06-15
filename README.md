@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.</p>
+> <p>Sooner or later, those who win are those who think they can.</p>
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

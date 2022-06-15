@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Action may not always bring happiness; but there is no happiness without action.</p>
+> <p>The beginning of knowledge is the discovery of something we do not understand.</p>
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Frank Herbert</p>
 
 Check back at the top of the hour for a new quote!
 

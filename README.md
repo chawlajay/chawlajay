@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A life spent making mistakes is not only more honourable, but more useful than a life spent doing nothing.</p>
+> <p>Remember always that you not only have the right to be an individual, you have an obligation to be one.</p>
 >
-> <p>- George Bernard Shaw</p>
+> <p>- Eleanor Roosevelt</p>
 
 Check back at the top of the hour for a new quote!
 

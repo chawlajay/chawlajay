@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We cannot solve our problems with the same thinking we used when we created them.</p>
+> <p>Happiness mainly comes from our own attitude, rather than from external factors.</p>
 >
-> <p>- Albert Einstein</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

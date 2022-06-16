@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There are only two mistakes one can make along the road to truth; not going all the way, and not starting.</p>
+> <p>Always be smarter than the people who hire you.</p>
 >
-> <p>- Buddha</p>
+> <p>- Lena Horne</p>
 
 Check back at the top of the hour for a new quote!
 

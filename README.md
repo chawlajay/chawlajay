@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Stay committed to your decisions, but stay flexible in your approach.</p>
+> <p>The meaning I picked, the one that changed my life: Overcome fear, behold wonder.</p>
 >
-> <p>- Tony Robbins</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

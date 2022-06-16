@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I'm not afraid of storms, for I'm learning how to sail my ship.</p>
+> <p>As we risk ourselves, we grow. Each new experience is a risk.</p>
 >
-> <p>- Louisa Alcott</p>
+> <p>- Fran Watson</p>
 
 Check back at the top of the hour for a new quote!
 

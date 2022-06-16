@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Every great advance in science has issued from a new audacity of the imagination.</p>
+> <p>Be less curious about people and more curious about ideas.</p>
 >
-> <p>- John Dewey</p>
+> <p>- Marie Curie</p>
 
 Check back at the top of the hour for a new quote!
 

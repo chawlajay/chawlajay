@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Always be smarter than the people who hire you.</p>
+> <p>To hell with circumstances; I create opportunities.</p>
 >
-> <p>- Lena Horne</p>
+> <p>- Bruce Lee</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Ignorance never settle a question.</p>
+> <p>Stay committed to your decisions, but stay flexible in your approach.</p>
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Tony Robbins</p>
 
 Check back at the top of the hour for a new quote!
 

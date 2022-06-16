@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The meaning I picked, the one that changed my life: Overcome fear, behold wonder.</p>
+> <p>We cannot solve our problems with the same thinking we used when we created them.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

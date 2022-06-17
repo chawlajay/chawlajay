@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Slow down and enjoy life. It's not only the scenery you miss by going too fast you also miss the sense of where you are going and why.</p>
+> <p>Living at risk is jumping off the cliff and building your wings on the way down.</p>
 >
-> <p>- Eddie Cantor</p>
+> <p>- Ray Bradbury</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.</p>
+> <p>A man of ability and the desire to accomplish something can do anything.</p>
 >
-> <p>- Barack Obama</p>
+> <p>- Donald Kircher</p>
 
 Check back at the top of the hour for a new quote!
 

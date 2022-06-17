@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When one tugs at a single thing in nature, he finds it attached to the rest of the world.</p>
+> <p>Society develops wit, but its contemplation alone forms genius.</p>
 >
-> <p>- John Muir</p>
+> <p>- Madame de Stael</p>
 
 Check back at the top of the hour for a new quote!
 

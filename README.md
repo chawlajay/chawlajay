@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The two most powerful warriors are patience and time.</p>
+> <p>If you surrender to the wind, you can ride it.</p>
 >
-> <p>- Leo Tolstoy</p>
+> <p>- Toni Morrison</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>He who has imagination without learning has wings but no feet.</p>
+> <p>Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.</p>
 >
-> <p>- Joseph Joubert</p>
+> <p>- Barack Obama</p>
 
 Check back at the top of the hour for a new quote!
 

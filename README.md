@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.</p>
+> <p>Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Harriet Lerner</p>
 
 Check back at the top of the hour for a new quote!
 

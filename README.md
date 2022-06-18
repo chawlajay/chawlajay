@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To be upset over what you don't have is to waste what you do have.</p>
+> <p>Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.</p>
 >
-> <p>- Ken S. Keyes</p>
+> <p>- Harriet Lerner</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.</p>
+> <p>Good thoughts are no better than good dreams, unless they be executed.</p>
 >
-> <p>- Plato</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Action may not always bring happiness; but there is no happiness without action.</p>
+> <p>The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.</p>
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Seneca</p>
 
 Check back at the top of the hour for a new quote!
 

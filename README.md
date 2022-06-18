@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.</p>
+> <p>Those who will play with cats must expect to be scratched.</p>
 >
-> <p>- Buddha</p>
+> <p>- Cervantes</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Decision is a risk rooted in the courage of being free.</p>
+> <p>From wonder into wonder existence opens.</p>
 >
-> <p>- Paul Tillich</p>
+> <p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Strength to carry on despite the odds means you have faith in your own abilities and know how.</p>
+> <p>Action may not always bring happiness; but there is no happiness without action.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Benjamin Disraeli</p>
 
 Check back at the top of the hour for a new quote!
 

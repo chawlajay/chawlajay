@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Those who will play with cats must expect to be scratched.</p>
+> <p>Strength to carry on despite the odds means you have faith in your own abilities and know how.</p>
 >
-> <p>- Cervantes</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

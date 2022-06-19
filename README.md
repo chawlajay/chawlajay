@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>How wonderful it is that nobody need wait a single moment before starting to improve the world.</p>
+> <p>A rolling stone gathers no moss.</p>
 >
-> <p>- Anne Frank</p>
+> <p>- Publilius Syrus</p>
 
 Check back at the top of the hour for a new quote!
 

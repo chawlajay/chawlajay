@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is only with the heart that one can see rightly, what is essential is invisible to the eye.</p>
+> <p>A rolling stone gathers no moss.</p>
 >
-> <p>- Antoine de Saint-Exupery</p>
+> <p>- Publilius Syrus</p>
 
 Check back at the top of the hour for a new quote!
 

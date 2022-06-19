@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.</p>
+> <p>There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.</p>
 >
-> <p>- Epictetus</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

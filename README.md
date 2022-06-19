@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Life is 10% what happens to you and 90% how you react to it.</p>
+> <p>If I know what love is, it is because of you.</p>
 >
-> <p>- Charles Swindoll</p>
+> <p>- Hermann Hesse</p>
 
 Check back at the top of the hour for a new quote!
 

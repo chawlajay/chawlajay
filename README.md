@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Error is discipline through which we advance.</p>
+> <p>Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.</p>
 >
-> <p>- Channing</p>
+> <p>- Epictetus</p>
 
 Check back at the top of the hour for a new quote!
 

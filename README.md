@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Moments of complete apathy are the best for new creations.</p>
+> <p>Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.</p>
 >
-> <p>- Philip Breedveld</p>
+> <p>- Denis Waitley</p>
 
 Check back at the top of the hour for a new quote!
 

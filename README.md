@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A friend is someone who understands your past, believes in your future, and accepts you just the way you are.</p>
+> <p>There are two kinds of failures: those who thought and never did, and those who did and never thought.</p>
 >
-> <p>- null</p>
+> <p>- Laurence J. Peter</p>
 
 Check back at the top of the hour for a new quote!
 

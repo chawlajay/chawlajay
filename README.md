@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I'm not in this world to live up to your expectations and you're not in this world to live up to mine.</p>
+> <p>There is only one happiness in life, to love and be loved.</p>
 >
-> <p>- Bruce Lee</p>
+> <p>- George Sand</p>
 
 Check back at the top of the hour for a new quote!
 

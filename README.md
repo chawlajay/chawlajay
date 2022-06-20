@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.</p>
+> <p>If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own.</p>
 >
-> <p>- Mother Teresa</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Check back at the top of the hour for a new quote!
 

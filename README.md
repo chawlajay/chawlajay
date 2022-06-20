@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.</p>
+> <p>Things that were hard to bear are sweet to remember.</p>
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Seneca</p>
 
 Check back at the top of the hour for a new quote!
 

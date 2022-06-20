@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There are two kinds of failures: those who thought and never did, and those who did and never thought.</p>
+> <p>Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.</p>
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Mother Teresa</p>
 
 Check back at the top of the hour for a new quote!
 

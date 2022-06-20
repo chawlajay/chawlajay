@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>All the world is a stage, And all the men and women merely players.They have their exits and entrances; Each man in his time plays many parts.</p>
+> <p>There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.</p>
 >
-> <p>- William Shakespeare</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

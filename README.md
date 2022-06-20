@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own.</p>
+> <p>To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.</p>
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Kahlil Gibran</p>
 
 Check back at the top of the hour for a new quote!
 

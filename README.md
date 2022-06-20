@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Things that were hard to bear are sweet to remember.</p>
+> <p>Almost everything comes from nothing.</p>
 >
-> <p>- Seneca</p>
+> <p>- Henri Amiel</p>
 
 Check back at the top of the hour for a new quote!
 

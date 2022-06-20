@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Argue for your limitations, and sure enough they're yours.</p>
+> <p>Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Eknath Easwaran</p>
 
 Check back at the top of the hour for a new quote!
 

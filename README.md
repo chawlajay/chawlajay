@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.</p>
+> <p>All difficult things have their origin in that which is easy, and great things in that which is small.</p>
 >
-> <p>- Buddha</p>
+> <p>- Lao-Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

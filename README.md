@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The greatest good you can do for another is not just to share your riches but to reveal to him his own.</p>
+> <p>We can only be said to be alive in those moments when our hearts are conscious of our treasures.</p>
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Thornton Wilder</p>
 
 Check back at the top of the hour for a new quote!
 

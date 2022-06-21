@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you love life, don't waste time, for time is what life is made up of.</p>
+> <p>Life is really simple, but we insist on making it complicated.</p>
 >
-> <p>- Bruce Lee</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

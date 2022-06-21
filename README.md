@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We can only be said to be alive in those moments when our hearts are conscious of our treasures.</p>
+> <p>Just trust yourself, then you will know how to live.</p>
 >
-> <p>- Thornton Wilder</p>
+> <p>- Goethe</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Correction does much, but encouragement does more.</p>
+> <p>Important principles may, and must, be inflexible.</p>
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Abraham Lincoln</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.</p>
+> <p>There is no failure except in no longer trying.</p>
 >
-> <p>- Naguib Mahfouz</p>
+> <p>- Elbert Hubbard</p>
 
 Check back at the top of the hour for a new quote!
 

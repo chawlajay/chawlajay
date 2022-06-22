@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It takes courage to grow up and become who you really are.</p>
+> <p>Id rather regret the things that I have done than the things that I have not done.</p>
 >
-> <p>- E. E. Cummings</p>
+> <p>- Lucille Ball</p>
 
 Check back at the top of the hour for a new quote!
 

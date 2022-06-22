@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Don't judge each day by the harvest you reap but by the seeds that you plant.</p>
+> <p>Silence is the true friend that never betrays.</p>
 >
-> <p>- Robert Stevenson</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

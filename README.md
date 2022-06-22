@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There is no failure except in no longer trying.</p>
+> <p>What separates the winners from the losers is how a person reacts to each new twist of fate.</p>
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Donald Trump</p>
 
 Check back at the top of the hour for a new quote!
 

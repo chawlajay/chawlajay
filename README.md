@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
+> <p>With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble. Courage is the foundation of integrity.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Keshavan Nair</p>
 
 Check back at the top of the hour for a new quote!
 

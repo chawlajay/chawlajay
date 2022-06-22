@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.</p>
+> <p>In skating over thin ice our safety is in our speed.</p>
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

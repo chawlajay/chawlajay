@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I have always thought the actions of men the best interpreters of their thoughts.</p>
+> <p>Take heed: you do not find what you do not seek.</p>
 >
-> <p>- John Locke</p>
+> <p>- English proverb</p>
 
 Check back at the top of the hour for a new quote!
 

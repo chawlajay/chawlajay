@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.</p>
+> <p>We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.</p>
 >
-> <p>- Margaret Laurence</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

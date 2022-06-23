@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is never too late to be what you might have been.</p>
+> <p>Do, or do not. There is no try.</p>
 >
-> <p>- George Eliot</p>
+> <p>- Yoda</p>
 
 Check back at the top of the hour for a new quote!
 

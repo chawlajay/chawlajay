@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Living at risk is jumping off the cliff and building your wings on the way down.</p>
+> <p>Men of perverse opinion do not know the excellence of what is in their hands, till some one dash it from them.</p>
 >
-> <p>- Ray Bradbury</p>
+> <p>- Sophocles</p>
 
 Check back at the top of the hour for a new quote!
 

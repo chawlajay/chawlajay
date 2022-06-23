@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We do what we do because we believe.</p>
+> <p>The only limit to your impact is your imagination and commitment.</p>
 >
-> <p>- null</p>
+> <p>- Tony Robbins</p>
 
 Check back at the top of the hour for a new quote!
 

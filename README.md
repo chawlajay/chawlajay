@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.</p>
+> <p>Translation is the paradigm, the exemplar of all writing. It is translation that demonstrates most vividly the yearning for transformation that underlies every act involving speech, that supremely human gift.</p>
 >
-> <p>- Buddha</p>
+> <p>- Harry Burchell Mathews</p>
 
 Check back at the top of the hour for a new quote!
 

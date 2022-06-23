@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Do, or do not. There is no try.</p>
+> <p>Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.</p>
 >
-> <p>- Yoda</p>
+> <p>- Margaret Laurence</p>
 
 Check back at the top of the hour for a new quote!
 

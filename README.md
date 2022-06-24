@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You have to do your own growing no matter how tall your grandfather was.</p>
+> <p>The reasonable man adapts himself to the world; the unreasonable man persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.</p>
 >
-> <p>- Abraham Lincoln</p>
+> <p>- George Shaw</p>
 
 Check back at the top of the hour for a new quote!
 

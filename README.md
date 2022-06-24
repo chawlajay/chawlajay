@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Life isn't about finding yourself. Life is about creating yourself.</p>
+> <p>Moments of complete apathy are the best for new creations.</p>
 >
-> <p>- Bernard Shaw</p>
+> <p>- Philip Breedveld</p>
 
 Check back at the top of the hour for a new quote!
 

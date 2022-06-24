@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Time you enjoyed wasting was not wasted.</p>
+> <p>Gratitude is not only the greatest of virtues, but the paren't of all the others.</p>
 >
-> <p>- John Lennon</p>
+> <p>- Cicero</p>
 
 Check back at the top of the hour for a new quote!
 

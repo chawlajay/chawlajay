@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Ability is what you're capable of doing. Motivation determines what you do.Attitude determines how well you do it.</p>
+> <p>An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is colour-blind.</p>
 >
-> <p>- Lou Holtz</p>
+> <p>- Albert Schweitzer</p>
 
 Check back at the top of the hour for a new quote!
 

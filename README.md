@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.</p>
+> <p>Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.</p>
 >
-> <p>- Henry Van Dyke</p>
+> <p>- Margaret Laurence</p>
 
 Check back at the top of the hour for a new quote!
 

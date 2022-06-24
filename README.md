@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When you don't know what you believe, everything becomes an argument. Everything is debatable. But when you stand for something, decisions are obvious.</p>
+> <p>All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.</p>
 >
-> <p>- null</p>
+> <p>- Albert Camus</p>
 
 Check back at the top of the hour for a new quote!
 

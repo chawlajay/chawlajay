@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is the mark of an educated mind to be able to entertain a thought without accepting it.</p>
+> <p>If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.</p>
 >
-> <p>- Aristotle</p>
+> <p>- Jim Rohn</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You can't choose up sides on a round world.</p>
+> <p>Patience is the companion of wisdom.</p>
 >
-> <p>- Wayne Dyer</p>
+> <p>- Saint Augustine</p>
 
 Check back at the top of the hour for a new quote!
 

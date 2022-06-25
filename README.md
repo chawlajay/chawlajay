@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It takes courage to grow up and become who you really are.</p>
+> <p>To want to be what one can be is purpose in life.</p>
 >
-> <p>- E. E. Cummings</p>
+> <p>- Cynthia Ozick</p>
 
 Check back at the top of the hour for a new quote!
 

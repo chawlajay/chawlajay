@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.</p>
+> <p>The more you know yourself, the more you forgive yourself.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

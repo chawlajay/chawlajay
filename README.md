@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To fly as fast as thought, you must begin by knowing that you have already arrived.</p>
+> <p>Do not wait for leaders; do it alone, person to person.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Mother Teresa</p>
 
 Check back at the top of the hour for a new quote!
 

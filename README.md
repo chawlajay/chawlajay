@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The amount of happiness that you have depends on the amount of freedom you have in your heart.</p>
+> <p>When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.</p>
 >
-> <p>- Thich Nhat Hanh</p>
+> <p>- Pema Chodron</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.</p>
+> <p>Chaos and Order are not enemies, only opposites.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Richard Garriott</p>
 
 Check back at the top of the hour for a new quote!
 

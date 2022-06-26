@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Compassion and happiness are not a sign of weakness but a sign of strength.</p>
+> <p>Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Wayne Dyer</p>
 
 Check back at the top of the hour for a new quote!
 

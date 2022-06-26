@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Life is a progress, and not a station.</p>
+> <p>Happiness is found in doing, not merely possessing.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Napoleon Hill</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.</p>
+> <p>In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.</p>
 >
-> <p>- Tenzin Gyatso</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Transformation doesn't take place with a vacuum; instead, it occurs when we are indirectly and directly connected to all those around us.</p>
+> <p>The happy and efficient people in this world are those who accept trouble as a normal detail of human life and resolve to capitalize it when it comes along.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- H. Bertram Lewis</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you change the way you look at things, the things you look at change.</p>
+> <p>A stumble may prevent a fall.</p>
 >
-> <p>- Wayne Dyer</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

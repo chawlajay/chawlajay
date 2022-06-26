@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You only lose what you cling to.</p>
+> <p>Yesterdays home runs don't win today's games.</p>
 >
-> <p>- Buddha</p>
+> <p>- Babe Ruth</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you seek truth you will not seek victory by dishonourable means, and if you find truth you will become invincible.</p>
+> <p>There is nothing so useless as doing efficiently that which should not be done at all.</p>
 >
-> <p>- Epictetus</p>
+> <p>- Peter Drucker</p>
 
 Check back at the top of the hour for a new quote!
 

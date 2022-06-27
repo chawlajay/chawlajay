@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When you learn, teach. When you get, give.</p>
+> <p>Snowflakes are one of natures most fragile things, but just look what they can do when they stick together.</p>
 >
-> <p>- Maya Angelou</p>
+> <p>- Vista Kelly</p>
 
 Check back at the top of the hour for a new quote!
 

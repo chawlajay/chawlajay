@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.</p>
+> <p>Man cannot discover new oceans unless he has the courage to lose sight of the shore.</p>
 >
-> <p>- Henry Van Dyke</p>
+> <p>- Andre Gide</p>
 
 Check back at the top of the hour for a new quote!
 

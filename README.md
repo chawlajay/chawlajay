@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When people are like each other they tend to like each other.</p>
+> <p>I'm not in this world to live up to your expectations and you're not in this world to live up to mine.</p>
 >
-> <p>- Tony Robbins</p>
+> <p>- Bruce Lee</p>
 
 Check back at the top of the hour for a new quote!
 

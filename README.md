@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Loss is nothing else but change,and change is Natures delight.</p>
+> <p>The noblest worship is to make yourself as good and as just as you can.</p>
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Isocrates</p>
 
 Check back at the top of the hour for a new quote!
 

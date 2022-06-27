@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Don't let what you can't do stop you from doing what you can do.</p>
+> <p>The truest greatness lies in being kind, the truest wisdom in a happy mind.</p>
 >
-> <p>- null</p>
+> <p>- Ella Wilcox</p>
 
 Check back at the top of the hour for a new quote!
 

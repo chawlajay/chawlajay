@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There is nothing so useless as doing efficiently that which should not be done at all.</p>
+> <p>The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.</p>
 >
-> <p>- Peter Drucker</p>
+> <p>- Carlos Castaneda</p>
 
 Check back at the top of the hour for a new quote!
 

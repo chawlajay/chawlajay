@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The truest greatness lies in being kind, the truest wisdom in a happy mind.</p>
+> <p>It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.</p>
 >
-> <p>- Ella Wilcox</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

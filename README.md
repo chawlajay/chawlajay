@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Peace begins with a smile.</p>
+> <p>Fear of failure is one attitude that will keep you at the same point in your life.</p>
 >
-> <p>- Mother Teresa</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Freedom is what you do with what's been done to you.</p>
+> <p>Thought is the blossom; language the bud; action the fruit behind it.</p>
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

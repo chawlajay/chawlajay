@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Every great advance in science has issued from a new audacity of the imagination.</p>
+> <p>When you realize how perfect everything is you will tilt your head back and laugh at the sky.</p>
 >
-> <p>- John Dewey</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

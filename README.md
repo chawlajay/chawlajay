@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</p>
+> <p>You teach best what you most need to learn.</p>
 >
-> <p>- Pema Chodron</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

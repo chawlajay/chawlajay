@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The poor man is not he who is without a cent, but he who is without a dream.</p>
+> <p>In the end we retain from our studies only that which we practically apply.</p>
 >
-> <p>- Harry Kemp</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Check back at the top of the hour for a new quote!
 

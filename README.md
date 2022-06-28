@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If someone in your life talked to you the way you talk to yourself, you would have left them long ago.</p>
+> <p>Every great advance in science has issued from a new audacity of the imagination.</p>
 >
-> <p>- Carla Gordon</p>
+> <p>- John Dewey</p>
 
 Check back at the top of the hour for a new quote!
 

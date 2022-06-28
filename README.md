@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>In the end we retain from our studies only that which we practically apply.</p>
+> <p>All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.</p>
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Alexis Carrel</p>
 
 Check back at the top of the hour for a new quote!
 

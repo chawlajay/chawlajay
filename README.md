@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.</p>
+> <p>The greatest barrier to success is the fear of failure.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Eriksson</p>
 
 Check back at the top of the hour for a new quote!
 

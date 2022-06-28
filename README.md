@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.</p>
+> <p>Love is not blind; it simply enables one to see things others fail to see.</p>
 >
-> <p>- Alexis Carrel</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

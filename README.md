@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When you realize how perfect everything is you will tilt your head back and laugh at the sky.</p>
+> <p>Fame usually comes to those who are thinking about something else.</p>
 >
-> <p>- Buddha</p>
+> <p>- Holmes</p>
 
 Check back at the top of the hour for a new quote!
 

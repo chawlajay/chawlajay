@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The greatest barrier to success is the fear of failure.</p>
+> <p>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</p>
 >
-> <p>- Eriksson</p>
+> <p>- Pema Chodron</p>
 
 Check back at the top of the hour for a new quote!
 

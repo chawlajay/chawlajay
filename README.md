@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The one who always loses, is the only person who gets the reward.</p>
+> <p>Setting an example is not the main means of influencing another, it is the only means.</p>
 >
-> <p>- Claire Charmont</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

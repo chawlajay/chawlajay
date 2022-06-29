@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>He who knows others is wise. He who knows himself is enlightened.</p>
+> <p>All the great performers I have worked with are fuelled by a personal dream.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- John Eliot</p>
 
 Check back at the top of the hour for a new quote!
 

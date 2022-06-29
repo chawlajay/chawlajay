@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.</p>
+> <p>The one who always loses, is the only person who gets the reward.</p>
 >
-> <p>- Kathleen Norris</p>
+> <p>- Claire Charmont</p>
 
 Check back at the top of the hour for a new quote!
 

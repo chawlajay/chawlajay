@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Fate is in your hands and no one elses</p>
+> <p>Every gift from a friend is a wish for your happiness.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

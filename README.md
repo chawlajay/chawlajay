@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Time stays long enough for anyone who will use it.</p>
+> <p>This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.</p>
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Thomas Carlyle</p>
 
 Check back at the top of the hour for a new quote!
 

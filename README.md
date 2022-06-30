@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To bring anything into your life, imagine that it's already there.</p>
+> <p>It does not matter how slowly you go as long as you do not stop.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

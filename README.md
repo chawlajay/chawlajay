@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>No snowflake in an avalanche ever feels responsible.</p>
+> <p>You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.</p>
 >
-> <p>- Voltaire</p>
+> <p>- Albert Camus</p>
 
 Check back at the top of the hour for a new quote!
 

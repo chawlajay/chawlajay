@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Remember that failure is an event, not a person.</p>
+> <p>Learn all you can from the mistakes of others. You won't have time to make them all yourself.</p>
 >
-> <p>- Zig Ziglar</p>
+> <p>- Alfred Sheinwold</p>
 
 Check back at the top of the hour for a new quote!
 

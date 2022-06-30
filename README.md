@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.</p>
+> <p>Remember that failure is an event, not a person.</p>
 >
-> <p>- Albert Einstein</p>
+> <p>- Zig Ziglar</p>
 
 Check back at the top of the hour for a new quote!
 

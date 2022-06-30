@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Setting an example is not the main means of influencing another, it is the only means.</p>
+> <p>There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.</p>
 >
 > <p>- Albert Einstein</p>
 

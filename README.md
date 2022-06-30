@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>One of the advantages of being disorderly is that one is constantly making exciting discoveries.</p>
+> <p>What is not started today is never finished tomorrow.</p>
 >
-> <p>- A. A. Milne</p>
+> <p>- Goethe</p>
 
 Check back at the top of the hour for a new quote!
 

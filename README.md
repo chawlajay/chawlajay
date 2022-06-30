@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It does not matter how slowly you go as long as you do not stop.</p>
+> <p>One of the advantages of being disorderly is that one is constantly making exciting discoveries.</p>
 >
-> <p>- Confucius</p>
+> <p>- A. A. Milne</p>
 
 Check back at the top of the hour for a new quote!
 

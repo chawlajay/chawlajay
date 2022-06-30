@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.</p>
+> <p>Time stays long enough for anyone who will use it.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Leonardo da Vinci</p>
 
 Check back at the top of the hour for a new quote!
 

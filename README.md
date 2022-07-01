@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We are all faced with a series of great opportunities brilliantly disguised as impossible situations.</p>
+> <p>I will prepare and some day my chance will come.</p>
 >
-> <p>- Charles R. Swindoll</p>
+> <p>- Abraham Lincoln</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Treat people as if they were what they ought to be and you help them to become what they are capable of being.</p>
+> <p>Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.</p>
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Marie Curie</p>
 
 Check back at the top of the hour for a new quote!
 

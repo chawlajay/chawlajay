@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Silences make the real conversations between friends. Not the saying but the never needing to say is what counts.</p>
+> <p>Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.</p>
 >
-> <p>- Margaret Runbeck</p>
+> <p>- Blaise Pascal</p>
 
 Check back at the top of the hour for a new quote!
 

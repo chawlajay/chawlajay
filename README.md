@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You have to think anyway, so why not think big?</p>
+> <p>An obstacle may be either a stepping stone or a stumbling block.</p>
 >
-> <p>- Donald Trump</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

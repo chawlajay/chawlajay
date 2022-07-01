@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.</p>
+> <p>We are all faced with a series of great opportunities brilliantly disguised as impossible situations.</p>
 >
-> <p>- Blaise Pascal</p>
+> <p>- Charles R. Swindoll</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Blessed is the man who expects nothing, for he shall never be disappointed.</p>
+> <p>Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.</p>
 >
-> <p>- Alexander Pope</p>
+> <p>- Jane Addams</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you propose to speak, always ask yourself, is it true, is it necessary, is it kind.</p>
+> <p>People take different roads seeking fulfilment and happiness. Just because theyre not on your road doesn't mean they've gotten lost.</p>
 >
-> <p>- Buddha</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

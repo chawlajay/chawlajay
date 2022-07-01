@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.</p>
+> <p>You have to think anyway, so why not think big?</p>
 >
-> <p>- Honore de Balzac</p>
+> <p>- Donald Trump</p>
 
 Check back at the top of the hour for a new quote!
 

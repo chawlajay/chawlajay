@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A man of ability and the desire to accomplish something can do anything.</p>
+> <p>The winds and waves are always on the side of the ablest navigators.</p>
 >
-> <p>- Donald Kircher</p>
+> <p>- Edward Gibbon</p>
 
 Check back at the top of the hour for a new quote!
 

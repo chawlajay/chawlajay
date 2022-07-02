@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The happy and efficient people in this world are those who accept trouble as a normal detail of human life and resolve to capitalize it when it comes along.</p>
+> <p>The true way to render ourselves happy is to love our work and find in it our pleasure.</p>
 >
-> <p>- H. Bertram Lewis</p>
+> <p>- Francoise de Motteville</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The day always looks brighter from behind a smile.</p>
+> <p>Speak when you are angry and you will make the best speech you will ever regret.</p>
 >
-> <p>- null</p>
+> <p>- Ambrose Bierce</p>
 
 Check back at the top of the hour for a new quote!
 

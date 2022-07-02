@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To forgive is to set a prisoner free and realize that prisoner was you.</p>
+> <p>The only real failure in life is not to be true to the best one knows.</p>
 >
-> <p>- Lewis B. Smedes</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

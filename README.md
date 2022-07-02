@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Imagination is the living power and prime agent of all human perception.</p>
+> <p>We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.</p>
 >
-> <p>- Samuel Taylor Coleridge</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

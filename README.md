@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Creativity comes from trust. Trust your instincts. And never hope more than you work.</p>
+> <p>In all things of nature there is something of the marvellous.</p>
 >
-> <p>- Rita Mae Brown</p>
+> <p>- Aristotle</p>
 
 Check back at the top of the hour for a new quote!
 

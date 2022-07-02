@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Know, first, who you are, and then adorn yourself accordingly.</p>
+> <p>You must train your intuition you must trust the small voice inside you which tells you exactly what to say, what to decide.</p>
 >
-> <p>- Epictetus</p>
+> <p>- Ingrid Bergman</p>
 
 Check back at the top of the hour for a new quote!
 

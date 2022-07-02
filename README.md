@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Nothing strengthens authority so much as silence.</p>
+> <p>It is only with the heart that one can see rightly, what is essential is invisible to the eye.</p>
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Antoine de Saint-Exupery</p>
 
 Check back at the top of the hour for a new quote!
 

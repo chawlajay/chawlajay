@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To lead people walk behind them.</p>
+> <p>Nothing strengthens authority so much as silence.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Leonardo da Vinci</p>
 
 Check back at the top of the hour for a new quote!
 

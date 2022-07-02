@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Speak when you are angry and you will make the best speech you will ever regret.</p>
+> <p>Creativity comes from trust. Trust your instincts. And never hope more than you work.</p>
 >
-> <p>- Ambrose Bierce</p>
+> <p>- Rita Mae Brown</p>
 
 Check back at the top of the hour for a new quote!
 

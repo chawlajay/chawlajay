@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The first duty of a human being is to assume the right functional relationship to society more briefly, to find your real job, and do it.</p>
+> <p>Smile, breathe and go slowly.</p>
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- Thich Nhat Hanh</p>
 
 Check back at the top of the hour for a new quote!
 

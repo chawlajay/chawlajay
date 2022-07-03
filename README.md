@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.</p>
+> <p>Take time to deliberate, but when the time for action has arrived, stop thinking and go in.</p>
 >
-> <p>- Buddha</p>
+> <p>- Napoleon Bonaparte</p>
 
 Check back at the top of the hour for a new quote!
 

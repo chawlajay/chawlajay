@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.</p>
+> <p>It is the greatest of all mistakes to do nothing because you can only do little do what you can.</p>
 >
-> <p>- Pema Chodron</p>
+> <p>- Sydney Smith</p>
 
 Check back at the top of the hour for a new quote!
 

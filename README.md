@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The winds and waves are always on the side of the ablest navigators.</p>
+> <p>It is never too late. Even if you are going to die tomorrow, keep yourself straight and clear and be a happy human being today.</p>
 >
-> <p>- Edward Gibbon</p>
+> <p>- Lama Yeshe</p>
 
 Check back at the top of the hour for a new quote!
 

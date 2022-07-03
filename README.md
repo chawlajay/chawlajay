@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A really great talent finds its happiness in execution.</p>
+> <p>We know from science that nothing in the universe exists as an isolated or independent entity.</p>
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Margaret Wheatley</p>
 
 Check back at the top of the hour for a new quote!
 

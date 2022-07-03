@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Wherever a man turns he can find someone who needs him.</p>
+> <p>With the realization of ones own potential and self-confidence in ones ability, one can build a better world.</p>
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

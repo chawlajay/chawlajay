@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If only wed stop trying to be happy wed have a pretty good time.</p>
+> <p>Once you choose hope, anythings possible.</p>
 >
-> <p>- Edith Wharton</p>
+> <p>- Christopher Reeve</p>
 
 Check back at the top of the hour for a new quote!
 

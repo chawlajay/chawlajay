@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Waste no more time arguing about what a good man should be. Be one.</p>
+> <p>He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.</p>
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Epictetus</p>
 
 Check back at the top of the hour for a new quote!
 

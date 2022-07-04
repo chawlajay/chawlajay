@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I am not afraid of tomorrow, for I have seen yesterday and I love today.</p>
+> <p>Your work is to discover your world and then with all your heart give yourself to it.</p>
 >
-> <p>- William White</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

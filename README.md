@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We must never forget that it is through our actions, words, and thoughts that we have a choice.</p>
+> <p>Experience is simply the name we give our mistakes.</p>
 >
-> <p>- Sogyal Rinpoche</p>
+> <p>- Oscar Wilde</p>
 
 Check back at the top of the hour for a new quote!
 

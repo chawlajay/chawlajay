@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Without some goals and some efforts to reach it, no man can live.</p>
+> <p>He who lives in harmony with himself lives in harmony with the universe.</p>
 >
-> <p>- John Dewey</p>
+> <p>- Marcus Aurelius</p>
 
 Check back at the top of the hour for a new quote!
 

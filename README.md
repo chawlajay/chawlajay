@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The foot feels the foot when it feels the ground.</p>
+> <p>Happiness depends upon ourselves.</p>
 >
-> <p>- Buddha</p>
+> <p>- Aristotle</p>
 
 Check back at the top of the hour for a new quote!
 

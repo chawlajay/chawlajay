@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>As long as your going to be thinking anyway, think big.</p>
+> <p>Doing what you love is the cornerstone of having abundance in your life.</p>
 >
-> <p>- Donald Trump</p>
+> <p>- Wayne Dyer</p>
 
 Check back at the top of the hour for a new quote!
 

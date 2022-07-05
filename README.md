@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Autumn is a second spring when every leaf is a flower.</p>
+> <p>Without some goals and some efforts to reach it, no man can live.</p>
 >
-> <p>- Albert Camus</p>
+> <p>- John Dewey</p>
 
 Check back at the top of the hour for a new quote!
 

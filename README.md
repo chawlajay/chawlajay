@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.</p>
+> <p>The way is not in the sky. The way is in the heart.</p>
 >
-> <p>- Vincent Lombardi</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

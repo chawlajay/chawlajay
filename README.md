@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>He who lives in harmony with himself lives in harmony with the universe.</p>
+> <p>The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.</p>
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Vincent Lombardi</p>
 
 Check back at the top of the hour for a new quote!
 

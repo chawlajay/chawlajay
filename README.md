@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The first step to getting the things you want out of life is this: decide what you want.</p>
+> <p>Experience keeps a dear school, but fools will learn in no other.</p>
 >
-> <p>- Ben Stein</p>
+> <p>- Benjamin Franklin</p>
 
 Check back at the top of the hour for a new quote!
 

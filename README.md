@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.</p>
+> <p>Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.</p>
 >
-> <p>- Buddha</p>
+> <p>- William Saroyan</p>
 
 Check back at the top of the hour for a new quote!
 

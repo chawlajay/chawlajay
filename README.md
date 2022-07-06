@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>My advice to you is not to inquire why or whither, but just enjoy your ice cream while its on your plate that's my philosophy.</p>
+> <p>Nothing is a waste of time if you use the experience wisely.</p>
 >
-> <p>- Thornton Wilder</p>
+> <p>- Rodin</p>
 
 Check back at the top of the hour for a new quote!
 

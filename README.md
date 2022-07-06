@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.</p>
+> <p>When you arise in the morning, think of what a precious privilege it is to be alive to breathe, to think, to enjoy, to love.</p>
 >
-> <p>- Alphonse Karr</p>
+> <p>- Marcus Aurelius</p>
 
 Check back at the top of the hour for a new quote!
 

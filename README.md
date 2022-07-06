@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The power of intuitive understanding will protect you from harm until the end of your days.</p>
+> <p>Good luck is another name for tenacity of purpose.</p>
 >
-> <p>- Laozi</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

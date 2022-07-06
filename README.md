@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Life is so constructed that an event does not, cannot, will not, match the expectation.</p>
+> <p>If you don't know where you are going, you will probably end up somewhere else.</p>
 >
-> <p>- Charlotte Bronte</p>
+> <p>- Lawrence Peter</p>
 
 Check back at the top of the hour for a new quote!
 

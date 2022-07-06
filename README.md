@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When you arise in the morning, think of what a precious privilege it is to be alive to breathe, to think, to enjoy, to love.</p>
+> <p>The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.</p>
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

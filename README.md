@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.</p>
+> <p>By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.</p>
 >
-> <p>- John Kennedy</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

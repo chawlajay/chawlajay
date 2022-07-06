@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Good luck is another name for tenacity of purpose.</p>
+> <p>One does not discover new lands without consenting to lose sight of the shore for a very long time.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Andre Gide</p>
 
 Check back at the top of the hour for a new quote!
 

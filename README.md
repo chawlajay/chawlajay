@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Failure doesn't mean you are a failure it just means you haven't succeeded yet.</p>
+> <p>One of the advantages of being disorderly is that one is constantly making exciting discoveries.</p>
 >
-> <p>- Robert Schuller</p>
+> <p>- A. A. Milne</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>One of the advantages of being disorderly is that one is constantly making exciting discoveries.</p>
+> <p>Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.</p>
 >
-> <p>- A. A. Milne</p>
+> <p>- John Kennedy</p>
 
 Check back at the top of the hour for a new quote!
 

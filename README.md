@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Nothing is a waste of time if you use the experience wisely.</p>
+> <p>It's easier to see the mistakes on someone else's paper.</p>
 >
-> <p>- Rodin</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.</p>
+> <p>The power of intuitive understanding will protect you from harm until the end of your days.</p>
 >
-> <p>- William Saroyan</p>
+> <p>- Laozi</p>
 
 Check back at the top of the hour for a new quote!
 

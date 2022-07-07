@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Feeling and longing are the motive forces behind all human endeavor and human creations.</p>
+> <p>Freedom is not worth having if it does not connote freedom to err.</p>
 >
-> <p>- Albert Einstein</p>
+> <p>- Mohandas Gandhi</p>
 
 Check back at the top of the hour for a new quote!
 

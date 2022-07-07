@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.</p>
+> <p>Be what you are. This is the first step toward becoming better than you are.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Julius Charles Hare</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>More often than not, anger is actually an indication of weakness rather than of strength.</p>
+> <p>Feeling and longing are the motive forces behind all human endeavor and human creations.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

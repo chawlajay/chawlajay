@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Change your thoughts, change your life!</p>
+> <p>The foolish man seeks happiness in the distance, the wise grows it under his feet.</p>
 >
-> <p>- null</p>
+> <p>- James Oppenheim</p>
 
 Check back at the top of the hour for a new quote!
 

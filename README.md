@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When people are like each other they tend to like each other.</p>
+> <p>The shoe that fits one person pinches another; there is no recipe for living that suits all cases.</p>
 >
-> <p>- Tony Robbins</p>
+> <p>- Carl Jung</p>
 
 Check back at the top of the hour for a new quote!
 

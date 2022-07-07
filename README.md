@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The shoe that fits one person pinches another; there is no recipe for living that suits all cases.</p>
+> <p>It is the quality of our work which will please God, not the quantity.</p>
 >
-> <p>- Carl Jung</p>
+> <p>- Mahatma Gandhi</p>
 
 Check back at the top of the hour for a new quote!
 

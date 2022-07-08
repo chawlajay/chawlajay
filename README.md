@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.</p>
+> <p>He who fears being conquered is sure of defeat.</p>
 >
-> <p>- null</p>
+> <p>- Napoleon Bonaparte</p>
 
 Check back at the top of the hour for a new quote!
 

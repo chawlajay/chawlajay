@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>What we think, we become.</p>
+> <p>Experience is simply the name we give our mistakes.</p>
 >
-> <p>- Buddha</p>
+> <p>- Oscar Wilde</p>
 
 Check back at the top of the hour for a new quote!
 

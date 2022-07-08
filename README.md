@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.</p>
+> <p>We choose our joys and sorrows long before we experience them.</p>
 >
-> <p>- Tryon Edwards</p>
+> <p>- Kahlil Gibran</p>
 
 Check back at the top of the hour for a new quote!
 

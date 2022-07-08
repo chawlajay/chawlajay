@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You have to do your own growing no matter how tall your grandfather was.</p>
+> <p>The awareness of our own strength makes us modest.</p>
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Paul Cezanne</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.</p>
+> <p>Nothing in life is to be feared. It is only to be understood.</p>
 >
-> <p>- John Steinbeck</p>
+> <p>- Marie Curie</p>
 
 Check back at the top of the hour for a new quote!
 

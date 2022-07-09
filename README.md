@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Fear grows in darkness; if you think theres a bogeyman around, turn on the light.</p>
+> <p>To lead people walk behind them.</p>
 >
-> <p>- Dorothy Thompson</p>
+> <p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

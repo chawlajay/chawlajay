@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>One fails forward toward success.</p>
+> <p>Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.</p>
 >
-> <p>- Charles Kettering</p>
+> <p>- Tom Jackson</p>
 
 Check back at the top of the hour for a new quote!
 

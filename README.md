@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Opportunity often comes disguised in the form of misfortune, or temporary defeat.</p>
+> <p>Sadness may be part of life but there is no need to let it dominate your entire life.</p>
 >
-> <p>- Napoleon Hill</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

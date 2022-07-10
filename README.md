@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Today, give a stranger a smile without waiting for it may be the joy they need to have a great day.</p>
+> <p>In skating over thin ice our safety is in our speed.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

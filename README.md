@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Your work is to discover your world and then with all your heart give yourself to it.</p>
+> <p>Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.</p>
 >
-> <p>- Buddha</p>
+> <p>- Napoleon Hill</p>
 
 Check back at the top of the hour for a new quote!
 

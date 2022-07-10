@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Risk more than others think is safe. Care more than others think is wise. Dream more than others think is practical.Expect more than others think is possible.</p>
+> <p>In three words I can sum up everything Ive learned about life: it goes on.</p>
 >
-> <p>- Cadet Maxim</p>
+> <p>- Robert Frost</p>
 
 Check back at the top of the hour for a new quote!
 

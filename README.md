@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To want to be what one can be is purpose in life.</p>
+> <p>Setting an example is not the main means of influencing another, it is the only means.</p>
 >
-> <p>- Cynthia Ozick</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

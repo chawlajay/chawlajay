@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>In skating over thin ice our safety is in our speed.</p>
+> <p>The day you decide to do it is your lucky day.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Japanese proverb</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Excellence is to do a common thing in an uncommon way.</p>
+> <p>The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.</p>
 >
-> <p>- Booker Washington</p>
+> <p>- Henry Miller</p>
 
 Check back at the top of the hour for a new quote!
 

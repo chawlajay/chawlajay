@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</p>
+> <p>Learn all you can from the mistakes of others. You won't have time to make them all yourself.</p>
 >
-> <p>- Buddha</p>
+> <p>- Alfred Sheinwold</p>
 
 Check back at the top of the hour for a new quote!
 

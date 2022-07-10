@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The day you decide to do it is your lucky day.</p>
+> <p>There are no failures just experiences and your reactions to them.</p>
 >
-> <p>- Japanese proverb</p>
+> <p>- Tom Krause</p>
 
 Check back at the top of the hour for a new quote!
 

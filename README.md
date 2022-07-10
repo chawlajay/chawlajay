@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There are no failures just experiences and your reactions to them.</p>
+> <p>Risk more than others think is safe. Care more than others think is wise. Dream more than others think is practical.Expect more than others think is possible.</p>
 >
-> <p>- Tom Krause</p>
+> <p>- Cadet Maxim</p>
 
 Check back at the top of the hour for a new quote!
 

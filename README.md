@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Take things as they are. Punch when you have to punch. Kick when you have to kick.</p>
+> <p>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</p>
 >
-> <p>- Bruce Lee</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.</p>
+> <p>Take things as they are. Punch when you have to punch. Kick when you have to kick.</p>
 >
-> <p>- Anais Nin</p>
+> <p>- Bruce Lee</p>
 
 Check back at the top of the hour for a new quote!
 

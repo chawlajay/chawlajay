@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Fine words and an insinuating appearance are seldom associated with true virtue</p>
+> <p>As we grow as unique persons, we learn to respect the uniqueness of others.</p>
 >
-> <p>- Confucius</p>
+> <p>- Robert Schuller</p>
 
 Check back at the top of the hour for a new quote!
 

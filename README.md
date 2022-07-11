@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.</p>
+> <p>The more you know yourself, the more you forgive yourself.</p>
 >
-> <p>- Gloria Steinem</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

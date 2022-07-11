@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Courage is going from failure to failure without losing enthusiasm.</p>
+> <p>All our talents increase in the using, and the every faculty, both good and bad, strengthen by exercise.</p>
 >
-> <p>- Winston Churchill</p>
+> <p>- Anne Bronte</p>
 
 Check back at the top of the hour for a new quote!
 

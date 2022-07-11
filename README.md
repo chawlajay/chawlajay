@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Just as a candle cannot burn without fire, men cannot live without a spiritual life.</p>
+> <p>What we see depends mainly on what we look for.</p>
 >
-> <p>- Buddha</p>
+> <p>- John Lubbock</p>
 
 Check back at the top of the hour for a new quote!
 

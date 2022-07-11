@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>All our talents increase in the using, and the every faculty, both good and bad, strengthen by exercise.</p>
+> <p>Fine words and an insinuating appearance are seldom associated with true virtue</p>
 >
-> <p>- Anne Bronte</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

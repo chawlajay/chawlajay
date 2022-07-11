@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The undertaking of a new action brings new strength.</p>
+> <p>We choose our destiny in the way we treat others.</p>
 >
-> <p>- Richard Evans</p>
+> <p>- Wit</p>
 
 Check back at the top of the hour for a new quote!
 

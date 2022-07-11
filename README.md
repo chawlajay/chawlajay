@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The thoughts we choose to think are the tools we use to paint the canvas of our lives.</p>
+> <p>Experience is not what happens to a man. It is what a man does with what happens to him.</p>
 >
-> <p>- Louise Hay</p>
+> <p>- Aldous Huxley</p>
 
 Check back at the top of the hour for a new quote!
 

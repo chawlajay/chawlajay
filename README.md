@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Inspiration exists, but it has to find us working.</p>
+> <p>To fly, we have to have resistance.</p>
 >
-> <p>- Pablo Picasso</p>
+> <p>- Maya Lin</p>
 
 Check back at the top of the hour for a new quote!
 

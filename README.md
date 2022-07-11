@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.</p>
+> <p>Just as a candle cannot burn without fire, men cannot live without a spiritual life.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

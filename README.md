@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The more you know yourself, the more you forgive yourself.</p>
+> <p>Inspiration exists, but it has to find us working.</p>
 >
-> <p>- Confucius</p>
+> <p>- Pablo Picasso</p>
 
 Check back at the top of the hour for a new quote!
 

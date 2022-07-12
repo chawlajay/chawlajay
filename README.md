@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A wise man will make more opportunities than he finds.</p>
+> <p>Never mistake motion for action.</p>
 >
-> <p>- Francis Bacon</p>
+> <p>- Ernest Hemingway</p>
 
 Check back at the top of the hour for a new quote!
 

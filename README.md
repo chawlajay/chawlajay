@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We cannot do everything at once, but we can do something at once.</p>
+> <p>A man sees in the world what he carries in his heart.</p>
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Goethe</p>
 
 Check back at the top of the hour for a new quote!
 

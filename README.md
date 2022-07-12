@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Arrogance and rudeness are training wheels on the bicycle of life for weak people who cannot keep their balance without them.</p>
+> <p>Let yourself be silently drawn by the stronger pull of what you really love.</p>
 >
-> <p>- Laura Teresa Marquez</p>
+> <p>- Rumi</p>
 
 Check back at the top of the hour for a new quote!
 

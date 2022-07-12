@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To accomplish great things, we must dream as well as act.</p>
+> <p>A wise man will make more opportunities than he finds.</p>
 >
-> <p>- Anatole France</p>
+> <p>- Francis Bacon</p>
 
 Check back at the top of the hour for a new quote!
 

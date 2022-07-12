@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Giving up doesn't always mean you are weak. Sometimes it means that you are strong enough to let go.</p>
+> <p>The most complicated achievements of thought are possible without the assistance of consciousness.</p>
 >
-> <p>- null</p>
+> <p>- Sigmund Freud</p>
 
 Check back at the top of the hour for a new quote!
 

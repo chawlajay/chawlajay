@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It can't be spring if your heart is filled with past failures.</p>
+> <p>Money was never a big motivation for me, except as a way to keep score. The real excitement is playing the game.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Donald Trump</p>
 
 Check back at the top of the hour for a new quote!
 

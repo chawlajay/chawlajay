@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The most complicated achievements of thought are possible without the assistance of consciousness.</p>
+> <p>It can't be spring if your heart is filled with past failures.</p>
 >
-> <p>- Sigmund Freud</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

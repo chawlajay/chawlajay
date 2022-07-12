@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Never bend your head. Always hold it high. Look the world right in the eye.</p>
+> <p>Arrogance and rudeness are training wheels on the bicycle of life for weak people who cannot keep their balance without them.</p>
 >
-> <p>- Helen Keller</p>
+> <p>- Laura Teresa Marquez</p>
 
 Check back at the top of the hour for a new quote!
 

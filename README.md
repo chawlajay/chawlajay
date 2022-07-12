@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Let yourself be silently drawn by the stronger pull of what you really love.</p>
+> <p>To accomplish great things, we must dream as well as act.</p>
 >
-> <p>- Rumi</p>
+> <p>- Anatole France</p>
 
 Check back at the top of the hour for a new quote!
 

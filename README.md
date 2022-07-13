@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Keep yourself to the sunshine and you cannot see the shadow.</p>
+> <p>It is not only for what we do that we are held responsible, but also for what we do not do.</p>
 >
-> <p>- Helen Keller</p>
+> <p>- Moliere</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is not only for what we do that we are held responsible, but also for what we do not do.</p>
+> <p>Do, or do not. There is no try.</p>
 >
-> <p>- Moliere</p>
+> <p>- Yoda</p>
 
 Check back at the top of the hour for a new quote!
 

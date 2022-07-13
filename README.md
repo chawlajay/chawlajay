@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Do, or do not. There is no try.</p>
+> <p>Nothing will work unless you do.</p>
 >
-> <p>- Yoda</p>
+> <p>- Maya Angelou</p>
 
 Check back at the top of the hour for a new quote!
 

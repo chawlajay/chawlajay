@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If the stars should appear but one night every thousand years how man would marvel and adore.</p>
+> <p>Time is not a measure the length of a day or month or year but more a measure of what you have accomplished.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

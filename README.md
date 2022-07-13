@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>He who wishes to secure the good of others, has already secured his own.</p>
+> <p>Work for something because it is good, not just because it stands a chance to succeed.</p>
 >
-> <p>- Confucius</p>
+> <p>- Vaclav Havel</p>
 
 Check back at the top of the hour for a new quote!
 

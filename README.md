@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement.</p>
+> <p>Men are disturbed not by things, but by the view which they take of them.</p>
 >
-> <p>- Ralph Marston</p>
+> <p>- Epictetus</p>
 
 Check back at the top of the hour for a new quote!
 

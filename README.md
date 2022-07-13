@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.</p>
+> <p>Know, first, who you are, and then adorn yourself accordingly.</p>
 >
 > <p>- Epictetus</p>
 

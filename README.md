@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Time is not a measure the length of a day or month or year but more a measure of what you have accomplished.</p>
+> <p>There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Epictetus</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Nothing will work unless you do.</p>
+> <p>If you correct your mind, the rest of your life will fall into place.</p>
 >
-> <p>- Maya Angelou</p>
+> <p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

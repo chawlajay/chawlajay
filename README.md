@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.</p>
+> <p>If you surrender to the wind, you can ride it.</p>
 >
-> <p>- Thich Nhat Hanh</p>
+> <p>- Toni Morrison</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Men are disturbed not by things, but by the view which they take of them.</p>
+> <p>The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.</p>
 >
-> <p>- Epictetus</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

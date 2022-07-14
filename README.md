@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is with words as with sunbeams. The more they are condensed, the deeper they burn.</p>
+> <p>The reason most goals are not achieved is that we spend our time doing second things first.</p>
 >
-> <p>- Robert Southey</p>
+> <p>- Robert McKain</p>
 
 Check back at the top of the hour for a new quote!
 

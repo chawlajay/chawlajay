@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.</p>
+> <p>Why worry about things you cannot control when you can keep yourself busy controlling the things that depend on you?</p>
 >
-> <p>- Nikola Tesla</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

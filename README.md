@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Happiness is not something ready made. It comes from your own actions.</p>
+> <p>Imagination will often carry us to worlds that never were. But without it we go nowhere.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Carl Sagan</p>
 
 Check back at the top of the hour for a new quote!
 

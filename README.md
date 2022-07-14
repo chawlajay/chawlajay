@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You can't stop the waves, but you can learn to surf.</p>
+> <p>One of the advantages of being disorderly is that one is constantly making exciting discoveries.</p>
 >
-> <p>- Jon Kabat-Zinn</p>
+> <p>- A. A. Milne</p>
 
 Check back at the top of the hour for a new quote!
 

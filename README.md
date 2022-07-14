@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Action is the foundational key to all success.</p>
+> <p>Men of perverse opinion do not know the excellence of what is in their hands, till some one dash it from them.</p>
 >
-> <p>- Pablo Picasso</p>
+> <p>- Sophocles</p>
 
 Check back at the top of the hour for a new quote!
 

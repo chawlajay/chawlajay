@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You may only be someone in the world, but to someone else, you may be the world.</p>
+> <p>It is with words as with sunbeams. The more they are condensed, the deeper they burn.</p>
 >
-> <p>- null</p>
+> <p>- Robert Southey</p>
 
 Check back at the top of the hour for a new quote!
 

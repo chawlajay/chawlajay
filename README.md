@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Be your own hero, it's cheaper than a movie ticket.</p>
+> <p>Happiness is not something ready made. It comes from your own actions.</p>
 >
-> <p>- Doug Horton</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

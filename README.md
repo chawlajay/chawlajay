@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The way is not in the sky. The way is in the heart.</p>
+> <p>A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.</p>
 >
-> <p>- Buddha</p>
+> <p>- Jawaharlal Nehru</p>
 
 Check back at the top of the hour for a new quote!
 

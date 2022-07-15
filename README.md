@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.</p>
+> <p>What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.</p>
 >
-> <p>- Pema Chodron</p>
+> <p>- Daisaku Ikeda</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I walk slowly, but I never walk backward.</p>
+> <p>Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.</p>
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

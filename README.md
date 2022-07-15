@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.</p>
+> <p>Don't be afraid to go out on a limb. That's where the fruit is.</p>
 >
-> <p>- Amiel</p>
+> <p>- H. Jackson Browne</p>
 
 Check back at the top of the hour for a new quote!
 

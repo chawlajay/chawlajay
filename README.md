@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Don't be afraid to go out on a limb. That's where the fruit is.</p>
+> <p>Spring is a time for rebirth and the fulfilment of new life.</p>
 >
-> <p>- H. Jackson Browne</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

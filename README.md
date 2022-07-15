@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.</p>
+> <p>Your vision will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.</p>
 >
-> <p>- Albert Einstein</p>
+> <p>- Carl Jung</p>
 
 Check back at the top of the hour for a new quote!
 

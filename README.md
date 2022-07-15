@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To want to be what one can be is purpose in life.</p>
+> <p>Love is the only force capable of transforming an enemy into friend.</p>
 >
-> <p>- Cynthia Ozick</p>
+> <p>- Martin Luther King, Jr.</p>
 
 Check back at the top of the hour for a new quote!
 

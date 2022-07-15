@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Ideals are an imaginative understanding of that which is desirable in that which is possible.</p>
+> <p>Everything that irritates us about others can lead us to an understanding about ourselves.</p>
 >
-> <p>- Walter Lippmann</p>
+> <p>- Carl Jung</p>
 
 Check back at the top of the hour for a new quote!
 

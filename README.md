@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Everything that irritates us about others can lead us to an understanding about ourselves.</p>
+> <p>The way is not in the sky. The way is in the heart.</p>
 >
-> <p>- Carl Jung</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.</p>
+> <p>If you want to study yourself look into the hearts of other people. If you want to study other people look into your own heart.</p>
 >
-> <p>- Barbara De Angelis</p>
+> <p>- Friedrich von Schiller</p>
 
 Check back at the top of the hour for a new quote!
 

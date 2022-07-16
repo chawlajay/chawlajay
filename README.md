@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To get the full value of joy you must have someone to divide it with.</p>
+> <p>We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.</p>
 >
-> <p>- Mark Twain</p>
+> <p>- Barbara De Angelis</p>
 
 Check back at the top of the hour for a new quote!
 

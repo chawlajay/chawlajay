@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Though no one can go back and make a brand new start, anyone can start from not and make a brand new ending.</p>
+> <p>From wonder into wonder existence opens.</p>
 >
-> <p>- Carl Bard</p>
+> <p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

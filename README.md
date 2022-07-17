@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Beauty is not in the face; beauty is a light in the heart.</p>
+> <p>Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.</p>
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Bernice Reagon</p>
 
 Check back at the top of the hour for a new quote!
 

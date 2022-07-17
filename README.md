@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you aren't going all the way, why go at all?</p>
+> <p>Life is a learning experience, only if you learn.</p>
 >
-> <p>- Joe Namath</p>
+> <p>- Yogi Berra</p>
 
 Check back at the top of the hour for a new quote!
 

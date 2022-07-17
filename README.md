@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Science is organized knowledge. Wisdom is organized life.</p>
+> <p>Everything that irritates us about others can lead us to a better understanding of ourselves.</p>
 >
-> <p>- Immanuel Kant</p>
+> <p>- Carl Jung</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Most folks are about as happy as they make up their minds to be.</p>
+> <p>Science is organized knowledge. Wisdom is organized life.</p>
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Immanuel Kant</p>
 
 Check back at the top of the hour for a new quote!
 

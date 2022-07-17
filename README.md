@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.</p>
+> <p>You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.</p>
 >
-> <p>- Mother Teresa</p>
+> <p>- Caroline Myss</p>
 
 Check back at the top of the hour for a new quote!
 

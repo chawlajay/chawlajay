@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Very little is needed to make a happy life; it is all within yourself, in your way of thinking.</p>
+> <p>Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.</p>
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Mother Teresa</p>
 
 Check back at the top of the hour for a new quote!
 

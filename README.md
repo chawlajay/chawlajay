@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you kick a stone in anger, you'll hurt your own foot.</p>
+> <p>Don't judge each day by the harvest you reap but by the seeds you plant.</p>
 >
-> <p>- Korean proverb</p>
+> <p>- Robert Stevenson</p>
 
 Check back at the top of the hour for a new quote!
 

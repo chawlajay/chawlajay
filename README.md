@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>People who say it cannot be done should not interrupt those who are doing it.</p>
+> <p>Beauty is not in the face; beauty is a light in the heart.</p>
 >
-> <p>- Chinese proverb</p>
+> <p>- Kahlil Gibran</p>
 
 Check back at the top of the hour for a new quote!
 

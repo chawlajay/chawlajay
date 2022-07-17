@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>More often than not, anger is actually an indication of weakness rather than of strength.</p>
+> <p>Most folks are about as happy as they make up their minds to be.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Abraham Lincoln</p>
 
 Check back at the top of the hour for a new quote!
 

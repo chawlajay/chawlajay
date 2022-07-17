@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You don't drown by falling in water. You drown by staying there.</p>
+> <p>Argue for your limitations, and sure enough they're yours.</p>
 >
-> <p>- null</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

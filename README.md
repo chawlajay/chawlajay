@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.</p>
+> <p>He who wishes to secure the good of others, has already secured his own.</p>
 >
-> <p>- Bernice Reagon</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

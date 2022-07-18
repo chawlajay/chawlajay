@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The beginning is always today.</p>
+> <p>Reason and free inquiry are the only effectual agents against error.</p>
 >
-> <p>- Mary Wollstonecraft</p>
+> <p>- Thomas Jefferson</p>
 
 Check back at the top of the hour for a new quote!
 

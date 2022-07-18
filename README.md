@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture.</p>
+> <p>The most formidable weapon against errors of every kind is reason.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Thomas Paine</p>
 
 Check back at the top of the hour for a new quote!
 

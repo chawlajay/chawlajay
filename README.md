@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I think somehow we learn who we really are and then live with that decision.</p>
+> <p>Yeah we all shine on, like the moon, and the stars, and the sun.</p>
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- John Lennon</p>
 
 Check back at the top of the hour for a new quote!
 

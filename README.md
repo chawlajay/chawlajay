@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The fox has many tricks. The hedgehog has but one. But that is the best of all.</p>
+> <p>Kindness is the golden chain by which society is bound together.</p>
 >
-> <p>- Desiderius Erasmus</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Check back at the top of the hour for a new quote!
 

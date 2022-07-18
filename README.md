@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Liberty, taking the word in its concrete sense, consists in the ability to choose.</p>
+> <p>Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.</p>
 >
-> <p>- Simone Weil</p>
+> <p>- Winston Churchill</p>
 
 Check back at the top of the hour for a new quote!
 

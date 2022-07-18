@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.</p>
+> <p>I think somehow we learn who we really are and then live with that decision.</p>
 >
-> <p>- Thich Nhat Hanh</p>
+> <p>- Eleanor Roosevelt</p>
 
 Check back at the top of the hour for a new quote!
 

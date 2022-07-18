@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.</p>
+> <p>To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform.</p>
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Theodore H. White</p>
 
 Check back at the top of the hour for a new quote!
 

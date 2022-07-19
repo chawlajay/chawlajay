@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow.</p>
+> <p>The thing always happens that you really believe in; and the belief in a thing makes it happen.</p>
 >
-> <p>- Rachel Carson</p>
+> <p>- Frank Wright</p>
 
 Check back at the top of the hour for a new quote!
 

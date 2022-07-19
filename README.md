@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The thing always happens that you really believe in; and the belief in a thing makes it happen.</p>
+> <p>All children are artists. The problem is how to remain an artist once he grows up.</p>
 >
-> <p>- Frank Wright</p>
+> <p>- Pablo Picasso</p>
 
 Check back at the top of the hour for a new quote!
 

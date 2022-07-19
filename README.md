@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Without courage, wisdom bears no fruit.</p>
+> <p>Don't settle for a relationship that won't let you be yourself.</p>
 >
-> <p>- Baltasar Gracian</p>
+> <p>- Oprah Winfrey</p>
 
 Check back at the top of the hour for a new quote!
 

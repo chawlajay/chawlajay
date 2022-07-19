@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.</p>
+> <p>Take things as they are. Punch when you have to punch. Kick when you have to kick.</p>
 >
-> <p>- Wolfgang Amadeus Mozart</p>
+> <p>- Bruce Lee</p>
 
 Check back at the top of the hour for a new quote!
 

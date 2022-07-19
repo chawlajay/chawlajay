@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Consider how hard it is to change yourself and you'll understand what little chance you have in trying to change others.</p>
+> <p>Reality is merely an illusion, albeit a very persistent one.</p>
 >
-> <p>- Jacob Braude</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

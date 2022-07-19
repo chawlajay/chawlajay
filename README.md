@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Learn to listen. Opportunity could be knocking at your door very softly.</p>
+> <p>Fear is a darkroom where negatives develop.</p>
 >
-> <p>- Frank Tyger</p>
+> <p>- Usman Asif</p>
 
 Check back at the top of the hour for a new quote!
 

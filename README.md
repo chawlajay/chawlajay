@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Efficiency is doing things right; effectiveness is doing the right things.</p>
+> <p>If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow.</p>
 >
-> <p>- Peter Drucker</p>
+> <p>- Rachel Carson</p>
 
 Check back at the top of the hour for a new quote!
 

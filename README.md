@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Learn all you can from the mistakes of others. You won't have time to make them all yourself.</p>
+> <p>We must embrace pain and burn it as fuel for our journey.</p>
 >
-> <p>- Alfred Sheinwold</p>
+> <p>- Kenji Miyazawa</p>
 
 Check back at the top of the hour for a new quote!
 

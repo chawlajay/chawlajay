@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We must embrace pain and burn it as fuel for our journey.</p>
+> <p>Most powerful is he who has himself in his own power.</p>
 >
-> <p>- Kenji Miyazawa</p>
+> <p>- Seneca</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.</p>
+> <p>Argue for your limitations, and sure enough theyre yours.</p>
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Great is the art of beginning, but greater is the art of ending.</p>
+> <p>Success is getting what you want. Happiness is wanting what you get.</p>
 >
-> <p>- Lazurus Long</p>
+> <p>- Dale Carnegie</p>
 
 Check back at the top of the hour for a new quote!
 

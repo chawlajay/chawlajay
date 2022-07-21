@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Your destiny isn't just fate; it is how you use your own developed abilities to get what you want.</p>
+> <p>Our kindness may be the most persuasive argument for that which we believe.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Gordon Hinckley</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I think and that is all that I am.</p>
+> <p>Slow down and everything you are chasing will come around and catch you.</p>
 >
-> <p>- Wayne Dyer</p>
+> <p>- John De Paola</p>
 
 Check back at the top of the hour for a new quote!
 

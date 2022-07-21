@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Your attitude, not your aptitude, will determine your altitude.</p>
+> <p>All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.</p>
 >
-> <p>- Zig Ziglar</p>
+> <p>- Immanuel Kant</p>
 
 Check back at the top of the hour for a new quote!
 

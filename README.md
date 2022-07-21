@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Life is like a sewer. What you get out of it depends on what you put into it.</p>
+> <p>No man was ever wise by chance.</p>
 >
-> <p>- Tom Lehrer</p>
+> <p>- Seneca</p>
 
 Check back at the top of the hour for a new quote!
 

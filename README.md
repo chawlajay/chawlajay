@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.</p>
+> <p>Just as much as we see in others we have in ourselves.</p>
 >
-> <p>- Booker Washington</p>
+> <p>- William Hazlitt</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We can change our lives. We can do, have, and be exactly what we wish.</p>
+> <p>Your attitude, not your aptitude, will determine your altitude.</p>
 >
-> <p>- Tony Robbins</p>
+> <p>- Zig Ziglar</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>An idea that is developed and put into action is more important than an idea that exists only as an idea.</p>
+> <p>There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.</p>
 >
-> <p>- Buddha</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

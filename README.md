@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You have to think anyway, so why not think big?</p>
+> <p>I think and that is all that I am.</p>
 >
-> <p>- Donald Trump</p>
+> <p>- Wayne Dyer</p>
 
 Check back at the top of the hour for a new quote!
 

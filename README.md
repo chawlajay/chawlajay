@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Slow down and everything you are chasing will come around and catch you.</p>
+> <p>You can do it if you believe you can!</p>
 >
-> <p>- John De Paola</p>
+> <p>- Napoleon Hill</p>
 
 Check back at the top of the hour for a new quote!
 

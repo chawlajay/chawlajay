@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>What you give is what you get.</p>
+> <p>You have to think anyway, so why not think big?</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Donald Trump</p>
 
 Check back at the top of the hour for a new quote!
 

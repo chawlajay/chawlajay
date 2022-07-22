@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You can do it if you believe you can!</p>
+> <p>Fears are nothing more than a state of mind.</p>
 >
 > <p>- Napoleon Hill</p>
 

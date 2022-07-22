@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Nobody will believe in you unless you believe in yourself.</p>
+> <p>To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.</p>
 >
-> <p>- Liberace</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

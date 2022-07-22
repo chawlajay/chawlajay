@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.</p>
+> <p>Forgiveness is choosing to love. It is the first skill of self-giving love.</p>
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Mohandas Gandhi</p>
 
 Check back at the top of the hour for a new quote!
 

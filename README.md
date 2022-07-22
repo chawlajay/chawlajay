@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Forgiveness is choosing to love. It is the first skill of self-giving love.</p>
+> <p>The best way to pay for a lovely moment is to enjoy it.</p>
 >
-> <p>- Mohandas Gandhi</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.</p>
+> <p>Truth isn't all about what actually happens but more about how what has happened is interpreted.</p>
 >
-> <p>- Buddha</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

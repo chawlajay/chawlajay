@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There are people who have money and people who are rich.</p>
+> <p>Excellence is to do a common thing in an uncommon way.</p>
 >
-> <p>- Coco Chanel</p>
+> <p>- Booker Washington</p>
 
 Check back at the top of the hour for a new quote!
 

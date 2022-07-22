@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Fears are nothing more than a state of mind.</p>
+> <p>Nobody will believe in you unless you believe in yourself.</p>
 >
-> <p>- Napoleon Hill</p>
+> <p>- Liberace</p>
 
 Check back at the top of the hour for a new quote!
 

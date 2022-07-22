@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Don't turn away from possible futures before you're certain you don't have anything to learn from them.</p>
+> <p>Difficulties are things that show a person what they are.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Epictetus</p>
 
 Check back at the top of the hour for a new quote!
 

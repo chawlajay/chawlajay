@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I have never been hurt by anything I didn't say.</p>
+> <p>You can be what you want to be. You have the power within and we will help you always.</p>
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

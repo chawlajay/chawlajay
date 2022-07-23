@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The superior man is modest in his speech, but exceeds in his actions.</p>
+> <p>The superior man acts before he speaks, and afterwards speaks according to his action.</p>
 >
 > <p>- Confucius</p>
 

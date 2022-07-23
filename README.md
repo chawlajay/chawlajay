@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Make the most of yourself, for that is all there is of you.</p>
+> <p>Don't talk about what you have done or what you are going to do.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Thomas Jefferson</p>
 
 Check back at the top of the hour for a new quote!
 

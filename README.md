@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You can be what you want to be. You have the power within and we will help you always.</p>
+> <p>The steeper the mountain the harder the climb the better the view from the finishing line</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

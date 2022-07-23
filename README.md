@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Peace comes from within. Do not seek it without.</p>
+> <p>Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience.</p>
 >
-> <p>- Buddha</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We should all be thankful for those people who rekindle the inner spirit.</p>
+> <p>I have never been hurt by anything I didn't say.</p>
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Calvin Coolidge</p>
 
 Check back at the top of the hour for a new quote!
 

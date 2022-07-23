@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>In order to win, you must expect to win.</p>
+> <p>Make the most of yourself, for that is all there is of you.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

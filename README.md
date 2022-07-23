@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience.</p>
+> <p>It is impossible to feel grateful and depressed in the same moment.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Naomi Williams</p>
 
 Check back at the top of the hour for a new quote!
 

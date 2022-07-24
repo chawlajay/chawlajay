@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We must learn our limits. We are all something, but none of us are everything.</p>
+> <p>If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.</p>
 >
-> <p>- Blaise Pascal</p>
+> <p>- Daisaku Ikeda</p>
 
 Check back at the top of the hour for a new quote!
 

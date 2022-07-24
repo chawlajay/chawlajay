@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own.</p>
+> <p>Nature gave us one tongue and two ears so we could hear twice as much as we speak.</p>
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Epictetus</p>
 
 Check back at the top of the hour for a new quote!
 

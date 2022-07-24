@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To climb steep hills requires a slow pace at first.</p>
+> <p>Accept challenges, so that you may feel the exhilaration of victory.</p>
 >
-> <p>- William Shakespeare</p>
+> <p>- George Patton</p>
 
 Check back at the top of the hour for a new quote!
 

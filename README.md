@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Wit lies in recognizing the resemblance among things which differ and the difference between things which are alike.</p>
+> <p>See the positive side, the potential, and make an effort.</p>
 >
-> <p>- Madame de Stael</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>All things change; nothing perishes.</p>
+> <p>Short words are best and the old words when short are best of all.</p>
 >
-> <p>- Ovid</p>
+> <p>- Winston Churchill</p>
 
 Check back at the top of the hour for a new quote!
 

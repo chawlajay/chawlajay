@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The greatest minds are capable of the greatest vices as well as of the greatest virtues.</p>
+> <p>Keep silence for the most part, and speak only when you must, and then briefly.</p>
 >
-> <p>- Rene Descartes</p>
+> <p>- Epictetus</p>
 
 Check back at the top of the hour for a new quote!
 

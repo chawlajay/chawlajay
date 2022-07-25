@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The world is a book, and those who do not travel read only a page.</p>
+> <p>We never understand how little we need in this world until we know the loss of it.</p>
 >
-> <p>- Augustinus Sanctus</p>
+> <p>- James Barrie</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Keep silence for the most part, and speak only when you must, and then briefly.</p>
+> <p>Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were.</p>
 >
-> <p>- Epictetus</p>
+> <p>- David Rockefeller</p>
 
 Check back at the top of the hour for a new quote!
 

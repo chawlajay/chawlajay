@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>People grow through experience if they meet life honestly and courageously. This is how character is built.</p>
+> <p>Wherever a man turns he can find someone who needs him.</p>
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Albert Schweitzer</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>All seasons are beautiful for the person who carries happiness within.</p>
+> <p>Maxim for life: You get treated in life the way you teach people to treat you.</p>
 >
-> <p>- Horace Friess</p>
+> <p>- Wayne Dyer</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.</p>
+> <p>Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that's why they call it the present.</p>
 >
-> <p>- Charles A. Lindbergh</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

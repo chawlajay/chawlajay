@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Sometimes the biggest act of courage is a small one.</p>
+> <p>The future is an opaque mirror. Anyone who tries to look into it sees nothing but the dim outlines of an old and worried face.</p>
 >
-> <p>- Lauren Raffo</p>
+> <p>- Jim Bishop</p>
 
 Check back at the top of the hour for a new quote!
 

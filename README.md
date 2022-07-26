@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work. When you spend time having fun, you know you're being self-indulgent.</p>
+> <p>The day always looks brighter from behind a smile.</p>
 >
-> <p>- Paul Graham</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

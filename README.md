@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Kind words can be short and easy to speak but their echoes are truly endless.</p>
+> <p>He who deliberates fully before taking a step will spend his entire life on one leg.</p>
 >
-> <p>- Mother Teresa</p>
+> <p>- Chinese proverb</p>
 
 Check back at the top of the hour for a new quote!
 

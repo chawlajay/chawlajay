@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The Superior Man is aware of Righteousness, the inferior man is aware of advantage.</p>
+> <p>For everything that lives is holy, life delights in life.</p>
 >
-> <p>- Confucius</p>
+> <p>- William Blake</p>
 
 Check back at the top of the hour for a new quote!
 

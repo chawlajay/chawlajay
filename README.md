@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Ideals are an imaginative understanding of that which is desirable in that which is possible.</p>
+> <p>Consider that not only do negative thoughts and emotions destroy our experience of peace, they also undermine our health.</p>
 >
-> <p>- Walter Lippmann</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

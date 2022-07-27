@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Problems are only opportunities with thorns on them.</p>
+> <p>Ask yourself the secret of your success. Listen to your answer, and practice it.</p>
 >
-> <p>- Hugh Miller</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>He who knows that enough is enough will always have enough.</p>
+> <p>Be the change that you want to see in the world.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Mohandas Gandhi</p>
 
 Check back at the top of the hour for a new quote!
 

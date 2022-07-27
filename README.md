@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There is never enough time to do everything, but there is always enough time to do the most important thing.</p>
+> <p>Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, Something is out of tune.</p>
 >
-> <p>- Brian Tracy</p>
+> <p>- Carl Jung</p>
 
 Check back at the top of the hour for a new quote!
 

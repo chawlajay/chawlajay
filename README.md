@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If I know what love is, it is because of you.</p>
+> <p>There is never enough time to do everything, but there is always enough time to do the most important thing.</p>
 >
-> <p>- Hermann Hesse</p>
+> <p>- Brian Tracy</p>
 
 Check back at the top of the hour for a new quote!
 

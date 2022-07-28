@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you have knowledge, let others light their candles in it.</p>
+> <p>The best way out is always through.</p>
 >
-> <p>- Margaret Fuller</p>
+> <p>- Robert Frost</p>
 
 Check back at the top of the hour for a new quote!
 

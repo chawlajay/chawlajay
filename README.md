@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.</p>
+> <p>The superior man acts before he speaks, and afterwards speaks according to his action.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

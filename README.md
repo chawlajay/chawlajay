@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The best way out is always through.</p>
+> <p>It's not what happens to you, but how you react to it that matters.</p>
 >
-> <p>- Robert Frost</p>
+> <p>- Epictetus</p>
 
 Check back at the top of the hour for a new quote!
 

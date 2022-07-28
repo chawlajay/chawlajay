@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Everyone can taste success when the going is easy, but few know how to taste victory when times get tough.</p>
+> <p>The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Vincent Lombardi</p>
 
 Check back at the top of the hour for a new quote!
 

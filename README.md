@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Your mind will answer most questions if you learn to relax and wait for the answer.</p>
+> <p>I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.</p>
 >
-> <p>- William Burroughs</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

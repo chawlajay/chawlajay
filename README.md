@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Decision is a risk rooted in the courage of being free.</p>
+> <p>Don't let today's disappointments cast a shadow on tomorrow's dreams.</p>
 >
-> <p>- Paul Tillich</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Think how hard physics would be if particles could think.</p>
+> <p>When you doubt your power, you give power to your doubt.</p>
 >
-> <p>- Murray Gell-Mann</p>
+> <p>- Honore de Balzac</p>
 
 Check back at the top of the hour for a new quote!
 

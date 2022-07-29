@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The best cure for the body is a quiet mind.</p>
+> <p>I cannot say whether things will get better if we change; what I can say is they must change if they are to get better.</p>
 >
-> <p>- Napoleon Bonaparte</p>
+> <p>- Georg Lichtenberg</p>
 
 Check back at the top of the hour for a new quote!
 

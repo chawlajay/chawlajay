@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When one tugs at a single thing in nature, he finds it attached to the rest of the world.</p>
+> <p>Translation is the paradigm, the exemplar of all writing. It is translation that demonstrates most vividly the yearning for transformation that underlies every act involving speech, that supremely human gift.</p>
 >
-> <p>- John Muir</p>
+> <p>- Harry Burchell Mathews</p>
 
 Check back at the top of the hour for a new quote!
 

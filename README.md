@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Everything you are against weakens you. Everything you are for empowers you.</p>
+> <p>Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.</p>
 >
-> <p>- Wayne Dyer</p>
+> <p>- Albert Schweitzer</p>
 
 Check back at the top of the hour for a new quote!
 

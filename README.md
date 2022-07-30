@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Either I will find a way, or I will make one.</p>
+> <p>Giving up doesn't always mean you are weak; sometimes it means that you are strong enough to let go.</p>
 >
-> <p>- Philip Sidney</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

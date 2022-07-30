@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Wit lies in recognizing the resemblance among things which differ and the difference between things which are alike.</p>
+> <p>To lead people walk behind them.</p>
 >
-> <p>- Madame de Stael</p>
+> <p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

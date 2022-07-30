@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We must not allow ourselves to become like the system we oppose.</p>
+> <p>To dare is to lose ones footing momentarily. To not dare is to lose oneself.</p>
 >
-> <p>- Bishop Desmond Tutu</p>
+> <p>- Soren Kierkegaard</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Do not expect the world to look bright, if you habitually wear gray-brown glasses.</p>
+> <p>Friends are those rare people who ask how we are and then wait to hear the answer.</p>
 >
-> <p>- Tomas Eliot</p>
+> <p>- Ed Cunningham</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You can't create in a vacuum. Life gives you the material and dreams can propel new beginnings.</p>
+> <p>Change will not come if we wait for some other person or some other time. We are the ones weve been waiting for. We are the change that we seek.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Barack Obama</p>
 
 Check back at the top of the hour for a new quote!
 

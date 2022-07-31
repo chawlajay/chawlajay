@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Most of our obstacles would melt away if, instead of cowering before them, we should make up our minds to walk boldly through them.</p>
+> <p>Forget about all the reasons why something may not work. You only need to find one good reason why it will.</p>
 >
-> <p>- Orison Marden</p>
+> <p>- Robert Anthony</p>
 
 Check back at the top of the hour for a new quote!
 

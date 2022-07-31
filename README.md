@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.</p>
+> <p>Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.</p>
 >
-> <p>- Wayne Dyer</p>
+> <p>- Harriet Tubman</p>
 
 Check back at the top of the hour for a new quote!
 

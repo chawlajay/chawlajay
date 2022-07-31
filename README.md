@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Kindness is the language which the deaf can hear and the blind can see.</p>
+> <p>Most of our obstacles would melt away if, instead of cowering before them, we should make up our minds to walk boldly through them.</p>
 >
-> <p>- Mark Twain</p>
+> <p>- Orison Marden</p>
 
 Check back at the top of the hour for a new quote!
 

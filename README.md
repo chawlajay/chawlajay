@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Time is the most valuable thing a man can spend.</p>
+> <p>There is no great genius without some touch of madness.</p>
 >
-> <p>- Theophrastus</p>
+> <p>- Seneca</p>
 
 Check back at the top of the hour for a new quote!
 

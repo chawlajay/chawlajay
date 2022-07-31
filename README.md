@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There is no great genius without some touch of madness.</p>
+> <p>The greatest antidote to insecurity and the sense of fear is compassion it brings one back to the basis of one's inner strength</p>
 >
-> <p>- Seneca</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

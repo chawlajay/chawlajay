@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The Superior Man is aware of Righteousness, the inferior man is aware of advantage.</p>
+> <p>The path to success is to take massive, determined action.</p>
 >
-> <p>- Confucius</p>
+> <p>- Anthony Robbins</p>
 
 Check back at the top of the hour for a new quote!
 

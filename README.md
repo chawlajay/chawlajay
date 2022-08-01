@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The journey of a thousand miles begins with one step.</p>
+> <p>There is no retirement for an artist, it's your way of living so there is no end to it.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Henry Moore</p>
 
 Check back at the top of the hour for a new quote!
 

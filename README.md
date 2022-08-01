@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Our greatest glory is not in never failing but rising everytime we fall.</p>
+> <p>Strong beliefs win strong men, and then make them stronger.</p>
 >
-> <p>- null</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

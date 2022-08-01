@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There is no retirement for an artist, it's your way of living so there is no end to it.</p>
+> <p>Our greatest glory is not in never failing but rising everytime we fall.</p>
 >
-> <p>- Henry Moore</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

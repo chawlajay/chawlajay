@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.</p>
+> <p>Our ability to achieve happiness and success depends on the strength of our wings.</p>
 >
-> <p>- Margaret Cousins</p>
+> <p>- Catherine Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Everyone has been made for some particular work, and the desire for that work has been put in every heart.</p>
+> <p>We make our own fortunes and we call them fate.</p>
 >
-> <p>- Rumi</p>
+> <p>- Benjamin Disraeli</p>
 
 Check back at the top of the hour for a new quote!
 

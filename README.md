@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There are no failures. Just experiences and your reactions to them.</p>
+> <p>Our lives are a sum total of the choices we have made.</p>
 >
-> <p>- Tom Krause</p>
+> <p>- Wayne Dyer</p>
 
 Check back at the top of the hour for a new quote!
 

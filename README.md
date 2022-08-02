@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>All the flowers of all the tomorrows are in the seeds of today.</p>
+> <p>The worst bankrupt in the world is the person who has lost his enthusiasm.</p>
 >
-> <p>- null</p>
+> <p>- H. W. Arnold</p>
 
 Check back at the top of the hour for a new quote!
 

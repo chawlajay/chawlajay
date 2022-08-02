@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>All truths are easy to understand once they are discovered; the point is to discover them.</p>
+> <p>An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.</p>
 >
-> <p>- Galileo Galilei</p>
+> <p>- Thomas Fuller</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.</p>
+> <p>Invent your world. Surround yourself with people, color, sounds, and work that nourish you.</p>
 >
 > <p>- null</p>
 

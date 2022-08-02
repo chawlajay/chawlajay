@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.</p>
+> <p>Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.</p>
 >
-> <p>- Thomas Fuller</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

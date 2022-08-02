@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>On every thorn, delightful wisdom grows, In every rill a sweet instruction flows.</p>
+> <p>A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.</p>
 >
-> <p>- Edward Young</p>
+> <p>- Lao Tzu</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?</p>
+> <p>By believing passionately in something that does not yet exist, we create it.</p>
 >
-> <p>- Buddha</p>
+> <p>- Nikos Kazantzakis</p>
 
 Check back at the top of the hour for a new quote!
 

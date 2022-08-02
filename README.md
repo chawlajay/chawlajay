@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You're never a loser until you quit trying.</p>
+> <p>Whoso loves, believes the impossible.</p>
 >
-> <p>- Mike Ditka</p>
+> <p>- Elizabeth Browning</p>
 
 Check back at the top of the hour for a new quote!
 

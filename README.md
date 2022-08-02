@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>By believing passionately in something that does not yet exist, we create it.</p>
+> <p>Numberless are the worlds wonders, but none more wonderful than man.</p>
 >
-> <p>- Nikos Kazantzakis</p>
+> <p>- Sophocles</p>
 
 Check back at the top of the hour for a new quote!
 

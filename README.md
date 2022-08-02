@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Prosperity depends more on wanting what you have than having what you want.</p>
+> <p>All truths are easy to understand once they are discovered; the point is to discover them.</p>
 >
-> <p>- Geoffrey F. Abert</p>
+> <p>- Galileo Galilei</p>
 
 Check back at the top of the hour for a new quote!
 

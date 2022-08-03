@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You will not be punished for your anger, you will be punished by your anger.</p>
+> <p>Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.</p>
 >
-> <p>- Buddha</p>
+> <p>- Blaise Pascal</p>
 
 Check back at the top of the hour for a new quote!
 

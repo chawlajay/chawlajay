@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Lose an hour in the morning, and you will spend all day looking for it.</p>
+> <p>Nothing is so strong as gentleness. Nothing is so gentle as real strength.</p>
 >
-> <p>- Richard Whately</p>
+> <p>- Frances de Sales</p>
 
 Check back at the top of the hour for a new quote!
 

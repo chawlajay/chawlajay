@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>He who knows himself is enlightened.</p>
+> <p>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Aristotle</p>
 
 Check back at the top of the hour for a new quote!
 

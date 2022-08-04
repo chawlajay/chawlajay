@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Very little is needed to make a happy life; it is all within yourself, in your way of thinking.</p>
+> <p>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.</p>
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Wayne Dyer</p>
 
 Check back at the top of the hour for a new quote!
 

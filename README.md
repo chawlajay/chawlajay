@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Music in the soul can be heard by the universe.</p>
+> <p>Learn from yesterday, live for today, hope for tomorrow.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

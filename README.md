@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.</p>
+> <p>The weak can never forgive. Forgiveness is the attribute of the strong.</p>
 >
-> <p>- Melody Beattie</p>
+> <p>- Mohandas Gandhi</p>
 
 Check back at the top of the hour for a new quote!
 

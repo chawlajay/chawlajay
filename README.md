@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.</p>
+> <p>Numberless are the worlds wonders, but none more wonderful than man.</p>
 >
-> <p>- Wayne Dyer</p>
+> <p>- Sophocles</p>
 
 Check back at the top of the hour for a new quote!
 

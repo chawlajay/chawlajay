@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.</p>
+> <p>Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.</p>
 >
-> <p>- Thomas Fuller</p>
+> <p>- Melody Beattie</p>
 
 Check back at the top of the hour for a new quote!
 

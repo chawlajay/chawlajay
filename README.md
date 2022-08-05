@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The greatest way to live with honour in this world is to be what we pretend to be.</p>
+> <p>It is not so important to know everything as to appreciate what we learn.</p>
 >
-> <p>- Socrates</p>
+> <p>- Hannah More</p>
 
 Check back at the top of the hour for a new quote!
 

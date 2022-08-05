@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is not so important to know everything as to appreciate what we learn.</p>
+> <p>Winners have simply formed the habit of doing things losers don't like to do.</p>
 >
-> <p>- Hannah More</p>
+> <p>- Albert Gray</p>
 
 Check back at the top of the hour for a new quote!
 

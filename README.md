@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>He who obtains has little. He who scatters has much.</p>
+> <p>It is better to understand a little than to misunderstand a lot.</p>
 >
-> <p>- Richard Braunstein</p>
+> <p>- Anatole France</p>
 
 Check back at the top of the hour for a new quote!
 

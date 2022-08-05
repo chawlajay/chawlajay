@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Every great advance in science has issued from a new audacity of the imagination.</p>
+> <p>What is necessary to change a person is to change his awareness of himself.</p>
 >
-> <p>- John Dewey</p>
+> <p>- Abraham Maslow</p>
 
 Check back at the top of the hour for a new quote!
 

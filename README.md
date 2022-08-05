@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is the quality of our work which will please God, not the quantity.</p>
+> <p>If only wed stop trying to be happy wed have a pretty good time.</p>
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Edith Wharton</p>
 
 Check back at the top of the hour for a new quote!
 

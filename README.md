@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Only when we are no longer afraid do we begin to live.</p>
+> <p>If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.</p>
 >
-> <p>- Dorothy Thompson</p>
+> <p>- Daisaku Ikeda</p>
 
 Check back at the top of the hour for a new quote!
 

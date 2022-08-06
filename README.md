@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The best cure for the body is a quiet mind.</p>
+> <p>You are the only person on Earth who can use your ability.</p>
 >
-> <p>- Napoleon Bonaparte</p>
+> <p>- Zig Ziglar</p>
 
 Check back at the top of the hour for a new quote!
 

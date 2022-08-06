@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you find yourself in a hole, the first thing to do is stop digging.</p>
+> <p>Only when we are no longer afraid do we begin to live.</p>
 >
-> <p>- Will Rogers</p>
+> <p>- Dorothy Thompson</p>
 
 Check back at the top of the hour for a new quote!
 

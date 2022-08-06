@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you light a lamp for somebody, it will also brighten your path.</p>
+> <p>Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.</p>
 >
-> <p>- Buddha</p>
+> <p>- Bruce Lee</p>
 
 Check back at the top of the hour for a new quote!
 

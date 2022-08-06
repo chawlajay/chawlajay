@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Light tomorrow with today!</p>
+> <p>Don't talk about what you have done or what you are going to do.</p>
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Thomas Jefferson</p>
 
 Check back at the top of the hour for a new quote!
 

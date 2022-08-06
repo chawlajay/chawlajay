@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The exercise of an extraordinary gift is the supremest pleasure in life.</p>
+> <p>Don't let what you can't do stop you from doing what you can do.</p>
 >
-> <p>- Mark Twain</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

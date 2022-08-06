@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.</p>
+> <p>If you find yourself in a hole, the first thing to do is stop digging.</p>
 >
-> <p>- Bruce Lee</p>
+> <p>- Will Rogers</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>For everything that lives is holy, life delights in life.</p>
+> <p>Three things cannot be long hidden: the sun, the moon, and the truth.</p>
 >
-> <p>- William Blake</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

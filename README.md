@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.</p>
+> <p>You are never given a wish without also being given the power to make it come true. You may have to work for it, however.</p>
 >
-> <p>- Albert Camus</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

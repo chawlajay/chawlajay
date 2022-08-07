@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To see things in the seed, that is genius.</p>
+> <p>To give hope to someone occurs when you teach them how to use the tools to do it for themselves.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You are never given a wish without also being given the power to make it come true. You may have to work for it, however.</p>
+> <p>Beauty is not in the face; beauty is a light in the heart.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Kahlil Gibran</p>
 
 Check back at the top of the hour for a new quote!
 

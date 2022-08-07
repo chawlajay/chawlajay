@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When there is no enemy within, the enemies outside cannot hurt you.</p>
+> <p>Yeah we all shine on, like the moon, and the stars, and the sun.</p>
 >
-> <p>- African proverb</p>
+> <p>- John Lennon</p>
 
 Check back at the top of the hour for a new quote!
 

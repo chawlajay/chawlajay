@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Our ability to achieve happiness and success depends on the strength of our wings.</p>
+> <p>One who asks a question is a fool for five minutes; one who does not ask a question remains a fool forever.</p>
 >
-> <p>- Catherine Pulsifer</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

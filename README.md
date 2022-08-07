@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Take heed: you do not find what you do not seek.</p>
+> <p>Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.</p>
 >
-> <p>- English proverb</p>
+> <p>- Helen Keller</p>
 
 Check back at the top of the hour for a new quote!
 

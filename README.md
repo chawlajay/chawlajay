@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The universe is made of stories, not atoms.</p>
+> <p>If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.</p>
 >
-> <p>- Muriel Rukeyser</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

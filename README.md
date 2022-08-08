@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The eye sees only what the mind is prepared to comprehend.</p>
+> <p>If you can't explain it simply, you don't understand it well enough.</p>
 >
-> <p>- Henri Bergson</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Happiness often sneaks in through a door you didn't know you left open.</p>
+> <p>When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.</p>
 >
-> <p>- John Barrymore</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

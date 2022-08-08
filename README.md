@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Each day can be one of triumph if you keep up your interests.</p>
+> <p>Trust your hunches. They're usually based on facts filed away just below the conscious level.</p>
 >
-> <p>- George Matthew Adams</p>
+> <p>- Joyce Brothers</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We make a living by what we get, but we make a life by what we give.</p>
+> <p>The universe is made of stories, not atoms.</p>
 >
-> <p>- Winston Churchill</p>
+> <p>- Muriel Rukeyser</p>
 
 Check back at the top of the hour for a new quote!
 

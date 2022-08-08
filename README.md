@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The world is a book, and those who do not travel read only a page.</p>
+> <p>Happiness often sneaks in through a door you didn't know you left open.</p>
 >
-> <p>- Augustinus Sanctus</p>
+> <p>- John Barrymore</p>
 
 Check back at the top of the hour for a new quote!
 

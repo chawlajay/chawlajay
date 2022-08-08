@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Set your goals high, and don't stop till you get there.</p>
+> <p>The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.</p>
 >
-> <p>- Bo Jackson</p>
+> <p>- Anais Nin</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The pain passes, but the beauty remains.</p>
+> <p>Don't believe what your eyes are telling you. All they show is limitation. Look with your understanding, find out what you already know, and you'll see the way to fly.</p>
 >
-> <p>- Pierre Auguste Renoir</p>
+> <p>- Richard Bach</p>
 
 Check back at the top of the hour for a new quote!
 

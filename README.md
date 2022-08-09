@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You can adopt the attitude there is nothing you can do, or you can see the challenge as your call to action.</p>
+> <p>Love doesn't make the world go round, love is what makes the ride worthwhile.</p>
 >
-> <p>- Catherine Pulsifer</p>
+> <p>- Elizabeth Browning</p>
 
 Check back at the top of the hour for a new quote!
 

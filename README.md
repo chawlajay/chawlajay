@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>What we see is mainly what we look for.</p>
+> <p>Enjoy the little things, for one day you may look back and realize they were the big things.</p>
 >
-> <p>- null</p>
+> <p>- Robert Brault</p>
 
 Check back at the top of the hour for a new quote!
 

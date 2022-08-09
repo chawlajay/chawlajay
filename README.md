@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.</p>
+> <p>It is the greatest of all mistakes to do nothing because you can only do little do what you can.</p>
 >
-> <p>- Buddha</p>
+> <p>- Sydney Smith</p>
 
 Check back at the top of the hour for a new quote!
 

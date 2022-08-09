@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Men are disturbed not by things, but by the view which they take of them.</p>
+> <p>Be the change that you want to see in the world.</p>
 >
-> <p>- Epictetus</p>
+> <p>- Mohandas Gandhi</p>
 
 Check back at the top of the hour for a new quote!
 

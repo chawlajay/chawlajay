@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>What you are is what you have been. What you will be is what you do now.</p>
+> <p>Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.</p>
 >
-> <p>- Buddha</p>
+> <p>- Robert Fulghum</p>
 
 Check back at the top of the hour for a new quote!
 

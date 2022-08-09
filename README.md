@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Time you enjoy wasting, was not wasted.</p>
+> <p>Someone is special only if you tell them.</p>
 >
-> <p>- John Lennon</p>
+> <p>- Byron Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

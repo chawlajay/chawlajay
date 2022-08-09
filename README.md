@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Don't focus on making the right decision, focus on making the decision the right one.</p>
+> <p>You can adopt the attitude there is nothing you can do, or you can see the challenge as your call to action.</p>
 >
-> <p>- null</p>
+> <p>- Catherine Pulsifer</p>
 
 Check back at the top of the hour for a new quote!
 

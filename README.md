@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Enjoy the little things, for one day you may look back and realize they were the big things.</p>
+> <p>In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.</p>
 >
-> <p>- Robert Brault</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>In order to win, you must expect to win.</p>
+> <p>The noblest worship is to make yourself as good and as just as you can.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Isocrates</p>
 
 Check back at the top of the hour for a new quote!
 

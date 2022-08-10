@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The meaning I picked, the one that changed my life: Overcome fear, behold wonder.</p>
+> <p>I love my past. I love my present. I'm not ashamed of what Ive had, and I'm not sad because I have it no longer.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- Colette</p>
 
 Check back at the top of the hour for a new quote!
 

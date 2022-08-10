@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Argue for your limitations, and sure enough they're yours.</p>
+> <p>People of mediocre ability sometimes achieve outstanding success because they don't know when to quit. Most men succeed because they are determined to.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- George Allen</p>
 
 Check back at the top of the hour for a new quote!
 

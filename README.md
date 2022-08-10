@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you can't explain it simply, you don't understand it well enough.</p>
+> <p>Turn your face toward the sun and the shadows will fall behind you.</p>
 >
-> <p>- Albert Einstein</p>
+> <p>- Maori proverb</p>
 
 Check back at the top of the hour for a new quote!
 

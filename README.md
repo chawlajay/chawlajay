@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>It is the greatest of all mistakes to do nothing because you can only do little do what you can.</p>
+> <p>Positive thinking will let you do everything better than negative thinking will.</p>
 >
-> <p>- Sydney Smith</p>
+> <p>- Zig Ziglar</p>
 
 Check back at the top of the hour for a new quote!
 

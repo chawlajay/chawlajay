@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A wise man will make more opportunities than he finds.</p>
+> <p>Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.</p>
 >
-> <p>- Francis Bacon</p>
+> <p>- Douglas Adams</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When you judge another, you do not define them, you define yourself.</p>
+> <p>Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.</p>
 >
-> <p>- Wayne Dyer</p>
+> <p>- Bruce Lee</p>
 
 Check back at the top of the hour for a new quote!
 

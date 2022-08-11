@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Men are disturbed not by things, but by the view which they take of them.</p>
+> <p>It is through science that we prove, but through intuition that we discover.</p>
 >
-> <p>- Epictetus</p>
+> <p>- Jules Poincare</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Know, first, who you are, and then adorn yourself accordingly.</p>
+> <p>Never idealize others. They will never live up to your expectations.</p>
 >
-> <p>- Epictetus</p>
+> <p>- Leo Buscaglia</p>
 
 Check back at the top of the hour for a new quote!
 

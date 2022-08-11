@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To choose what is difficult all ones days, as if it were easy, that is faith.</p>
+> <p>A true friend is the most precious of all possessions and the one we take the least thought about acquiring.</p>
 >
-> <p>- W. H. Auden</p>
+> <p>- Francois de La Rochefoucauld</p>
 
 Check back at the top of the hour for a new quote!
 

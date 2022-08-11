@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Time changes everything except something within us which is always surprised by change.</p>
+> <p>A man's dreams are an index to his greatness.</p>
 >
-> <p>- Thomas Hardy</p>
+> <p>- Zadok Rabinowitz</p>
 
 Check back at the top of the hour for a new quote!
 

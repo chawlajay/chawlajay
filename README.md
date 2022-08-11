@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others.</p>
+> <p>The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.</p>
 >
-> <p>- Anne Lindbergh</p>
+> <p>- Thich Nhat Hanh</p>
 
 Check back at the top of the hour for a new quote!
 

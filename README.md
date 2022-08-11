@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.</p>
+> <p>Giving up doesn't always mean you are weak; sometimes it means that you are strong enough to let go.</p>
 >
-> <p>- Helen Keller</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Consider that not only do negative thoughts and emotions destroy our experience of peace, they also undermine our health.</p>
+> <p>Be thankful when you don't know something for it gives you the opportunity to learn.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- null</p>
 
 Check back at the top of the hour for a new quote!
 

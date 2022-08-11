@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.</p>
+> <p>Time changes everything except something within us which is always surprised by change.</p>
 >
-> <p>- Thich Nhat Hanh</p>
+> <p>- Thomas Hardy</p>
 
 Check back at the top of the hour for a new quote!
 

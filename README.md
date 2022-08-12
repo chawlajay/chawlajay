@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Most great people have attained their greatest success just one step beyond their greatest failure.</p>
+> <p>Excellence is not a skill. It is an attitude.</p>
 >
-> <p>- Napoleon Hill</p>
+> <p>- Ralph Marston</p>
 
 Check back at the top of the hour for a new quote!
 

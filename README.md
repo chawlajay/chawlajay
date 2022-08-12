@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Trust your hunches. They're usually based on facts filed away just below the conscious level.</p>
+> <p>The beginning is always today.</p>
 >
-> <p>- Joyce Brothers</p>
+> <p>- Mary Wollstonecraft</p>
 
 Check back at the top of the hour for a new quote!
 

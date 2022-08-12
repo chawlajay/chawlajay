@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.</p>
+> <p>Great ideas often receive violent opposition from mediocre minds.</p>
 >
-> <p>- Buddha</p>
+> <p>- Albert Einstein</p>
 
 Check back at the top of the hour for a new quote!
 

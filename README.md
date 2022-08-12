@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Saying thank you is more than good manners. It is good spirituality.</p>
+> <p>A man is not old as long as he is seeking something.</p>
 >
-> <p>- Alfred Painter</p>
+> <p>- Edmond Rostand</p>
 
 Check back at the top of the hour for a new quote!
 

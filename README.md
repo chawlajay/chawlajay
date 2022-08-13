@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>You can't trust without risk but neither can you live in a cocoon.</p>
+> <p>Your ability to learn faster than your competition is your only sustainable competitive advantage.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- Arie de Gues</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Until you make peace with who you are, you'll never be content with what you have.</p>
+> <p>Happiness comes when your work and words are of benefit to yourself and others.</p>
 >
-> <p>- Doris Mortman</p>
+> <p>- Buddha</p>
 
 Check back at the top of the hour for a new quote!
 

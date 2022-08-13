@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The ladder of success is never crowded at the top.</p>
+> <p>More often than not, anger is actually an indication of weakness rather than of strength.</p>
 >
-> <p>- Napoleon Hill</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

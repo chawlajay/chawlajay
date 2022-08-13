@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Your ability to learn faster than your competition is your only sustainable competitive advantage.</p>
+> <p>He who deliberates fully before taking a step will spend his entire life on one leg.</p>
 >
-> <p>- Arie de Gues</p>
+> <p>- Chinese proverb</p>
 
 Check back at the top of the hour for a new quote!
 

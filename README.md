@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A gem cannot be polished without friction, nor a man perfected without trials.</p>
+> <p>Victory belongs to the most persevering.</p>
 >
-> <p>- Chinese proverb</p>
+> <p>- Napoleon Bonaparte</p>
 
 Check back at the top of the hour for a new quote!
 

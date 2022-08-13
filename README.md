@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Strength does not come from physical capacity. It comes from an indomitable will.</p>
+> <p>I think you can have moderate success by copying something else, but if you really want to knock it out of the park, you have to do something different and take chances.</p>
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Lee Womack</p>
 
 Check back at the top of the hour for a new quote!
 

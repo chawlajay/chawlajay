@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you come to a fork in the road, take it.</p>
+> <p>Why compare yourself with others? No one in the entire world can do a better job of being you than you.</p>
 >
 > <p>- null</p>
 

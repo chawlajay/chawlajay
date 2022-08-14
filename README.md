@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>There is one thing you have got to learn about our movement. Three people are better than no people.</p>
+> <p>Be kind whenever possible. It is always possible.</p>
 >
-> <p>- Fannie Hamer</p>
+> <p>- Dalai Lama</p>
 
 Check back at the top of the hour for a new quote!
 

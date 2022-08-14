@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The less effort, the faster and more powerful you will be.</p>
+> <p>Love all, trust a few, do wrong to none.</p>
 >
-> <p>- Bruce Lee</p>
+> <p>- William Shakespeare</p>
 
 Check back at the top of the hour for a new quote!
 

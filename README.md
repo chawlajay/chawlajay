@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Be kind whenever possible. It is always possible.</p>
+> <p>It is not enough to have a good mind; the main thing is to use it well.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Rene Descartes</p>
 
 Check back at the top of the hour for a new quote!
 

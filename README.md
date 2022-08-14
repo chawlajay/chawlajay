@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Why compare yourself with others? No one in the entire world can do a better job of being you than you.</p>
+> <p>Set your goals high, and don't stop till you get there.</p>
 >
-> <p>- null</p>
+> <p>- Bo Jackson</p>
 
 Check back at the top of the hour for a new quote!
 

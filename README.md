@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Thought is the blossom; language the bud; action the fruit behind it.</p>
+> <p>Beware of missing chances; otherwise it may be altogether too late some day.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Franz Liszt</p>
 
 Check back at the top of the hour for a new quote!
 

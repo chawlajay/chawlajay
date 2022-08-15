@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.</p>
+> <p>Nature is a mutable cloud which is always and never the same.</p>
 >
-> <p>- Buddha</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

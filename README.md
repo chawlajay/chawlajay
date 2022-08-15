@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>The greatest way to live with honor in this world is to be what we pretend to be.</p>
+> <p>How wonderful that we have met with a paradox. Now we have some hope of making progress.</p>
 >
-> <p>- Socrates</p>
+> <p>- Niels Bohr</p>
 
 Check back at the top of the hour for a new quote!
 

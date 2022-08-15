@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Although there may be tragedy in your life, there's always a possibility to triumph. It doesn't matter who you are, where you come from. The ability to triumph begins with you. Always.</p>
+> <p>You really can change the world if you care enough.</p>
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Marian Edelman</p>
 
 Check back at the top of the hour for a new quote!
 

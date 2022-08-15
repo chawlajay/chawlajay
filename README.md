@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.</p>
+> <p>Although there may be tragedy in your life, there's always a possibility to triumph. It doesn't matter who you are, where you come from. The ability to triumph begins with you. Always.</p>
 >
-> <p>- John Steinbeck</p>
+> <p>- Oprah Winfrey</p>
 
 Check back at the top of the hour for a new quote!
 

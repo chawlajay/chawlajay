@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Nature is a mutable cloud which is always and never the same.</p>
+> <p>Well done is better than well said.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- Benjamin Franklin</p>
 
 Check back at the top of the hour for a new quote!
 

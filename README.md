@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Beware of missing chances; otherwise it may be altogether too late some day.</p>
+> <p>The greatest way to live with honor in this world is to be what we pretend to be.</p>
 >
-> <p>- Franz Liszt</p>
+> <p>- Socrates</p>
 
 Check back at the top of the hour for a new quote!
 

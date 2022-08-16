@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Be gentle first with yourself if you wish to be gentle with others.</p>
+> <p>We learn what we have said from those who listen to our speaking.</p>
 >
-> <p>- Lama Yeshe</p>
+> <p>- Kenneth Patton</p>
 
 Check back at the top of the hour for a new quote!
 

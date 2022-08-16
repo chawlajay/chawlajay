@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>In all things of nature there is something of the marvellous.</p>
+> <p>I'm not interested in age. People who tell me their age are silly. You're as old as you feel.</p>
 >
-> <p>- Aristotle</p>
+> <p>- Elizabeth Arden</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To be happy is to be able to become aware of oneself without fright.</p>
+> <p>We can only learn to love by loving.</p>
 >
-> <p>- Walter Benjamin</p>
+> <p>- Iris Murdoch</p>
 
 Check back at the top of the hour for a new quote!
 

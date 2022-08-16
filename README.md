@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We can only learn to love by loving.</p>
+> <p>Be gentle first with yourself if you wish to be gentle with others.</p>
 >
-> <p>- Iris Murdoch</p>
+> <p>- Lama Yeshe</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.</p>
+> <p>Light tomorrow with today!</p>
 >
-> <p>- Amy Tan</p>
+> <p>- Elizabeth Browning</p>
 
 Check back at the top of the hour for a new quote!
 

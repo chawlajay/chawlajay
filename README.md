@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.</p>
+> <p>I am not bothered by the fact that I am unknown. I am bothered when I do not know others.</p>
 >
-> <p>- W. Clement Stone</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

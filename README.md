@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Light tomorrow with today!</p>
+> <p>Happiness is when what you think, what you say, and what you do are in harmony.</p>
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Mohandas Gandhi</p>
 
 Check back at the top of the hour for a new quote!
 

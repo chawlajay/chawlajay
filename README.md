@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture.</p>
+> <p>When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.</p>
 >
-> <p>- Byron Pulsifer</p>
+> <p>- W. Clement Stone</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Genuine love should first be directed at oneself if we do not love ourselves, how can we love others?</p>
+> <p>Action will remove the doubts that theory cannot solve.</p>
 >
-> <p>- Dalai Lama</p>
+> <p>- Tehyi Hsieh</p>
 
 Check back at the top of the hour for a new quote!
 

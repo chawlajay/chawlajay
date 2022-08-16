@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>A man may fulfil the object of his existence by asking a question he cannot answer, and attempting a task he cannot achieve.</p>
+> <p>If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace.</p>
 >
-> <p>- Oliver Holmes</p>
+> <p>- Ajahn Chah</p>
 
 Check back at the top of the hour for a new quote!
 

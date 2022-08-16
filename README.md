@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace.</p>
+> <p>Build a better mousetrap and the world will beat a path to your door.</p>
 >
-> <p>- Ajahn Chah</p>
+> <p>- Ralph Emerson</p>
 
 Check back at the top of the hour for a new quote!
 

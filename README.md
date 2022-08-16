@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Love all, trust a few, do wrong to none.</p>
+> <p>A man may fulfil the object of his existence by asking a question he cannot answer, and attempting a task he cannot achieve.</p>
 >
-> <p>- William Shakespeare</p>
+> <p>- Oliver Holmes</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.</p>
+> <p>Life is movement-we breathe, we eat, we walk, we move!</p>
 >
-> <p>- Aristotle</p>
+> <p>- John Pierrakos</p>
 
 Check back at the top of the hour for a new quote!
 

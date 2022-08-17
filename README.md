@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Creativity comes from trust. Trust your instincts. And never hope more than you work.</p>
+> <p>Our greatness lies not so much in being able to remake the world as being able to remake ourselves.</p>
 >
-> <p>- Rita Mae Brown</p>
+> <p>- Mahatma Gandhi</p>
 
 Check back at the top of the hour for a new quote!
 

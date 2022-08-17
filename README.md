@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Everything can be taken from a man but ... the last of the human freedoms to choose ones attitude in any given set of circumstances, to choose ones own way.</p>
+> <p>As we grow as unique persons, we learn to respect the uniqueness of others.</p>
 >
-> <p>- Victor Frankl</p>
+> <p>- Robert Schuller</p>
 
 Check back at the top of the hour for a new quote!
 

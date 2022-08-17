@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Progress always involves risks. You can't steal second base and keep your foot on first.</p>
+> <p>An invasion of armies can be resisted, but not an idea whose time has come.</p>
 >
-> <p>- Frederick Wilcox</p>
+> <p>- Victor Hugo</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>He who knows, does not speak. He who speaks, does not know.</p>
+> <p>Life is really simple, but we insist on making it complicated.</p>
 >
-> <p>- Lao Tzu</p>
+> <p>- Confucius</p>
 
 Check back at the top of the hour for a new quote!
 

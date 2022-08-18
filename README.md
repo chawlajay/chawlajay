@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Never mistake activity for achievement.</p>
+> <p>Well done is better than well said.</p>
 >
-> <p>- John Wooden</p>
+> <p>- Benjamin Franklin</p>
 
 Check back at the top of the hour for a new quote!
 

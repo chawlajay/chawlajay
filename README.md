@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If you love someone, set them free. If they come back they're yours; if they don't they never were.</p>
+> <p>Never tell a young person that anything cannot be done. God may have been waiting centuries for someone ignorant enough of the impossible to do that very thing.</p>
 >
-> <p>- Richard Bach</p>
+> <p>- John Holmes</p>
 
 Check back at the top of the hour for a new quote!
 

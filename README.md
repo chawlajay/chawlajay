@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.</p>
+> <p>It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.</p>
 >
-> <p>- James Freeman Clarke</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Check back at the top of the hour for a new quote!
 

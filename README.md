@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Courage is going from failure to failure without losing enthusiasm.</p>
+> <p>Never mistake activity for achievement.</p>
 >
-> <p>- Winston Churchill</p>
+> <p>- John Wooden</p>
 
 Check back at the top of the hour for a new quote!
 

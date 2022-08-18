@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.</p>
+> <p>We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.</p>
 >
-> <p>- Ralph Emerson</p>
+> <p>- James Freeman Clarke</p>
 
 Check back at the top of the hour for a new quote!
 

@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Fears are nothing more than a state of mind.</p>
+> <p>Do good by stealth, and blush to find it fame.</p>
 >
-> <p>- Napoleon Hill</p>
+> <p>- Alexander Pope</p>
 
 Check back at the top of the hour for a new quote!
 

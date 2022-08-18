@@ -31,9 +31,9 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ## ✨How about an Inspirational quote before you go
-> <p>Do good by stealth, and blush to find it fame.</p>
+> <p>Who looks outside, dreams; who looks inside, awakes.</p>
 >
-> <p>- Alexander Pope</p>
+> <p>- Carl Jung</p>
 
 Check back at the top of the hour for a new quote!
 

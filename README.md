@@ -39,5 +39,5 @@ Check back at the top of the hour for a new quote!
 
 - - -
 
-![Commits Badge](https://badges.pufler.dev/commits/monthly/chawlajay)
+<!-- ![Commits Badge](https://badges.pufler.dev/commits/monthly/chawlajay) -->
 [![Channel Views](https://img.shields.io/youtube/channel/views/UCW-Wc0jjph3L2dMbGcxj4Yg?style=social)](https://www.youtube.com/c/JayChawla)
